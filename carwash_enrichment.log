@@ -1321,3 +1321,636 @@ Error trying to connect to socket: closing socket - timed out
 [2026-03-10 19:12:17] INFO      -> 2 sources: website, domain_intel
 [2026-03-10 19:12:17] INFO    [268/500] Enriching: Mr Kleen Car Wash & Detailing Center (mrkleencarwashva.com)
 [2026-03-10 19:12:17] INFO      Layer 1: Website scrape -> mrkleencarwashva.com
+[2026-03-10 19:12:27] INFO      Layer 2: Domain intel -> mrkleencarwashva.com
+[2026-03-10 19:12:28] INFO      Layer 3: SEC EDGAR -> Mr Kleen Car Wash & Detailing Center
+[2026-03-10 19:12:28] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:12:29] INFO    [269/500] Enriching: Freedom Wash (freedom-wash.com)
+[2026-03-10 19:12:29] INFO      Layer 1: Website scrape -> freedom-wash.com
+[2026-03-10 19:13:18] INFO      Layer 2: Domain intel -> freedom-wash.com
+[2026-03-10 19:13:21] INFO      Layer 3: SEC EDGAR -> Freedom Wash
+[2026-03-10 19:13:22] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:13:23] INFO    [270/500] Enriching: Flagstop Car Wash (flagstopcarwash.com)
+[2026-03-10 19:13:23] INFO      Layer 1: Website scrape -> flagstopcarwash.com
+[2026-03-10 19:13:32] INFO      Layer 2: Domain intel -> flagstopcarwash.com
+[2026-03-10 19:13:32] INFO      Layer 3: SEC EDGAR -> Flagstop Car Wash
+[2026-03-10 19:13:32] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:13:33] INFO    [271/500] Enriching: Clean Freak Car Wash (cleanfreakcarwash.com)
+[2026-03-10 19:13:33] INFO      Layer 1: Website scrape -> cleanfreakcarwash.com
+[2026-03-10 19:14:00] INFO      Layer 2: Domain intel -> cleanfreakcarwash.com
+[2026-03-10 19:14:00] INFO      Layer 3: SEC EDGAR -> Clean Freak Car Wash
+[2026-03-10 19:14:01] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:14:01] INFO    [272/500] Enriching: WASHGUYS Car Wash (washguystx.com)
+[2026-03-10 19:14:01] INFO      Layer 1: Website scrape -> washguystx.com
+[2026-03-10 19:14:11] INFO      Layer 2: Domain intel -> washguystx.com
+[2026-03-10 19:14:12] INFO      Layer 3: SEC EDGAR -> WASHGUYS Car Wash
+[2026-03-10 19:14:12] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:14:13] INFO    [273/500] Enriching: Dino Dash Car Wash (dinodashcarwash.com)
+[2026-03-10 19:14:13] INFO      Layer 1: Website scrape -> dinodashcarwash.com
+[2026-03-10 19:14:45] INFO      Layer 2: Domain intel -> dinodashcarwash.com
+[2026-03-10 19:14:46] INFO      Layer 3: SEC EDGAR -> Dino Dash Car Wash
+[2026-03-10 19:14:47] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:14:47] INFO    [274/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:14:47] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:14:56] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:14:56] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:14:57] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:14:57] INFO    [275/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:14:57] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:15:06] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:15:06] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:15:06] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:15:07] INFO    [276/500] Enriching: J's Ultimate Hand Car Wash (ultimatehandcarwash.com)
+[2026-03-10 19:15:07] INFO      Layer 1: Website scrape -> ultimatehandcarwash.com
+[2026-03-10 19:15:34] INFO      Layer 2: Domain intel -> ultimatehandcarwash.com
+[2026-03-10 19:15:35] INFO      Layer 3: SEC EDGAR -> J's Ultimate Hand Car Wash
+[2026-03-10 19:15:36] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:15:36] INFO    [277/500] Enriching: McKinley Car Wash (mckinleycarwash.com)
+[2026-03-10 19:15:36] INFO      Layer 1: Website scrape -> mckinleycarwash.com
+[2026-03-10 19:15:50] INFO      Layer 2: Domain intel -> mckinleycarwash.com
+[2026-03-10 19:15:51] INFO      Layer 3: SEC EDGAR -> McKinley Car Wash
+[2026-03-10 19:15:52] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:15:52] INFO    [278/500] Enriching: McKinley Car Wash (mckinleycarwash.com)
+[2026-03-10 19:15:52] INFO      Layer 1: Website scrape -> mckinleycarwash.com
+[2026-03-10 19:16:03] INFO      Layer 2: Domain intel -> mckinleycarwash.com
+[2026-03-10 19:16:03] INFO      Layer 3: SEC EDGAR -> McKinley Car Wash
+[2026-03-10 19:16:03] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:16:04] INFO    [279/500] Enriching: Gateway Express Car Wash (gatewaycw.com)
+[2026-03-10 19:16:04] INFO      Layer 1: Website scrape -> gatewaycw.com
+[2026-03-10 19:16:12] INFO      Layer 2: Domain intel -> gatewaycw.com
+[2026-03-10 19:16:13] INFO      Layer 3: SEC EDGAR -> Gateway Express Car Wash
+[2026-03-10 19:16:14] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:16:14] INFO    [280/500] Enriching: Sparkle Car Wash (sparklecarwash.com)
+[2026-03-10 19:16:14] INFO      Layer 1: Website scrape -> sparklecarwash.com
+[2026-03-10 19:16:33] INFO      Layer 2: Domain intel -> sparklecarwash.com
+[2026-03-10 19:16:34] INFO      Layer 3: SEC EDGAR -> Sparkle Car Wash
+[2026-03-10 19:16:35] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:16:35] INFO    [281/500] Enriching: Charlie's Car Wash (charlies.com)
+[2026-03-10 19:16:35] INFO      Layer 1: Website scrape -> charlies.com
+[2026-03-10 19:16:45] INFO      Layer 2: Domain intel -> charlies.com
+[2026-03-10 19:16:47] INFO      Layer 3: SEC EDGAR -> Charlie's Car Wash
+[2026-03-10 19:16:47] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:16:48] INFO    [282/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:16:48] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:17:12] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:17:12] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:17:12] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:17:13] INFO    [283/500] Enriching: Zippy Auto Wash (zippyautowash.com)
+[2026-03-10 19:17:13] INFO      Layer 1: Website scrape -> zippyautowash.com
+[2026-03-10 19:17:23] INFO      Layer 2: Domain intel -> zippyautowash.com
+[2026-03-10 19:17:25] INFO      Layer 3: SEC EDGAR -> Zippy Auto Wash
+[2026-03-10 19:17:25] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:17:26] INFO    [284/500] Enriching: Zippy Auto Wash (zippyautowash.com)
+[2026-03-10 19:17:26] INFO      Layer 1: Website scrape -> zippyautowash.com
+[2026-03-10 19:17:35] INFO      Layer 2: Domain intel -> zippyautowash.com
+[2026-03-10 19:17:35] INFO      Layer 3: SEC EDGAR -> Zippy Auto Wash
+[2026-03-10 19:17:35] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:17:36] INFO    [285/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:17:36] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:17:45] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:17:45] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:17:45] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:17:46] INFO    [286/500] Enriching: Camel Express Car Wash (camelexpress.com)
+[2026-03-10 19:17:46] INFO      Layer 1: Website scrape -> camelexpress.com
+[2026-03-10 19:17:55] INFO      Layer 2: Domain intel -> camelexpress.com
+[2026-03-10 19:17:56] INFO      Layer 3: SEC EDGAR -> Camel Express Car Wash
+[2026-03-10 19:17:56] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:17:57] INFO    [287/500] Enriching: Clean (cleanbanditcarwash.com)
+[2026-03-10 19:17:57] INFO      Layer 1: Website scrape -> cleanbanditcarwash.com
+[2026-03-10 19:18:05] INFO      Layer 2: Domain intel -> cleanbanditcarwash.com
+[2026-03-10 19:18:06] INFO      Layer 3: SEC EDGAR -> Clean
+[2026-03-10 19:18:06] INFO      -> 3 sources: website, domain_intel, sec_edgar
+[2026-03-10 19:18:07] INFO    [288/500] Enriching: Surf Thru Express Car Wash (surfthruexpress.com)
+[2026-03-10 19:18:07] INFO      Layer 1: Website scrape -> surfthruexpress.com
+[2026-03-10 19:18:16] INFO      Layer 2: Domain intel -> surfthruexpress.com
+[2026-03-10 19:18:17] INFO      Layer 3: SEC EDGAR -> Surf Thru Express Car Wash
+[2026-03-10 19:18:18] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:18:18] INFO    [289/500] Enriching: Buddy Bear Car Wash (buddybearcarwash.com)
+[2026-03-10 19:18:18] INFO      Layer 1: Website scrape -> buddybearcarwash.com
+[2026-03-10 19:18:33] INFO      Layer 2: Domain intel -> buddybearcarwash.com
+[2026-03-10 19:18:34] INFO      Layer 3: SEC EDGAR -> Buddy Bear Car Wash
+[2026-03-10 19:18:35] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:18:35] INFO    [290/500] Enriching: ClearWater Express Wash (clearwaterexpresswash.com)
+[2026-03-10 19:18:35] INFO      Layer 1: Website scrape -> clearwaterexpresswash.com
+[2026-03-10 19:18:50] INFO      Layer 2: Domain intel -> clearwaterexpresswash.com
+[2026-03-10 19:18:50] INFO      Layer 3: SEC EDGAR -> ClearWater Express Wash
+[2026-03-10 19:18:50] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:18:51] INFO    [291/500] Enriching: Sheetz (orders.sheetz.com)
+[2026-03-10 19:18:51] INFO      Layer 1: Website scrape -> orders.sheetz.com
+[2026-03-10 19:19:00] INFO      Layer 2: Domain intel -> orders.sheetz.com
+[2026-03-10 19:19:00] INFO      Layer 3: SEC EDGAR -> Sheetz
+[2026-03-10 19:19:00] INFO      -> 3 sources: website, domain_intel, sec_edgar
+[2026-03-10 19:19:01] INFO    [292/500] Enriching: Sparkling Image Car Wash (sparklingimage.com)
+[2026-03-10 19:19:01] INFO      Layer 1: Website scrape -> sparklingimage.com
+[2026-03-10 19:19:09] INFO      Layer 2: Domain intel -> sparklingimage.com
+[2026-03-10 19:19:11] INFO      Layer 3: SEC EDGAR -> Sparkling Image Car Wash
+[2026-03-10 19:19:11] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:19:12] INFO    [293/500] Enriching: Tsunami Express Car Wash (tsunamiexpress.com)
+[2026-03-10 19:19:12] INFO      Layer 1: Website scrape -> tsunamiexpress.com
+[2026-03-10 19:19:23] INFO      Layer 2: Domain intel -> tsunamiexpress.com
+[2026-03-10 19:19:23] INFO      Layer 3: SEC EDGAR -> Tsunami Express Car Wash
+[2026-03-10 19:19:24] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:19:24] INFO    [294/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:19:24] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:19:49] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:19:49] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:19:49] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:19:50] INFO    [295/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:19:50] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:20:14] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:20:14] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:20:15] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:20:16] INFO    [296/500] Enriching: Charlie's Car Wash (charlies.com)
+[2026-03-10 19:20:16] INFO      Layer 1: Website scrape -> charlies.com
+[2026-03-10 19:20:27] INFO      Layer 2: Domain intel -> charlies.com
+[2026-03-10 19:20:27] INFO      Layer 3: SEC EDGAR -> Charlie's Car Wash
+[2026-03-10 19:20:27] INFO      Email find: General Managers @ charlies.com
+[2026-03-10 19:20:34] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:20:34] INFO    [297/500] Enriching: Town & Country Hand Car Wash | Auto Detailing Center (tcwash.com)
+[2026-03-10 19:20:34] INFO      Layer 1: Website scrape -> tcwash.com
+[2026-03-10 19:20:44] INFO      Layer 2: Domain intel -> tcwash.com
+[2026-03-10 19:20:45] INFO      Layer 3: SEC EDGAR -> Town & Country Hand Car Wash | Auto Detailing Center
+[2026-03-10 19:20:46] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:20:46] INFO    [298/500] Enriching: Prestige Car Wash (prestigewash.com)
+[2026-03-10 19:20:46] INFO      Layer 1: Website scrape -> prestigewash.com
+[2026-03-10 19:21:38] INFO      Layer 2: Domain intel -> prestigewash.com
+[2026-03-10 19:21:38] INFO      Layer 3: SEC EDGAR -> Prestige Car Wash
+[2026-03-10 19:21:39] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:21:40] INFO    [299/500] Enriching: Victory Car Wash (victorycarwashfl.com)
+[2026-03-10 19:21:40] INFO      Layer 1: Website scrape -> victorycarwashfl.com
+[2026-03-10 19:21:48] INFO      Layer 2: Domain intel -> victorycarwashfl.com
+[2026-03-10 19:21:50] INFO      Layer 3: SEC EDGAR -> Victory Car Wash
+[2026-03-10 19:21:50] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:21:51] INFO    [300/500] Enriching: Crew Carwash (locations.crewcarwash.com)
+[2026-03-10 19:21:51] INFO      Layer 1: Website scrape -> locations.crewcarwash.com
+[2026-03-10 19:21:59] INFO      Layer 2: Domain intel -> locations.crewcarwash.com
+[2026-03-10 19:21:59] INFO      Layer 3: SEC EDGAR -> Crew Carwash
+[2026-03-10 19:22:00] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:22:01] INFO    [301/500] Enriching: Sharonville Car Wash & Detail Center (sharonvillecarwash.com)
+[2026-03-10 19:22:01] INFO      Layer 1: Website scrape -> sharonvillecarwash.com
+[2026-03-10 19:22:10] INFO      Layer 2: Domain intel -> sharonvillecarwash.com
+[2026-03-10 19:22:11] INFO      Layer 3: SEC EDGAR -> Sharonville Car Wash & Detail Center
+[2026-03-10 19:22:12] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:22:12] INFO    [302/500] Enriching: Flagship Carwash (flagshipcarwash.com)
+[2026-03-10 19:22:12] INFO      Layer 1: Website scrape -> flagshipcarwash.com
+[2026-03-10 19:22:21] INFO      Layer 2: Domain intel -> flagshipcarwash.com
+[2026-03-10 19:22:22] INFO      Layer 3: SEC EDGAR -> Flagship Carwash
+[2026-03-10 19:22:23] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:22:23] INFO    [303/500] Enriching: WashU Car Wash (washucarwash.com)
+[2026-03-10 19:22:23] INFO      Layer 1: Website scrape -> washucarwash.com
+[2026-03-10 19:22:47] INFO      Layer 2: Domain intel -> washucarwash.com
+[2026-03-10 19:22:47] INFO      Layer 3: SEC EDGAR -> WashU Car Wash
+[2026-03-10 19:22:48] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:22:48] INFO    [304/500] Enriching: Sparkling Image Car Wash (sparklingimage.com)
+[2026-03-10 19:22:48] INFO      Layer 1: Website scrape -> sparklingimage.com
+[2026-03-10 19:22:57] INFO      Layer 2: Domain intel -> sparklingimage.com
+[2026-03-10 19:22:57] INFO      Layer 3: SEC EDGAR -> Sparkling Image Car Wash
+[2026-03-10 19:22:58] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:22:58] INFO    [305/500] Enriching: Sparkling Image Car Wash (sparklingimage.com)
+[2026-03-10 19:22:58] INFO      Layer 1: Website scrape -> sparklingimage.com
+[2026-03-10 19:23:07] INFO      Layer 2: Domain intel -> sparklingimage.com
+[2026-03-10 19:23:07] INFO      Layer 3: SEC EDGAR -> Sparkling Image Car Wash
+[2026-03-10 19:23:08] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:23:08] INFO    [306/500] Enriching: Woodie's Wash Shack - Fishhawk (woodieswash.com)
+[2026-03-10 19:23:08] INFO      Layer 1: Website scrape -> woodieswash.com
+[2026-03-10 19:23:19] INFO      Layer 2: Domain intel -> woodieswash.com
+[2026-03-10 19:23:19] INFO      Layer 3: SEC EDGAR -> Woodie's Wash Shack - Fishhawk
+[2026-03-10 19:23:20] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:23:20] INFO    [307/500] Enriching: Cobblestone Car Wash (cobblestone.com)
+[2026-03-10 19:23:20] INFO      Layer 1: Website scrape -> cobblestone.com
+[2026-03-10 19:23:32] INFO      Layer 2: Domain intel -> cobblestone.com
+[2026-03-10 19:23:32] INFO      Layer 3: SEC EDGAR -> Cobblestone Car Wash
+[2026-03-10 19:23:33] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:23:33] INFO    [308/500] Enriching: WOW Carwash - N. Rancho (wowwash.com)
+[2026-03-10 19:23:33] INFO      Layer 1: Website scrape -> wowwash.com
+[2026-03-10 19:24:00] INFO      Layer 2: Domain intel -> wowwash.com
+[2026-03-10 19:24:00] INFO      Layer 3: SEC EDGAR -> WOW Carwash - N. Rancho
+[2026-03-10 19:24:01] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:24:01] INFO    [309/500] Enriching: Sharky's Carwash Sucursal Salinas (facebook.com)
+[2026-03-10 19:24:01] INFO      Layer 1: Website scrape -> facebook.com
+[2026-03-10 19:24:11] INFO      Layer 2: Domain intel -> facebook.com
+[2026-03-10 19:24:11] INFO      Layer 3: SEC EDGAR -> Sharky's Carwash Sucursal Salinas
+[2026-03-10 19:24:12] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:24:13] INFO    [310/500] Enriching: Tidal Wave Auto Spa | Car Wash (tidalwaveautospa.com)
+[2026-03-10 19:24:13] INFO      Layer 1: Website scrape -> tidalwaveautospa.com
+[2026-03-10 19:24:22] INFO      Layer 2: Domain intel -> tidalwaveautospa.com
+[2026-03-10 19:24:22] INFO      Layer 3: SEC EDGAR -> Tidal Wave Auto Spa | Car Wash
+[2026-03-10 19:24:22] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:24:23] INFO    [311/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:24:23] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:24:32] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:24:32] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:24:33] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:24:33] INFO    [312/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:24:33] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:24:42] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:24:42] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:24:42] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:24:43] INFO    [313/500] Enriching: Wash Hounds Car Wash & Detailing (washhounds.com)
+[2026-03-10 19:24:43] INFO      Layer 1: Website scrape -> washhounds.com
+[2026-03-10 19:25:03] INFO      Layer 2: Domain intel -> washhounds.com
+[2026-03-10 19:25:03] INFO      Layer 3: SEC EDGAR -> Wash Hounds Car Wash & Detailing
+[2026-03-10 19:25:03] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:25:04] INFO    [314/500] Enriching: Dirty Dog's Car Wash Tampa (dirtydogscarwash.com)
+[2026-03-10 19:25:04] INFO      Layer 1: Website scrape -> dirtydogscarwash.com
+[2026-03-10 19:25:12] INFO      Layer 2: Domain intel -> dirtydogscarwash.com
+[2026-03-10 19:25:12] INFO      Layer 3: SEC EDGAR -> Dirty Dog's Car Wash Tampa
+[2026-03-10 19:25:14] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:25:15] INFO    [315/500] Enriching: Finish Line Car Wash (flcarwash.com)
+[2026-03-10 19:25:15] INFO      Layer 1: Website scrape -> flcarwash.com
+[2026-03-10 19:25:41] INFO      Layer 2: Domain intel -> flcarwash.com
+[2026-03-10 19:25:42] INFO      Layer 3: SEC EDGAR -> Finish Line Car Wash
+[2026-03-10 19:25:43] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:25:44] INFO    [316/500] Enriching: Bellagio Express Car Wash (bellagioexpresscarwash.com)
+[2026-03-10 19:25:44] INFO      Layer 1: Website scrape -> bellagioexpresscarwash.com
+[2026-03-10 19:25:56] INFO      Layer 2: Domain intel -> bellagioexpresscarwash.com
+[2026-03-10 19:25:58] INFO      Layer 3: SEC EDGAR -> Bellagio Express Car Wash
+[2026-03-10 19:25:58] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:25:59] INFO    [317/500] Enriching: Okie Express Auto Wash (okieautowash.com)
+[2026-03-10 19:25:59] INFO      Layer 1: Website scrape -> okieautowash.com
+[2026-03-10 19:26:08] INFO      Layer 2: Domain intel -> okieautowash.com
+[2026-03-10 19:26:09] INFO      Layer 3: SEC EDGAR -> Okie Express Auto Wash
+[2026-03-10 19:26:10] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:26:10] INFO    [318/500] Enriching: Raceway Car Wash (racewaywash.com)
+[2026-03-10 19:26:10] INFO      Layer 1: Website scrape -> racewaywash.com
+[2026-03-10 19:27:08] INFO      Layer 2: Domain intel -> racewaywash.com
+[2026-03-10 19:27:09] INFO      Layer 3: SEC EDGAR -> Raceway Car Wash
+[2026-03-10 19:27:10] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:27:10] INFO    [319/500] Enriching: Monty's Express Carwash (montyscarwash.com)
+[2026-03-10 19:27:10] INFO      Layer 1: Website scrape -> montyscarwash.com
+[2026-03-10 19:27:32] INFO      Layer 2: Domain intel -> montyscarwash.com
+[2026-03-10 19:27:32] INFO      Layer 3: SEC EDGAR -> Monty's Express Carwash
+[2026-03-10 19:27:33] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:27:34] INFO    [320/500] Enriching: Prestige Car Wash (prestigewash.com)
+[2026-03-10 19:27:34] INFO      Layer 1: Website scrape -> prestigewash.com
+[2026-03-10 19:28:24] INFO      Layer 2: Domain intel -> prestigewash.com
+[2026-03-10 19:28:24] INFO      Layer 3: SEC EDGAR -> Prestige Car Wash
+[2026-03-10 19:28:24] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:28:25] INFO    [321/500] Enriching: Magic Hands Car Wash & Detailer (magichandscarwash.com)
+[2026-03-10 19:28:25] INFO      Layer 1: Website scrape -> magichandscarwash.com
+[2026-03-10 19:28:35] INFO      Layer 2: Domain intel -> magichandscarwash.com
+[2026-03-10 19:28:37] INFO      Layer 3: SEC EDGAR -> Magic Hands Car Wash & Detailer
+[2026-03-10 19:28:37] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:28:38] INFO    [322/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:28:38] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:28:47] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:28:47] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:28:48] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:28:48] INFO    [323/500] Enriching: Super Clean Xpress Carwash Elk Grove 2 (supercleanmycar.com)
+[2026-03-10 19:28:48] INFO      Layer 1: Website scrape -> supercleanmycar.com
+[2026-03-10 19:28:58] INFO      Layer 2: Domain intel -> supercleanmycar.com
+[2026-03-10 19:28:58] INFO      Layer 3: SEC EDGAR -> Super Clean Xpress Carwash Elk Grove 2
+[2026-03-10 19:28:59] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:29:00] INFO    [324/500] Enriching: Detrick's Car Wash (detrickscarwashinc.com)
+[2026-03-10 19:29:00] INFO      Layer 1: Website scrape -> detrickscarwashinc.com
+[2026-03-10 19:29:29] INFO      Layer 2: Domain intel -> detrickscarwashinc.com
+[2026-03-10 19:29:30] INFO      Layer 3: SEC EDGAR -> Detrick's Car Wash
+[2026-03-10 19:29:31] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:29:32] INFO    [325/500] Enriching: Sheetz (orders.sheetz.com)
+[2026-03-10 19:29:32] INFO      Layer 1: Website scrape -> orders.sheetz.com
+[2026-03-10 19:29:41] INFO      Layer 2: Domain intel -> orders.sheetz.com
+[2026-03-10 19:29:41] INFO      Layer 3: SEC EDGAR -> Sheetz
+[2026-03-10 19:29:42] INFO      -> 3 sources: website, domain_intel, sec_edgar
+[2026-03-10 19:29:43] INFO    [326/500] Enriching: Dirty Dog's Car Wash Calhoun (dirtydogscarwash.com)
+[2026-03-10 19:29:43] INFO      Layer 1: Website scrape -> dirtydogscarwash.com
+[2026-03-10 19:29:51] INFO      Layer 2: Domain intel -> dirtydogscarwash.com
+[2026-03-10 19:29:51] INFO      Layer 3: SEC EDGAR -> Dirty Dog's Car Wash Calhoun
+[2026-03-10 19:29:52] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:29:52] INFO    [327/500] Enriching: Mr. Detail Car Wash & Drive Thru Oil Change (no domain)
+[2026-03-10 19:29:52] INFO      Layer 3: SEC EDGAR -> Mr. Detail Car Wash & Drive Thru Oil Change
+[2026-03-10 19:29:53] INFO      -> 0 sources: 
+[2026-03-10 19:29:53] INFO    [328/500] Enriching: ScrubaDub Car Wash & Auto Detailing Center (Boston) (scrubadub.com)
+[2026-03-10 19:29:53] INFO      Layer 1: Website scrape -> scrubadub.com
+[2026-03-10 19:31:17] INFO      Layer 2: Domain intel -> scrubadub.com
+[2026-03-10 19:31:17] INFO      Layer 3: SEC EDGAR -> ScrubaDub Car Wash & Auto Detailing Center (Boston)
+[2026-03-10 19:31:18] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:31:18] INFO    [329/500] Enriching: Delta Sonic Car Wash, Oil Changes, Auto Detailing (deltasoniccarwash.com)
+[2026-03-10 19:31:18] INFO      Layer 1: Website scrape -> deltasoniccarwash.com
+[2026-03-10 19:31:29] INFO      Layer 2: Domain intel -> deltasoniccarwash.com
+[2026-03-10 19:31:29] INFO      Layer 3: SEC EDGAR -> Delta Sonic Car Wash, Oil Changes, Auto Detailing
+[2026-03-10 19:31:29] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:31:30] INFO    [330/500] Enriching: ScrubHub Car Wash (scrubhubcarwash.com)
+[2026-03-10 19:31:30] INFO      Layer 1: Website scrape -> scrubhubcarwash.com
+[2026-03-10 19:31:42] INFO      Layer 2: Domain intel -> scrubhubcarwash.com
+[2026-03-10 19:31:43] INFO      Layer 3: SEC EDGAR -> ScrubHub Car Wash
+[2026-03-10 19:31:44] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:31:45] INFO    [331/500] Enriching: Carmel Car Wash (carmelcarwash.com)
+[2026-03-10 19:31:45] INFO      Layer 1: Website scrape -> carmelcarwash.com
+[2026-03-10 19:32:08] INFO      Layer 2: Domain intel -> carmelcarwash.com
+[2026-03-10 19:32:09] INFO      Layer 3: SEC EDGAR -> Carmel Car Wash
+[2026-03-10 19:32:10] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:32:11] INFO    [332/500] Enriching: Surf Thru Express Car Wash (surfthruexpress.com)
+[2026-03-10 19:32:11] INFO      Layer 1: Website scrape -> surfthruexpress.com
+[2026-03-10 19:32:20] INFO      Layer 2: Domain intel -> surfthruexpress.com
+[2026-03-10 19:32:20] INFO      Layer 3: SEC EDGAR -> Surf Thru Express Car Wash
+[2026-03-10 19:32:21] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:32:21] INFO    [333/500] Enriching: Jerry Kuhn's Kwik Car Wash (thekwikcarwash.com)
+[2026-03-10 19:32:21] INFO      Layer 1: Website scrape -> thekwikcarwash.com
+[2026-03-10 19:32:51] INFO      Layer 2: Domain intel -> thekwikcarwash.com
+[2026-03-10 19:32:52] INFO      Layer 3: SEC EDGAR -> Jerry Kuhn's Kwik Car Wash
+[2026-03-10 19:32:53] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:32:53] INFO    [334/500] Enriching: BlueWave Express Car Wash (bluewaveexpress.com)
+[2026-03-10 19:32:53] INFO      Layer 1: Website scrape -> bluewaveexpress.com
+[2026-03-10 19:33:05] INFO      Layer 2: Domain intel -> bluewaveexpress.com
+[2026-03-10 19:33:05] INFO      Layer 3: SEC EDGAR -> BlueWave Express Car Wash
+[2026-03-10 19:33:06] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:33:07] INFO    [335/500] Enriching: Valencia Car Wash & Oil Change (valenciacarwash.com)
+[2026-03-10 19:33:07] INFO      Layer 1: Website scrape -> valenciacarwash.com
+[2026-03-10 19:33:15] INFO      Layer 2: Domain intel -> valenciacarwash.com
+[2026-03-10 19:33:16] INFO      Layer 3: SEC EDGAR -> Valencia Car Wash & Oil Change
+[2026-03-10 19:33:17] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:33:17] INFO    [336/500] Enriching: Aquatunel Car Wash (Benton) (aquatunel.mx)
+[2026-03-10 19:33:17] INFO      Layer 1: Website scrape -> aquatunel.mx
+[2026-03-10 19:33:27] INFO      Layer 2: Domain intel -> aquatunel.mx
+[2026-03-10 19:33:27] INFO      Layer 3: SEC EDGAR -> Aquatunel Car Wash (Benton)
+[2026-03-10 19:33:28] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:33:28] INFO    [337/500] Enriching: GO Car Wash (gocarwash.com)
+[2026-03-10 19:33:28] INFO      Layer 1: Website scrape -> gocarwash.com
+[2026-03-10 19:33:38] INFO      Layer 2: Domain intel -> gocarwash.com
+[2026-03-10 19:33:38] INFO      Layer 3: SEC EDGAR -> GO Car Wash
+[2026-03-10 19:33:39] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:33:40] INFO    [338/500] Enriching: Classic Car Wash (classiccarwash.com)
+[2026-03-10 19:33:40] INFO      Layer 1: Website scrape -> classiccarwash.com
+[2026-03-10 19:33:49] INFO      Layer 2: Domain intel -> classiccarwash.com
+[2026-03-10 19:33:49] INFO      Layer 3: SEC EDGAR -> Classic Car Wash
+[2026-03-10 19:33:50] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:33:50] INFO    [339/500] Enriching: Grease Monkey (greasemonkey.com)
+[2026-03-10 19:33:50] INFO      Layer 1: Website scrape -> greasemonkey.com
+[2026-03-10 19:34:06] INFO      Layer 2: Domain intel -> greasemonkey.com
+[2026-03-10 19:34:06] INFO      Layer 3: SEC EDGAR -> Grease Monkey
+[2026-03-10 19:34:07] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:34:07] INFO    [340/500] Enriching: Amoco of Shoreview (shoreviewamoco.com)
+[2026-03-10 19:34:07] INFO      Layer 1: Website scrape -> shoreviewamoco.com
+[2026-03-10 19:34:22] INFO      Layer 2: Domain intel -> shoreviewamoco.com
+[2026-03-10 19:34:23] INFO      Layer 3: SEC EDGAR -> Amoco of Shoreview
+[2026-03-10 19:34:24] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:34:24] INFO    [341/500] Enriching: Rapidito Car Wash (Ford) (rapiditocarwash.com)
+[2026-03-10 19:34:24] INFO      Layer 1: Website scrape -> rapiditocarwash.com
+[2026-03-10 19:34:44] INFO      Layer 2: Domain intel -> rapiditocarwash.com
+[2026-03-10 19:34:44] INFO      Layer 3: SEC EDGAR -> Rapidito Car Wash (Ford)
+[2026-03-10 19:34:45] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:34:46] INFO    [342/500] Enriching: Sheetz (orders.sheetz.com)
+[2026-03-10 19:34:46] INFO      Layer 1: Website scrape -> orders.sheetz.com
+[2026-03-10 19:34:55] INFO      Layer 2: Domain intel -> orders.sheetz.com
+[2026-03-10 19:34:55] INFO      Layer 3: SEC EDGAR -> Sheetz
+[2026-03-10 19:34:56] INFO      -> 3 sources: website, domain_intel, sec_edgar
+[2026-03-10 19:34:56] INFO    [343/500] Enriching: Tsunami Express Car Wash (tsunamiexpress.com)
+[2026-03-10 19:34:56] INFO      Layer 1: Website scrape -> tsunamiexpress.com
+[2026-03-10 19:35:13] INFO      Layer 2: Domain intel -> tsunamiexpress.com
+[2026-03-10 19:35:13] INFO      Layer 3: SEC EDGAR -> Tsunami Express Car Wash
+[2026-03-10 19:35:13] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:35:14] INFO    [344/500] Enriching: Bubble Down Car Wash (bubbledown.com)
+[2026-03-10 19:35:14] INFO      Layer 1: Website scrape -> bubbledown.com
+[2026-03-10 19:35:25] INFO      Layer 2: Domain intel -> bubbledown.com
+[2026-03-10 19:35:26] INFO      Layer 3: SEC EDGAR -> Bubble Down Car Wash
+[2026-03-10 19:35:27] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:35:28] INFO    [345/500] Enriching: 5 Star Car Wash & Dog Wash (5starcarwash.net)
+[2026-03-10 19:35:28] INFO      Layer 1: Website scrape -> 5starcarwash.net
+[2026-03-10 19:35:38] INFO      Layer 2: Domain intel -> 5starcarwash.net
+[2026-03-10 19:35:39] INFO      Layer 3: SEC EDGAR -> 5 Star Car Wash & Dog Wash
+[2026-03-10 19:35:40] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:35:41] INFO    [346/500] Enriching: Fast 5 Xpress Car Wash (fast5xpress.com)
+[2026-03-10 19:35:41] INFO      Layer 1: Website scrape -> fast5xpress.com
+[2026-03-10 19:35:51] INFO      Layer 2: Domain intel -> fast5xpress.com
+[2026-03-10 19:35:51] INFO      Layer 3: SEC EDGAR -> Fast 5 Xpress Car Wash
+[2026-03-10 19:35:52] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:35:52] INFO    [347/500] Enriching: Take 5 Car Wash (take5carwashes.com)
+[2026-03-10 19:35:52] INFO      Layer 1: Website scrape -> take5carwashes.com
+[2026-03-10 19:36:04] INFO      Layer 2: Domain intel -> take5carwashes.com
+[2026-03-10 19:36:04] INFO      Layer 3: SEC EDGAR -> Take 5 Car Wash
+[2026-03-10 19:36:05] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:36:05] INFO    [348/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:36:05] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:36:32] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:36:32] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:36:34] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:36:34] INFO    [349/500] Enriching: Dash Car Wash (sparklecarwashlasvegas.com)
+[2026-03-10 19:36:34] INFO      Layer 1: Website scrape -> sparklecarwashlasvegas.com
+[2026-03-10 19:36:43] INFO      Layer 2: Domain intel -> sparklecarwashlasvegas.com
+[2026-03-10 19:36:44] INFO      Layer 3: SEC EDGAR -> Dash Car Wash
+[2026-03-10 19:36:46] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:36:46] INFO    [350/500] Enriching: WASHGUYS Car Wash (washguystx.com)
+[2026-03-10 19:36:46] INFO      Layer 1: Website scrape -> washguystx.com
+[2026-03-10 19:36:56] INFO      Layer 2: Domain intel -> washguystx.com
+[2026-03-10 19:36:56] INFO      Layer 3: SEC EDGAR -> WASHGUYS Car Wash
+[2026-03-10 19:36:56] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:36:57] INFO    [351/500] Enriching: Zips Car Wash (zipscarwash.com)
+[2026-03-10 19:36:57] INFO      Layer 1: Website scrape -> zipscarwash.com
+[2026-03-10 19:37:08] INFO      Layer 2: Domain intel -> zipscarwash.com
+[2026-03-10 19:37:08] INFO      Layer 3: SEC EDGAR -> Zips Car Wash
+[2026-03-10 19:37:08] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:37:09] INFO    [352/500] Enriching: Rocket Wash (rocketwashwi.com)
+[2026-03-10 19:37:09] INFO      Layer 1: Website scrape -> rocketwashwi.com
+[2026-03-10 19:37:19] INFO      Layer 2: Domain intel -> rocketwashwi.com
+Error trying to connect to socket: closing socket - timed out
+[2026-03-10 19:37:29] INFO      Layer 3: SEC EDGAR -> Rocket Wash
+[2026-03-10 19:37:30] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:37:31] INFO    [353/500] Enriching: Zap Car Wash & Lube of North Bergen (zapcarcare.com)
+[2026-03-10 19:37:31] INFO      Layer 1: Website scrape -> zapcarcare.com
+[2026-03-10 19:37:39] INFO      Layer 2: Domain intel -> zapcarcare.com
+Error trying to connect to socket: closing socket - timed out
+[2026-03-10 19:37:50] INFO      Layer 3: SEC EDGAR -> Zap Car Wash & Lube of North Bergen
+[2026-03-10 19:37:51] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:37:51] INFO    [354/500] Enriching: Victory Car Wash (victorycarwashfl.com)
+[2026-03-10 19:37:51] INFO      Layer 1: Website scrape -> victorycarwashfl.com
+[2026-03-10 19:38:00] INFO      Layer 2: Domain intel -> victorycarwashfl.com
+[2026-03-10 19:38:00] INFO      Layer 3: SEC EDGAR -> Victory Car Wash
+[2026-03-10 19:38:01] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:38:02] INFO    [355/500] Enriching: Take 5 Car Wash (take5carwashes.com)
+[2026-03-10 19:38:02] INFO      Layer 1: Website scrape -> take5carwashes.com
+[2026-03-10 19:38:13] INFO      Layer 2: Domain intel -> take5carwashes.com
+[2026-03-10 19:38:13] INFO      Layer 3: SEC EDGAR -> Take 5 Car Wash
+[2026-03-10 19:38:14] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:38:15] INFO    [356/500] Enriching: Shammy's Car Wash (McCart Ave) (shammyscarwash.com)
+[2026-03-10 19:38:15] INFO      Layer 1: Website scrape -> shammyscarwash.com
+[2026-03-10 19:38:24] INFO      Layer 2: Domain intel -> shammyscarwash.com
+[2026-03-10 19:38:24] INFO      Layer 3: SEC EDGAR -> Shammy's Car Wash (McCart Ave)
+[2026-03-10 19:38:25] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:38:25] INFO    [357/500] Enriching: Ultimate Express Car Wash (carwashutah.com)
+[2026-03-10 19:38:25] INFO      Layer 1: Website scrape -> carwashutah.com
+[2026-03-10 19:38:34] INFO      Layer 2: Domain intel -> carwashutah.com
+[2026-03-10 19:38:35] INFO      Layer 3: SEC EDGAR -> Ultimate Express Car Wash
+[2026-03-10 19:38:37] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:38:38] INFO    [358/500] Enriching: Lola's Truck Wash (lolastruckwash.com)
+[2026-03-10 19:38:38] INFO      Layer 1: Website scrape -> lolastruckwash.com
+[2026-03-10 19:38:58] INFO      Layer 2: Domain intel -> lolastruckwash.com
+[2026-03-10 19:38:59] INFO      Layer 3: SEC EDGAR -> Lola's Truck Wash
+[2026-03-10 19:39:00] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:39:00] INFO    [359/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:39:00] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:39:23] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:39:23] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:39:24] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:39:25] INFO    [360/500] Enriching: Aloha Car Wash Company (alohacarwashcompany.com)
+[2026-03-10 19:39:25] INFO      Layer 1: Website scrape -> alohacarwashcompany.com
+[2026-03-10 19:39:33] INFO      Layer 2: Domain intel -> alohacarwashcompany.com
+[2026-03-10 19:39:34] INFO      Layer 3: SEC EDGAR -> Aloha Car Wash Company
+[2026-03-10 19:39:35] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:39:35] INFO    [361/500] Enriching: Sheetz (orders.sheetz.com)
+[2026-03-10 19:39:35] INFO      Layer 1: Website scrape -> orders.sheetz.com
+[2026-03-10 19:39:44] INFO      Layer 2: Domain intel -> orders.sheetz.com
+[2026-03-10 19:39:44] INFO      Layer 3: SEC EDGAR -> Sheetz
+[2026-03-10 19:39:45] INFO      -> 3 sources: website, domain_intel, sec_edgar
+[2026-03-10 19:39:45] INFO    [362/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:39:45] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:40:11] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:40:11] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:40:11] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:40:12] INFO    [363/500] Enriching: Sparkling Image Car Wash (sparklingimage.com)
+[2026-03-10 19:40:12] INFO      Layer 1: Website scrape -> sparklingimage.com
+[2026-03-10 19:40:21] INFO      Layer 2: Domain intel -> sparklingimage.com
+[2026-03-10 19:40:21] INFO      Layer 3: SEC EDGAR -> Sparkling Image Car Wash
+[2026-03-10 19:40:21] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:40:22] INFO    [364/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:40:22] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:40:47] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:40:47] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:40:47] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:40:48] INFO    [365/500] Enriching: Five Corners Hand Car Wash (fivecornershandwash.com)
+[2026-03-10 19:40:48] INFO      Layer 1: Website scrape -> fivecornershandwash.com
+[2026-03-10 19:40:57] INFO      Layer 2: Domain intel -> fivecornershandwash.com
+[2026-03-10 19:40:57] INFO      Layer 3: SEC EDGAR -> Five Corners Hand Car Wash
+[2026-03-10 19:40:58] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:40:58] INFO    [366/500] Enriching: Jacksons Car Wash - Auto detailing (jacksonswash.com)
+[2026-03-10 19:40:58] INFO      Layer 1: Website scrape -> jacksonswash.com
+[2026-03-10 19:41:17] INFO      Layer 2: Domain intel -> jacksonswash.com
+[2026-03-10 19:41:18] INFO      Layer 3: SEC EDGAR -> Jacksons Car Wash - Auto detailing
+[2026-03-10 19:41:19] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:41:19] INFO    [367/500] Enriching: White Horse Auto Wash (whitehorseautowash.com)
+[2026-03-10 19:41:19] INFO      Layer 1: Website scrape -> whitehorseautowash.com
+[2026-03-10 19:41:29] INFO      Layer 2: Domain intel -> whitehorseautowash.com
+[2026-03-10 19:41:29] INFO      Layer 3: SEC EDGAR -> White Horse Auto Wash
+[2026-03-10 19:41:30] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:41:30] INFO    [368/500] Enriching: Wash Works (no domain)
+[2026-03-10 19:41:30] INFO      Layer 3: SEC EDGAR -> Wash Works
+[2026-03-10 19:41:30] INFO      -> 0 sources: 
+[2026-03-10 19:41:31] INFO    [369/500] Enriching: Empire Hand Wash of Bellerose (empirecarwashgroup.com)
+[2026-03-10 19:41:31] INFO      Layer 1: Website scrape -> empirecarwashgroup.com
+[2026-03-10 19:41:40] INFO      Layer 2: Domain intel -> empirecarwashgroup.com
+[2026-03-10 19:41:40] INFO      Layer 3: SEC EDGAR -> Empire Hand Wash of Bellerose
+[2026-03-10 19:41:41] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:41:41] INFO    [370/500] Enriching: Five Star Auto Center (fivestarrocklin.com)
+[2026-03-10 19:41:41] INFO      Layer 1: Website scrape -> fivestarrocklin.com
+[2026-03-10 19:41:51] INFO      Layer 2: Domain intel -> fivestarrocklin.com
+[2026-03-10 19:41:53] INFO      Layer 3: SEC EDGAR -> Five Star Auto Center
+[2026-03-10 19:41:53] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:41:54] INFO    [371/500] Enriching: Mister Car Wash (mistercarwash.com)
+[2026-03-10 19:41:54] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 19:42:17] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 19:42:17] INFO      Layer 3: SEC EDGAR -> Mister Car Wash
+[2026-03-10 19:42:17] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:42:18] INFO    [372/500] Enriching: Time To Shine Car Wash - Owasso (timetoshinecarwash.com)
+[2026-03-10 19:42:18] INFO      Layer 1: Website scrape -> timetoshinecarwash.com
+[2026-03-10 19:42:27] INFO      Layer 2: Domain intel -> timetoshinecarwash.com
+Error trying to connect to socket: closing socket - [Errno 61] Connection refused
+[2026-03-10 19:42:28] INFO      Layer 3: SEC EDGAR -> Time To Shine Car Wash - Owasso
+[2026-03-10 19:42:29] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:42:30] INFO    [373/500] Enriching: Raceway Express Car Wash (racewaycarwash.com)
+[2026-03-10 19:42:30] INFO      Layer 1: Website scrape -> racewaycarwash.com
+[2026-03-10 19:42:39] INFO      Layer 2: Domain intel -> racewaycarwash.com
+[2026-03-10 19:42:39] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash
+[2026-03-10 19:42:39] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:42:40] INFO    [374/500] Enriching: Yes Auto Fix | Collision Repair | Transmission repair experts | Automobile repair shop (yesautofix.com)
+[2026-03-10 19:42:40] INFO      Layer 1: Website scrape -> yesautofix.com
+[2026-03-10 19:42:49] INFO      Layer 2: Domain intel -> yesautofix.com
+[2026-03-10 19:42:50] INFO      Layer 3: SEC EDGAR -> Yes Auto Fix | Collision Repair | Transmission repair experts | Automobile repair shop
+[2026-03-10 19:42:51] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:42:51] INFO    [375/500] Enriching: Five Points Car Wash (5pointscarwash.com)
+[2026-03-10 19:42:51] INFO      Layer 1: Website scrape -> 5pointscarwash.com
+[2026-03-10 19:43:35] INFO      Layer 2: Domain intel -> 5pointscarwash.com
+[2026-03-10 19:43:36] INFO      Layer 3: SEC EDGAR -> Five Points Car Wash
+[2026-03-10 19:43:36] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:43:37] INFO    [376/500] Enriching: Speeders Car Wash - Avon (speeders.com)
+[2026-03-10 19:43:37] INFO      Layer 1: Website scrape -> speeders.com
+[2026-03-10 19:43:47] INFO      Layer 2: Domain intel -> speeders.com
+[2026-03-10 19:43:47] INFO      Layer 3: SEC EDGAR -> Speeders Car Wash - Avon
+[2026-03-10 19:43:48] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:43:48] INFO    [377/500] Enriching: Champion Xpress Carwash (champxpress.com)
+[2026-03-10 19:43:48] INFO      Layer 1: Website scrape -> champxpress.com
+[2026-03-10 19:44:17] INFO      Layer 2: Domain intel -> champxpress.com
+[2026-03-10 19:44:17] INFO      Layer 3: SEC EDGAR -> Champion Xpress Carwash
+[2026-03-10 19:44:18] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:44:19] INFO    [378/500] Enriching: Sam's Xpress Car Wash (samsxpresscarwash.com)
+[2026-03-10 19:44:19] INFO      Layer 1: Website scrape -> samsxpresscarwash.com
+[2026-03-10 19:44:47] INFO      Layer 2: Domain intel -> samsxpresscarwash.com
+[2026-03-10 19:44:48] INFO      Layer 3: SEC EDGAR -> Sam's Xpress Car Wash
+[2026-03-10 19:44:49] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:44:49] INFO    [379/500] Enriching: Ocean Express Car Wash (oceanexpresswash.com)
+[2026-03-10 19:44:49] INFO      Layer 1: Website scrape -> oceanexpresswash.com
+[2026-03-10 19:45:02] INFO      Layer 2: Domain intel -> oceanexpresswash.com
+[2026-03-10 19:45:03] INFO      Layer 3: SEC EDGAR -> Ocean Express Car Wash
+[2026-03-10 19:45:04] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:45:04] INFO    [380/500] Enriching: Raindrop Car Wash - Grayson Valley (raindropcarwash.com)
+[2026-03-10 19:45:04] INFO      Layer 1: Website scrape -> raindropcarwash.com
+[2026-03-10 19:45:28] INFO      Layer 2: Domain intel -> raindropcarwash.com
+[2026-03-10 19:45:29] INFO      Layer 3: SEC EDGAR -> Raindrop Car Wash - Grayson Valley
+[2026-03-10 19:45:30] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:45:30] INFO    [381/500] Enriching: SpeedyShine Car Wash & Mobil 1 South Plainfield Lube Express (xtremecleannj.com)
+[2026-03-10 19:45:30] INFO      Layer 1: Website scrape -> xtremecleannj.com
+[2026-03-10 19:45:51] INFO      Layer 2: Domain intel -> xtremecleannj.com
+[2026-03-10 19:45:52] INFO      Layer 3: SEC EDGAR -> SpeedyShine Car Wash & Mobil 1 South Plainfield Lube Express
+[2026-03-10 19:45:53] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:45:53] INFO    [382/500] Enriching: ClearWater Express Wash (clearwaterexpresswash.com)
+[2026-03-10 19:45:53] INFO      Layer 1: Website scrape -> clearwaterexpresswash.com
+[2026-03-10 19:46:08] INFO      Layer 2: Domain intel -> clearwaterexpresswash.com
+[2026-03-10 19:46:08] INFO      Layer 3: SEC EDGAR -> ClearWater Express Wash
+[2026-03-10 19:46:08] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:46:09] INFO    [383/500] Enriching: Fuel City Dallas (fuelcity.com)
+[2026-03-10 19:46:09] INFO      Layer 1: Website scrape -> fuelcity.com
+[2026-03-10 19:46:20] INFO      Layer 2: Domain intel -> fuelcity.com
+[2026-03-10 19:46:20] INFO      Layer 3: SEC EDGAR -> Fuel City Dallas
+[2026-03-10 19:46:20] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:46:21] INFO    [384/500] Enriching: Go Touch Less Car Wash (no domain)
+[2026-03-10 19:46:21] INFO      Layer 3: SEC EDGAR -> Go Touch Less Car Wash
+[2026-03-10 19:46:21] INFO      -> 0 sources: 
+[2026-03-10 19:46:22] INFO    [385/500] Enriching: Oil Changers & Car Wash (oilchangers.com)
+[2026-03-10 19:46:22] INFO      Layer 1: Website scrape -> oilchangers.com
+[2026-03-10 19:46:32] INFO      Layer 2: Domain intel -> oilchangers.com
+[2026-03-10 19:46:32] INFO      Layer 3: SEC EDGAR -> Oil Changers & Car Wash
+[2026-03-10 19:46:32] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:46:33] INFO    [386/500] Enriching: Take 5 Car Wash Utah (take5.com)
+[2026-03-10 19:46:33] INFO      Layer 1: Website scrape -> take5.com
+[2026-03-10 19:46:43] INFO      Layer 2: Domain intel -> take5.com
+[2026-03-10 19:46:43] INFO      Layer 3: SEC EDGAR -> Take 5 Car Wash Utah
+[2026-03-10 19:46:43] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:46:44] INFO    [387/500] Enriching: GooGoo Car Wash (take5carwashes.com)
+[2026-03-10 19:46:44] INFO      Layer 1: Website scrape -> take5carwashes.com
+[2026-03-10 19:46:54] INFO      Layer 2: Domain intel -> take5carwashes.com
+[2026-03-10 19:46:54] INFO      Layer 3: SEC EDGAR -> GooGoo Car Wash
+[2026-03-10 19:46:55] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:46:56] INFO    [388/500] Enriching: Zips Car Wash (zipscarwash.com)
+[2026-03-10 19:46:56] INFO      Layer 1: Website scrape -> zipscarwash.com
+[2026-03-10 19:47:07] INFO      Layer 2: Domain intel -> zipscarwash.com
+[2026-03-10 19:47:07] INFO      Layer 3: SEC EDGAR -> Zips Car Wash
+[2026-03-10 19:47:08] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:47:08] INFO    [389/500] Enriching: Take 5 Car Wash (take5carwashes.com)
+[2026-03-10 19:47:08] INFO      Layer 1: Website scrape -> take5carwashes.com
+[2026-03-10 19:47:18] INFO      Layer 2: Domain intel -> take5carwashes.com
+[2026-03-10 19:47:18] INFO      Layer 3: SEC EDGAR -> Take 5 Car Wash
+[2026-03-10 19:47:19] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:47:19] INFO    [390/500] Enriching: Glamour Autolavado (no domain)
+[2026-03-10 19:47:19] INFO      Layer 3: SEC EDGAR -> Glamour Autolavado
+[2026-03-10 19:47:20] INFO      -> 0 sources: 
+[2026-03-10 19:47:20] INFO    [391/500] Enriching: Red Carpet Car Wash (redcarpetcarwash.com)
+[2026-03-10 19:47:20] INFO      Layer 1: Website scrape -> redcarpetcarwash.com
+[2026-03-10 19:47:29] INFO      Layer 2: Domain intel -> redcarpetcarwash.com
+[2026-03-10 19:47:29] INFO      Layer 3: SEC EDGAR -> Red Carpet Car Wash
+[2026-03-10 19:47:30] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:47:30] INFO    [392/500] Enriching: Paradise Full Service Car Wash & Detail Center (paradisecarwash.com)
+[2026-03-10 19:47:30] INFO      Layer 1: Website scrape -> paradisecarwash.com
+[2026-03-10 19:47:43] INFO      Layer 2: Domain intel -> paradisecarwash.com
+[2026-03-10 19:47:44] INFO      Layer 3: SEC EDGAR -> Paradise Full Service Car Wash & Detail Center
+[2026-03-10 19:47:45] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:47:45] INFO    [393/500] Enriching: Baywash Car Wash (baywashgrandprairie.com)
+[2026-03-10 19:47:45] INFO      Layer 1: Website scrape -> baywashgrandprairie.com
+[2026-03-10 19:47:54] INFO      Layer 2: Domain intel -> baywashgrandprairie.com
+[2026-03-10 19:47:55] INFO      Layer 3: SEC EDGAR -> Baywash Car Wash
+[2026-03-10 19:47:55] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:47:56] INFO    [394/500] Enriching: Buddy Bear Car Wash (buddybearcarwash.com)
+[2026-03-10 19:47:56] INFO      Layer 1: Website scrape -> buddybearcarwash.com
+[2026-03-10 19:48:14] INFO      Layer 2: Domain intel -> buddybearcarwash.com
+[2026-03-10 19:48:14] INFO      Layer 3: SEC EDGAR -> Buddy Bear Car Wash
+[2026-03-10 19:48:14] INFO      -> 2 sources: website, domain_intel
+[2026-03-10 19:48:15] INFO    [395/500] Enriching: On The Spot Hand Car Wash /Auto Detail (onthespotautodetail.com)
+[2026-03-10 19:48:15] INFO      Layer 1: Website scrape -> onthespotautodetail.com
+[2026-03-10 19:48:36] INFO      Layer 2: Domain intel -> onthespotautodetail.com
+[2026-03-10 19:48:37] INFO      Layer 3: SEC EDGAR -> On The Spot Hand Car Wash /Auto Detail
