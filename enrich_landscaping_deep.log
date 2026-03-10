@@ -1,0 +1,114 @@
+[2026-03-10 19:52:51] INFO    ============================================================
+[2026-03-10 19:52:51] INFO    LANDSCAPING ENRICHMENT ENGINE — Hedgestone M&A Platform
+[2026-03-10 19:52:51] INFO    Started: 2026-03-10T23:52:51.140379+00:00
+[2026-03-10 19:52:51] INFO    ============================================================
+[2026-03-10 19:52:51] INFO    Previous progress: {
+  "domains_validated": 0,
+  "domains_dead": 0,
+  "websites_scraped": 0,
+  "emails_found": 0,
+  "owners_found": 0,
+  "scored": 0,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:52:51] INFO    ============================================================
+[2026-03-10 19:52:51] INFO    PASS 1: Domain Extraction + HTTP Validation
+[2026-03-10 19:52:51] INFO    ============================================================
+[2026-03-10 19:52:51] INFO      Fetched 1000 (offset 0)
+[2026-03-10 19:52:53] INFO      PASS 1 COMPLETE: 5 processed, 4 valid, 0 dead
+[2026-03-10 19:52:53] INFO    ============================================================
+[2026-03-10 19:52:53] INFO    PASS 2: Website Scraping
+[2026-03-10 19:52:53] INFO    ============================================================
+[2026-03-10 19:52:54] INFO      Fetched 4 validated (offset 0)
+[2026-03-10 19:52:58] INFO      PASS 2 COMPLETE: 4 scraped, 1 emails, 2 owners found
+[2026-03-10 19:52:58] INFO    ============================================================
+[2026-03-10 19:52:58] INFO    PASS 3: Revenue Estimation + Acquisition Scoring
+[2026-03-10 19:52:58] INFO    ============================================================
+[2026-03-10 19:52:59] INFO      Fetched 1000 unscored (offset 0)
+[2026-03-10 19:52:59] INFO      PASS 3 COMPLETE: 5 scored — A:0 B:3 C:2 D:0
+[2026-03-10 19:52:59] INFO    
+[2026-03-10 19:52:59] INFO    ============================================================
+[2026-03-10 19:52:59] INFO    ALL PASSES COMPLETE
+[2026-03-10 19:52:59] INFO    Final stats: {
+  "domains_validated": 4,
+  "domains_dead": 0,
+  "websites_scraped": 4,
+  "emails_found": 1,
+  "owners_found": 2,
+  "scored": 5,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:52:59] INFO    ============================================================
+[2026-03-10 19:54:49] INFO    ============================================================
+[2026-03-10 19:54:49] INFO    LANDSCAPING ENRICHMENT ENGINE — Hedgestone M&A Platform
+[2026-03-10 19:54:49] INFO    Started: 2026-03-10T23:54:49.405724+00:00
+[2026-03-10 19:54:49] INFO    ============================================================
+[2026-03-10 19:54:49] INFO    Previous progress: {
+  "domains_validated": 0,
+  "domains_dead": 0,
+  "websites_scraped": 0,
+  "emails_found": 0,
+  "owners_found": 0,
+  "scored": 0,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:54:49] INFO    ============================================================
+[2026-03-10 19:54:49] INFO    PASS 1: Domain Extraction + HTTP Validation
+[2026-03-10 19:54:49] INFO    ============================================================
+[2026-03-10 19:54:50] INFO      Fetched 1000 (offset 0)
+[2026-03-10 19:55:01] INFO      PASS 1 COMPLETE: 10 processed, 7 valid, 3 dead
+[2026-03-10 19:55:01] INFO    ============================================================
+[2026-03-10 19:55:01] INFO    PASS 2: Website Scraping
+[2026-03-10 19:55:01] INFO    ============================================================
+[2026-03-10 19:55:01] INFO      Fetched 7 validated (offset 0)
+[2026-03-10 19:55:15] INFO      PASS 2 COMPLETE: 7 scraped, 1 emails, 0 owners found
+[2026-03-10 19:55:15] INFO    ============================================================
+[2026-03-10 19:55:15] INFO    PASS 3: Revenue Estimation + Acquisition Scoring
+[2026-03-10 19:55:15] INFO    ============================================================
+[2026-03-10 19:55:15] INFO      Fetched 1000 unscored (offset 0)
+[2026-03-10 19:55:16] INFO      PASS 3 COMPLETE: 10 scored — A:0 B:8 C:2 D:0
+[2026-03-10 19:55:16] INFO    
+[2026-03-10 19:55:16] INFO    ============================================================
+[2026-03-10 19:55:16] INFO    ALL PASSES COMPLETE
+[2026-03-10 19:55:16] INFO    Final stats: {
+  "domains_validated": 9,
+  "domains_dead": 1,
+  "websites_scraped": 7,
+  "emails_found": 1,
+  "owners_found": 0,
+  "scored": 10,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:55:16] INFO    ============================================================
+[2026-03-10 19:56:25] INFO    ============================================================
+[2026-03-10 19:56:25] INFO    LANDSCAPING ENRICHMENT ENGINE — Hedgestone M&A Platform
+[2026-03-10 19:56:25] INFO    Started: 2026-03-10T23:56:25.603440+00:00
+[2026-03-10 19:56:25] INFO    ============================================================
+[2026-03-10 19:56:25] INFO    Previous progress: {
+  "domains_validated": 0,
+  "domains_dead": 0,
+  "websites_scraped": 0,
+  "emails_found": 0,
+  "owners_found": 0,
+  "scored": 0,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:56:25] INFO    ============================================================
+[2026-03-10 19:56:25] INFO    PASS 1: Domain Extraction + HTTP Validation (15 threads)
+[2026-03-10 19:56:25] INFO    ============================================================
+[2026-03-10 19:56:28] INFO      Fetched 1000, processing 50 (offset 0)
+[2026-03-10 19:56:34] INFO      Progress: 50 done (30 valid, 17 dead, 3 skip)
+[2026-03-10 19:56:34] INFO      PASS 1 COMPLETE: 50 processed, 30 valid, 17 dead, 3 skip
+[2026-03-10 19:56:34] INFO    
+[2026-03-10 19:56:34] INFO    ============================================================
+[2026-03-10 19:56:34] INFO    ALL PASSES COMPLETE
+[2026-03-10 19:56:34] INFO    Final stats: {
+  "domains_validated": 30,
+  "domains_dead": 17,
+  "websites_scraped": 0,
+  "emails_found": 0,
+  "owners_found": 0,
+  "scored": 0,
+  "apollo_enriched": 0
+}
+[2026-03-10 19:56:34] INFO    ============================================================
