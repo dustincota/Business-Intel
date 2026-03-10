@@ -1,0 +1,10 @@
+# Hedgestone M&A Intelligence Platform — Python Dependencies
+
+# Core (required by all scripts)
+requests>=2.28
+
+# Enrichment engine (optional — graceful degradation if missing)
+beautifulsoup4>=4.12
+lxml>=4.9
+dnspython>=2.4
+python-whois>=0.8
