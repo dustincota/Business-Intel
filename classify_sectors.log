@@ -1,0 +1,78 @@
+[18:43:55] 
+============================================================
+[18:43:55]   PHASE 1: Break out broad categories
+[18:43:55] ============================================================
+[18:43:59]   dental                    %dental%                            -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:02]   dental                    %dentist%                           -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:04]   dental                    %orthodon%                          ->    223 rows
+[18:44:05]   dental                    %periodon%                          ->     18 rows
+[18:44:05]   dental                    %endodon%                           ->     35 rows
+[18:44:06]   dental                    %oral surg%                         ->     36 rows
+[18:44:07]   dental                    %prosthodon%                        ->      3 rows
+[18:44:07]   >>> dental: 315 total
+[18:44:10]   dermatology               %dermatol%                          -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:13]   dermatology               %medspa%                            -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:14]   dermatology               %med spa%                           ->      4 rows
+[18:44:14]   dermatology               %medical spa%                       ->      4 rows
+[18:44:15]   dermatology               %skin center%                       ->      1 rows
+[18:44:16]   dermatology               %aestheti%                          ->     48 rows
+[18:44:16]   >>> dermatology: 57 total
+[18:44:19]   urgent_care               %urgent care%                       -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:22]   urgent_care               %walk-in clinic%                    -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:26]   urgent_care               %express care%                      -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:29]   optometry                 %optometr%                          ->     14 rows
+[18:44:30]   optometry                 %ophthalmol%                        ->      9 rows
+[18:44:30]   optometry                 %eye care%                          ->     86 rows
+[18:44:31]   optometry                 %eye center%                        ->     30 rows
+[18:44:31]   optometry                 %eye clinic%                        ->     14 rows
+[18:44:32]   optometry                 %vision center%                     ->     46 rows
+[18:44:32]   optometry                 %lasik%                             ->      2 rows
+[18:44:33]   optometry                 %eye doctor%                        ->      3 rows
+[18:44:33]   >>> optometry: 204 total
+[18:44:34]   physical_therapy          %physical therap%                   ->     71 rows
+[18:44:35]   physical_therapy          %rehab center%                      ->     10 rows
+[18:44:36]   physical_therapy          %rehabilitation center%             ->     40 rows
+[18:44:36]   physical_therapy          %occupational therap%               ->      2 rows
+[18:44:36]   >>> physical_therapy: 123 total
+[18:44:36]   behavioral_health         %behavioral health%                 ->     29 rows
+[18:44:37]   behavioral_health         %mental health%                     ->     46 rows
+[18:44:37]   behavioral_health         %substance abuse%                   ->      2 rows
+[18:44:38]   behavioral_health         %addiction%                         ->     10 rows
+[18:44:38]   behavioral_health         %counseling center%                 ->     18 rows
+[18:44:39]   behavioral_health         %psychiatric%                       ->     14 rows
+[18:44:39]   behavioral_health         %detox%                             ->      9 rows
+[18:44:40]   behavioral_health         %recovery center%                   ->     15 rows
+[18:44:40]   >>> behavioral_health: 143 total
+[18:44:43]   chiropractic              %chiropract%                        -> ERROR 500: {"code":"57014","details":null,"hint":null,"message":"canceling statement due to statement timeout"}
+[18:44:43]   chiropractic              %spinal%                            ->      5 rows
+[18:44:43]   chiropractic              %spine center%                      ->     10 rows
+[18:44:43]   >>> chiropractic: 15 total
+[18:44:44]   veterinary                %veterinar%                         ->      1 rows
+[18:44:44]   veterinary                %animal hospital%                   ->      1 rows
+[18:44:45]   >>> veterinary: 2 total
+[18:44:45]   roofing                   %roofing%                           ->      6 rows
+[18:44:46]   roofing                   %shingle%                           ->      1 rows
+[18:44:46]   >>> roofing: 7 total
+[18:44:48]   plumbing                  %plumbing%                          ->      4 rows
+[18:44:49]   >>> plumbing: 4 total
+[18:44:51]   painting                  %painting%                          ->      2 rows
+[18:44:51]   painting                  %painter%                           ->      1 rows
+[18:44:52]   >>> painting: 3 total
+[18:44:52]   landscaping               %landscap%                          ->     49 rows
+[18:44:53]   landscaping               %lawn care%                         ->     10 rows
+[18:44:53]   landscaping               %lawn service%                      ->      3 rows
+[18:44:53]   landscaping               %tree service%                      ->     14 rows
+[18:44:54]   landscaping               %arborist%                          ->      1 rows
+[18:44:55]   landscaping               %irrigation%                        ->      3 rows
+[18:44:55]   >>> landscaping: 80 total
+[18:44:55] 
+  Phase total: 953 records reclassified
+[18:44:55] 
+Done. Total reclassified: 953 in 60s
+[18:44:55] 
+============================================================
+[18:44:55]   CLASSIFICATION SUMMARY
+[18:44:55] ============================================================
+[18:44:55] 
+Sector                         Count
+[18:44:55] ------------------------------------

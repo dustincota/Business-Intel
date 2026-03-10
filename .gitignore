@@ -1,4 +1,4 @@
-# ─── Secrets ───
+# ─── Secrets (never commit) ───
 .env
 .env.*
 !.env.example
@@ -9,30 +9,13 @@ __pycache__/
 *.pyo
 .venv/
 venv/
-*.egg-info/
 
-# ─── Logs ───
-*.log
-*.log.*
-
-# ─── Runtime state / progress ───
-*_progress.json
-*_seen.json
-
-# ─── Data files ───
-census_data/
-*.csv
-*.tsv
-*.zip
-
-# ─── IDE / OS ───
-.vscode/
-.idea/
+# ─── OS ───
 .DS_Store
-*.swp
-*.swo
-*~
 
-# ─── Tool directories ───
-.firecrawl/
+# ─── Large files (>100MB, GitHub limit) ───
+census_data/cbp23co.txt
+census_data/zbp23detail.txt
+
+# ─── Claude Code internals ───
 .claude/

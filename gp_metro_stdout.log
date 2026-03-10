@@ -1,0 +1,1911 @@
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:40:47] ============================================================
+[23:40:47] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[23:40:47] ============================================================
+[23:40:47]   Metros: 103 | Resuming from metro 0, grid 0
+[23:40:47]   Found: 0 | Inserted: 0 | API calls: 0
+[23:40:47]   Seen place_ids: 6433
+[23:40:47] 
+  [1/103] New York — 52 grid points, 50km radius
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:42:53] ============================================================
+[23:42:53] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[23:42:53] ============================================================
+[23:42:53]   Metros: 103 | Resuming from metro 0, grid 0
+[23:42:53]   Found: 0 | Inserted: 0 | API calls: 0
+[23:42:53]   Seen place_ids: 6433
+[23:42:53] 
+  [1/103] New York — 52 grid points, 50km radius
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:54:05] ============================================================
+[23:54:05] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[23:54:05] ============================================================
+[23:54:05]   Metros: 103 | Resuming from metro 0, grid 25
+[23:54:05]   Found: 569 | Inserted: 538 | API calls: 623
+[23:54:05]   Seen place_ids: 7002
+[23:54:05] 
+  [1/103] New York — 52 grid points, 50km radius
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:54:52] ============================================================
+[23:54:52] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[23:54:52] ============================================================
+[23:54:52]   Metros: 103 | Resuming from metro 0, grid 25
+[23:54:52]   Found: 569 | Inserted: 538 | API calls: 623
+[23:54:52]   Seen place_ids: 7002
+[23:54:52] 
+  [1/103] New York — 52 grid points, 50km radius
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:55:45] ============================================================
+[23:55:45] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[23:55:45] ============================================================
+[23:55:45]   Metros: 103 | Resuming from metro 0, grid 25
+[23:55:45]   Found: 569 | Inserted: 538 | API calls: 623
+[23:55:45]   Seen place_ids: 7002
+[23:55:45] 
+  [1/103] New York — 52 grid points, 50km radius
+[23:56:55]   [1/103] New York done — +1222 new | Total: 1,222 found, 1,213 inserted | 1,338 API calls
+[23:56:55] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+[23:59:22]   [1/103] New York done — +1222 new | Total: 1,222 found, 1,213 inserted | 1,338 API calls
+[23:59:22] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+[00:02:56]   [1/103] New York done — +653 new | Total: 1,222 found, 1,182 inserted | 1,338 API calls
+[00:02:56] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+[00:03:28]   [1/103] New York done — +653 new | Total: 1,222 found, 1,182 inserted | 1,338 API calls
+[00:03:28] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+[00:04:23]   [1/103] New York done — +653 new | Total: 1,222 found, 1,182 inserted | 1,338 API calls
+[00:04:23] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[00:11:48] ============================================================
+[00:11:48] GOOGLE PLACES → car_washes (DENSE METRO SCAN)
+[00:11:48] ============================================================
+[00:11:48]   Metros: 103 | Resuming from metro 1, grid 25
+[00:11:48]   Found: 1738 | Inserted: 1692 | API calls: 1904
+[00:11:48]   Seen place_ids: 8171
+[00:11:48] 
+  [2/103] Los Angeles — 78 grid points, 60km radius
+[00:18:39]   [2/103] Los Angeles done — +1652 new | Total: 2,874 found, 2,843 inserted | 3,149 API calls
+[00:18:39] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:21:28]   [2/103] Los Angeles done — +1652 new | Total: 2,874 found, 2,843 inserted | 3,149 API calls
+[00:21:28] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:24:58]   [2/103] Los Angeles done — +1652 new | Total: 2,874 found, 2,812 inserted | 3,149 API calls
+[00:24:58] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:24:59]   [2/103] Los Angeles done — +1652 new | Total: 2,874 found, 2,812 inserted | 3,149 API calls
+[00:24:59] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:25:56]   [2/103] Los Angeles done — +1652 new | Total: 2,874 found, 2,812 inserted | 3,149 API calls
+[00:25:56] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:26:38]   [2/103] Los Angeles done — +1136 new | Total: 2,874 found, 2,797 inserted | 3,149 API calls
+[00:26:38] 
+  [3/103] Chicago — 43 grid points, 45km radius
+[00:31:44]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,848 inserted | 4,215 API calls
+[00:31:44] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:34:29]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,848 inserted | 4,215 API calls
+[00:34:29] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:38:00]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,817 inserted | 4,215 API calls
+[00:38:00] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:38:00]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,817 inserted | 4,215 API calls
+[00:38:00] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:38:39]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,817 inserted | 4,215 API calls
+[00:38:39] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:39:24]   [3/103] Chicago done — +974 new | Total: 3,848 found, 3,802 inserted | 4,215 API calls
+[00:39:24] 
+  [4/103] Houston — 52 grid points, 50km radius
+[00:50:18]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,212 inserted | 5,714 API calls
+[00:50:18] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[00:52:56]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,212 inserted | 5,714 API calls
+[00:52:56] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[00:56:24]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,181 inserted | 5,714 API calls
+[00:56:24]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,181 inserted | 5,714 API calls
+[00:56:24] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[00:56:24] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[00:56:37]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,181 inserted | 5,714 API calls
+[00:56:37] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[00:57:24]   [4/103] Houston done — +1372 new | Total: 5,220 found, 5,166 inserted | 5,714 API calls
+[00:57:24] 
+  [5/103] Phoenix — 43 grid points, 45km radius
+[01:00:13]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,901 inserted | 6,511 API calls
+[01:00:13] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:02:48]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,901 inserted | 6,511 API calls
+[01:02:48] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:06:14]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,870 inserted | 6,511 API calls
+[01:06:14]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,870 inserted | 6,511 API calls
+[01:06:14] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:06:14] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:06:16]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,870 inserted | 6,511 API calls
+[01:06:16] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:07:02]   [5/103] Phoenix done — +713 new | Total: 5,933 found, 5,855 inserted | 6,511 API calls
+[01:07:02] 
+  [6/103] Philadelphia — 33 grid points, 40km radius
+[01:07:50]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,475 inserted | 7,122 API calls
+[01:07:50] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:10:19]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,475 inserted | 7,122 API calls
+[01:10:19] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:13:37]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,892 inserted | 7,581 API calls
+[01:13:37] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:13:44]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,444 inserted | 7,122 API calls
+[01:13:44]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,444 inserted | 7,122 API calls
+[01:13:44] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:13:44] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:13:44]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,444 inserted | 7,122 API calls
+[01:13:44] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:14:24]   [6/103] Philadelphia done — +549 new | Total: 6,482 found, 6,429 inserted | 7,122 API calls
+[01:14:24] 
+  [7/103] San Antonio — 24 grid points, 35km radius
+[01:16:04]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,892 inserted | 7,581 API calls
+[01:16:04] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:19:28]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,861 inserted | 7,581 API calls
+[01:19:28]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,861 inserted | 7,581 API calls
+[01:19:28] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:19:28] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:19:28]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,861 inserted | 7,581 API calls
+[01:19:28] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:20:02]   [7/103] San Antonio done — +410 new | Total: 6,892 found, 6,846 inserted | 7,581 API calls
+[01:20:02] 
+  [8/103] San Diego — 24 grid points, 35km radius
+[01:20:44]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,414 inserted | 8,160 API calls
+[01:20:44] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:23:08]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,414 inserted | 8,160 API calls
+[01:23:08] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:26:29]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,383 inserted | 8,160 API calls
+[01:26:29]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,383 inserted | 8,160 API calls
+[01:26:29] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:26:29] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:26:29]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,383 inserted | 8,160 API calls
+[01:26:29] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:26:56]   [8/103] San Diego done — +529 new | Total: 7,421 found, 7,368 inserted | 8,160 API calls
+[01:26:56] 
+  [9/103] Dallas — 52 grid points, 50km radius
+[01:36:08]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,509 inserted | 9,404 API calls
+[01:36:08] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:38:25]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,509 inserted | 9,404 API calls
+[01:38:25] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:40:28]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,824 inserted | 9,744 API calls
+[01:40:29] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:41:40]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,478 inserted | 9,404 API calls
+[01:41:40]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,478 inserted | 9,404 API calls
+[01:41:40] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:41:40] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:41:40]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,478 inserted | 9,404 API calls
+[01:41:40] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:41:51]   [9/103] Dallas done — +1131 new | Total: 8,552 found, 8,463 inserted | 9,404 API calls
+[01:41:51] 
+  [10/103] Austin — 24 grid points, 35km radius
+[01:42:42]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,824 inserted | 9,744 API calls
+[01:42:42] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:43:38]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,049 inserted | 9,985 API calls
+[01:43:38] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:45:51]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,049 inserted | 9,985 API calls
+[01:45:51] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:45:57]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,793 inserted | 9,744 API calls
+[01:45:57]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,793 inserted | 9,744 API calls
+[01:45:57] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:45:57] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:45:57]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,793 inserted | 9,744 API calls
+[01:45:57] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:46:03]   [10/103] Austin done — +296 new | Total: 8,848 found, 8,778 inserted | 9,744 API calls
+[01:46:03] 
+  [11/103] Jacksonville — 24 grid points, 35km radius
+[01:46:39]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,214 inserted | 10,202 API calls
+[01:46:39] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:48:50]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,214 inserted | 10,202 API calls
+[01:48:50] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:49:03]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,018 inserted | 9,985 API calls
+[01:49:03]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,018 inserted | 9,985 API calls
+[01:49:03] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:49:03] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:49:03]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,018 inserted | 9,985 API calls
+[01:49:03] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:49:06]   [11/103] Jacksonville done — +201 new | Total: 9,049 found, 9,003 inserted | 9,985 API calls
+[01:49:06] 
+  [12/103] Fort Worth — 16 grid points, 30km radius
+[01:50:16]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,493 inserted | 10,496 API calls
+[01:50:16] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:52:01]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,183 inserted | 10,202 API calls
+[01:52:01]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,183 inserted | 10,202 API calls
+[01:52:01]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,168 inserted | 10,202 API calls
+[01:52:01]   [12/103] Fort Worth done — +179 new | Total: 9,228 found, 9,183 inserted | 10,202 API calls
+[01:52:01] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:52:01] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:52:01] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:52:01] 
+  [13/103] San Jose — 16 grid points, 30km radius
+[01:52:26]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,493 inserted | 10,496 API calls
+[01:52:26] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:54:02]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,745 inserted | 10,796 API calls
+[01:54:02] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:55:36]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,462 inserted | 10,496 API calls
+[01:55:36] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:55:36]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,447 inserted | 10,496 API calls
+[01:55:36] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:55:36]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,462 inserted | 10,496 API calls
+[01:55:36] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:55:36]   [13/103] San Jose done — +265 new | Total: 9,493 found, 9,462 inserted | 10,496 API calls
+[01:55:36] 
+  [14/103] Columbus — 16 grid points, 30km radius
+[01:56:10]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,745 inserted | 10,796 API calls
+[01:56:10] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:59:20]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,699 inserted | 10,796 API calls
+[01:59:20] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:59:20]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,714 inserted | 10,796 API calls
+[01:59:20] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:59:20]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,714 inserted | 10,796 API calls
+[01:59:20] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:59:20]   [14/103] Columbus done — +268 new | Total: 9,761 found, 9,714 inserted | 10,796 API calls
+[01:59:20] 
+  [15/103] Charlotte — 24 grid points, 35km radius
+[01:59:57]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,165 inserted | 11,272 API calls
+[01:59:57] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:02:03]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,165 inserted | 11,272 API calls
+[02:02:03] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:03:36]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,404 inserted | 11,564 API calls
+[02:03:36] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:05:13]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,134 inserted | 11,272 API calls
+[02:05:13] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:05:13]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,134 inserted | 11,272 API calls
+[02:05:13] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:05:13]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,119 inserted | 11,272 API calls
+[02:05:13] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:05:13]   [15/103] Charlotte done — +428 new | Total: 10,189 found, 10,134 inserted | 11,272 API calls
+[02:05:13] 
+  [16/103] Indianapolis — 24 grid points, 35km radius
+[02:05:40]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,404 inserted | 11,564 API calls
+[02:05:40] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:06:45]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,664 inserted | 11,821 API calls
+[02:06:45] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:08:47]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,664 inserted | 11,821 API calls
+[02:08:47] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:08:50]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,373 inserted | 11,564 API calls
+[02:08:50] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:08:50]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,373 inserted | 11,564 API calls
+[02:08:50] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:08:50]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,358 inserted | 11,564 API calls
+[02:08:50] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:08:50]   [16/103] Indianapolis done — +254 new | Total: 10,443 found, 10,373 inserted | 11,564 API calls
+[02:08:50] 
+  [17/103] San Francisco — 11 grid points, 25km radius
+[02:10:54]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,971 inserted | 12,154 API calls
+[02:10:54] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:11:56]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,633 inserted | 11,821 API calls
+[02:11:56] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:11:56]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,633 inserted | 11,821 API calls
+[02:11:56] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:11:57]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,633 inserted | 11,821 API calls
+[02:11:57] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:11:57]   [17/103] San Francisco done — +235 new | Total: 10,678 found, 10,618 inserted | 11,821 API calls
+[02:11:57] 
+  [18/103] Seattle — 24 grid points, 35km radius
+[02:12:55]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,971 inserted | 12,154 API calls
+[02:12:55] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:16:04]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,940 inserted | 12,154 API calls
+[02:16:04] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:16:05]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,940 inserted | 12,154 API calls
+[02:16:05] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:16:05]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,925 inserted | 12,154 API calls
+[02:16:05] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:16:05]   [18/103] Seattle done — +293 new | Total: 10,971 found, 10,940 inserted | 12,154 API calls
+[02:16:05] 
+  [19/103] Denver — 33 grid points, 40km radius
+[02:20:04]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,625 inserted | 12,900 API calls
+[02:20:04] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:21:54]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,625 inserted | 12,900 API calls
+[02:21:54] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:22:52]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,798 inserted | 13,128 API calls
+[02:22:52] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:24:37]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,798 inserted | 13,128 API calls
+[02:24:37] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:25:10]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,594 inserted | 12,900 API calls
+[02:25:10] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:25:10]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,594 inserted | 12,900 API calls
+[02:25:10] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:25:10]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,579 inserted | 12,900 API calls
+[02:25:11] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:25:11]   [19/103] Denver done — +678 new | Total: 11,649 found, 11,594 inserted | 12,900 API calls
+[02:25:11] 
+  [20/103] Nashville — 24 grid points, 35km radius
+[02:27:56]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,767 inserted | 13,128 API calls
+[02:27:56] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:27:56]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,767 inserted | 13,128 API calls
+[02:27:56] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:27:56]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,752 inserted | 13,128 API calls
+[02:27:56] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:27:56]   [20/103] Nashville done — +196 new | Total: 11,845 found, 11,767 inserted | 13,128 API calls
+[02:27:57] 
+  [21/103] Washington DC — 33 grid points, 40km radius
+[02:32:09]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,481 inserted | 13,864 API calls
+[02:32:09] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:33:39]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,481 inserted | 13,864 API calls
+[02:33:39] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:35:54]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,724 inserted | 14,161 API calls
+[02:35:54] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:37:09]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,450 inserted | 13,864 API calls
+[02:37:09] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:37:09]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,435 inserted | 13,864 API calls
+[02:37:09] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:37:09]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,450 inserted | 13,864 API calls
+[02:37:09] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:37:09]   [21/103] Washington DC done — +661 new | Total: 12,506 found, 12,450 inserted | 13,864 API calls
+[02:37:09] 
+  [22/103] Oklahoma City — 24 grid points, 35km radius
+[02:37:18]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,724 inserted | 14,161 API calls
+[02:37:18] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:40:02]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,061 inserted | 14,499 API calls
+[02:40:02] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:40:53]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,693 inserted | 14,161 API calls
+[02:40:53] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:40:53]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,693 inserted | 14,161 API calls
+[02:40:53] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:40:53]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,678 inserted | 14,161 API calls
+[02:40:53] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:40:53]   [22/103] Oklahoma City done — +257 new | Total: 12,763 found, 12,693 inserted | 14,161 API calls
+[02:40:53] 
+  [23/103] El Paso — 11 grid points, 25km radius
+[02:41:21]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,061 inserted | 14,499 API calls
+[02:41:21] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:44:04]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,347 inserted | 14,824 API calls
+[02:44:04] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:44:59]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,015 inserted | 14,499 API calls
+[02:44:59] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:44:59]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,030 inserted | 14,499 API calls
+[02:44:59] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:44:59]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,030 inserted | 14,499 API calls
+[02:44:59] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:44:59]   [23/103] El Paso done — +311 new | Total: 13,074 found, 13,030 inserted | 14,499 API calls
+[02:44:59] 
+  [24/103] Boston — 24 grid points, 35km radius
+[02:45:16]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,347 inserted | 14,824 API calls
+[02:45:16] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:47:46]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,586 inserted | 15,117 API calls
+[02:47:46] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:48:53]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,586 inserted | 15,117 API calls
+[02:48:53] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:48:58]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,316 inserted | 14,824 API calls
+[02:48:58]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,316 inserted | 14,824 API calls
+[02:48:58] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:48:58] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:48:58]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,316 inserted | 14,824 API calls
+[02:48:58] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:48:59]   [24/103] Boston done — +287 new | Total: 13,361 found, 13,301 inserted | 14,824 API calls
+[02:48:59] 
+  [25/103] Portland — 16 grid points, 30km radius
+[02:52:40]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,540 inserted | 15,117 API calls
+[02:52:40] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:52:40]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,555 inserted | 15,117 API calls
+[02:52:40] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:52:40]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,555 inserted | 15,117 API calls
+[02:52:40] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:52:40]   [25/103] Portland done — +260 new | Total: 13,621 found, 13,555 inserted | 15,117 API calls
+[02:52:40] 
+  [26/103] Las Vegas — 24 grid points, 35km radius
+[02:53:07]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,982 inserted | 15,551 API calls
+[02:53:07] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:54:07]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,982 inserted | 15,551 API calls
+[02:54:07] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:56:43]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,257 inserted | 15,838 API calls
+[02:56:43] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[02:57:36]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,257 inserted | 15,838 API calls
+[02:57:36] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[02:57:58]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,936 inserted | 15,551 API calls
+[02:57:58]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,951 inserted | 15,551 API calls
+[02:57:58] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:57:58] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:57:58]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,951 inserted | 15,551 API calls
+[02:57:58] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:57:58]   [26/103] Las Vegas done — +390 new | Total: 14,011 found, 13,951 inserted | 15,551 API calls
+[02:57:58] 
+  [27/103] Memphis — 16 grid points, 30km radius
+[02:59:02]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,377 inserted | 16,023 API calls
+[02:59:02] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[02:59:52]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,377 inserted | 16,023 API calls
+[02:59:52] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[03:01:32]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,226 inserted | 15,838 API calls
+[03:01:32] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[03:01:32]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,211 inserted | 15,838 API calls
+[03:01:32] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[03:01:32]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,226 inserted | 15,838 API calls
+[03:01:32] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[03:01:32]   [27/103] Memphis done — +256 new | Total: 14,267 found, 14,226 inserted | 15,838 API calls
+[03:01:32] 
+  [28/103] Louisville — 16 grid points, 30km radius
+[03:03:03]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,692 inserted | 16,328 API calls
+[03:03:03] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:03:46]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,692 inserted | 16,328 API calls
+[03:03:47] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:03:51]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,346 inserted | 16,023 API calls
+[03:03:51] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[03:03:51]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,346 inserted | 16,023 API calls
+[03:03:51] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[03:03:51]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,331 inserted | 16,023 API calls
+[03:03:51] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[03:03:51]   [28/103] Louisville done — +159 new | Total: 14,426 found, 14,346 inserted | 16,023 API calls
+[03:03:51] 
+  [29/103] Baltimore — 16 grid points, 30km radius
+[03:06:25]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,911 inserted | 16,606 API calls
+[03:06:25] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:07:04]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,911 inserted | 16,606 API calls
+[03:07:04] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:07:49]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,646 inserted | 16,328 API calls
+[03:07:49] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:07:49]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,661 inserted | 16,328 API calls
+[03:07:49] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:07:49]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,661 inserted | 16,328 API calls
+[03:07:49] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:07:49]   [29/103] Baltimore done — +266 new | Total: 14,692 found, 14,661 inserted | 16,328 API calls
+[03:07:49] 
+  [30/103] Milwaukee — 11 grid points, 25km radius
+[03:08:24]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 15,042 inserted | 16,762 API calls
+[03:08:24] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:08:59]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 15,042 inserted | 16,762 API calls
+[03:08:59] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:10:18]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,196 inserted | 16,918 API calls
+[03:10:18] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:10:51]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,196 inserted | 16,918 API calls
+[03:10:51] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:11:10]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,880 inserted | 16,606 API calls
+[03:11:10] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:11:10]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,865 inserted | 16,606 API calls
+[03:11:10] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:11:10]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,880 inserted | 16,606 API calls
+[03:11:10] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:11:10]   [30/103] Milwaukee done — +255 new | Total: 14,947 found, 14,880 inserted | 16,606 API calls
+[03:11:10] 
+  [31/103] Albuquerque — 11 grid points, 25km radius
+[03:12:19]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,368 inserted | 17,080 API calls
+[03:12:19] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:12:50]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,368 inserted | 17,080 API calls
+[03:12:50] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:13:08]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 14,996 inserted | 16,762 API calls
+[03:13:08]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 15,011 inserted | 16,762 API calls
+[03:13:08] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:13:08] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:13:08]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 15,011 inserted | 16,762 API calls
+[03:13:08] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:13:08]   [31/103] Albuquerque done — +136 new | Total: 15,083 found, 15,011 inserted | 16,762 API calls
+[03:13:08] 
+  [32/103] Tucson — 11 grid points, 25km radius
+[03:15:02]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,165 inserted | 16,918 API calls
+[03:15:02]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,150 inserted | 16,918 API calls
+[03:15:02] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:15:02] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:15:02]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,165 inserted | 16,918 API calls
+[03:15:02] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:15:02]   [32/103] Tucson done — +139 new | Total: 15,222 found, 15,165 inserted | 16,918 API calls
+[03:15:02] 
+  [33/103] Fresno — 8 grid points, 20km radius
+[03:16:44]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,695 inserted | 17,439 API calls
+[03:16:44] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:17:02]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,322 inserted | 17,080 API calls
+[03:17:02] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:17:02]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,337 inserted | 17,080 API calls
+[03:17:02] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:17:02]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,337 inserted | 17,080 API calls
+[03:17:02] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:17:02]   [33/103] Fresno done — +146 new | Total: 15,368 found, 15,337 inserted | 17,080 API calls
+[03:17:02] 
+  [34/103] Sacramento — 16 grid points, 30km radius
+[03:17:07]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,695 inserted | 17,439 API calls
+[03:17:07] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:17:22]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,695 inserted | 17,462 API calls
+[03:17:22] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:17:44]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,695 inserted | 17,462 API calls
+[03:17:44] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:21:23]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,649 inserted | 17,439 API calls
+[03:21:23] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:21:23]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,664 inserted | 17,439 API calls
+[03:21:23] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:21:23]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,664 inserted | 17,439 API calls
+[03:21:23] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:21:23]   [34/103] Sacramento done — +327 new | Total: 15,695 found, 15,664 inserted | 17,439 API calls
+[03:21:23] 
+  [35/103] Mesa — 8 grid points, 20km radius
+[03:22:01]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,649 inserted | 17,462 API calls
+[03:22:01]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,664 inserted | 17,462 API calls
+[03:22:01] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:22:01] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:22:01]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,664 inserted | 17,462 API calls
+[03:22:01]   [35/103] Mesa done — +1 new | Total: 15,696 found, 15,664 inserted | 17,462 API calls
+[03:22:01] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:22:01] 
+  [36/103] Kansas City — 24 grid points, 35km radius
+[03:22:15]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,999 inserted | 17,854 API calls
+[03:22:15] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:22:28]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,999 inserted | 17,854 API calls
+[03:22:28] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:26:50]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,968 inserted | 17,854 API calls
+[03:26:50]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,953 inserted | 17,854 API calls
+[03:26:50] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:26:50] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:26:50]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,968 inserted | 17,854 API calls
+[03:26:50] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:26:50]   [36/103] Kansas City done — +349 new | Total: 16,045 found, 15,968 inserted | 17,854 API calls
+[03:26:50] 
+  [37/103] Atlanta — 43 grid points, 45km radius
+[03:35:56]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 17,016 inserted | 18,949 API calls
+[03:35:56] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:35:56]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 17,016 inserted | 18,949 API calls
+[03:35:56] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:38:33]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,227 inserted | 19,161 API calls
+[03:38:33]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,227 inserted | 19,161 API calls
+[03:38:33] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:38:33] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:40:21]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 16,985 inserted | 18,949 API calls
+[03:40:21] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:40:21]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 16,970 inserted | 18,949 API calls
+[03:40:21] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:40:21]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 16,985 inserted | 18,949 API calls
+[03:40:21] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:40:21]   [37/103] Atlanta done — +994 new | Total: 17,039 found, 16,985 inserted | 18,949 API calls
+[03:40:21] 
+  [38/103] Omaha — 11 grid points, 25km radius
+[03:40:50]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,378 inserted | 19,347 API calls
+[03:40:50] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:40:50]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,378 inserted | 19,347 API calls
+[03:40:50] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:42:57]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,196 inserted | 19,161 API calls
+[03:42:57]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,181 inserted | 19,161 API calls
+[03:42:57] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:42:57] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:42:57]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,196 inserted | 19,161 API calls
+[03:42:57] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:42:57]   [38/103] Omaha done — +191 new | Total: 17,230 found, 17,196 inserted | 19,161 API calls
+[03:42:57] 
+  [39/103] Colorado Springs — 11 grid points, 25km radius
+[03:44:42]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,659 inserted | 19,657 API calls
+[03:44:42]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,659 inserted | 19,657 API calls
+[03:44:42] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:44:42] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:45:12]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,347 inserted | 19,347 API calls
+[03:45:12]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,332 inserted | 19,347 API calls
+[03:45:13] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:45:13] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:45:13]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,347 inserted | 19,347 API calls
+[03:45:13] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:45:13]   [39/103] Colorado Springs done — +167 new | Total: 17,397 found, 17,347 inserted | 19,347 API calls
+[03:45:13] 
+  [40/103] Raleigh — 16 grid points, 30km radius
+[03:46:08]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,729 inserted | 19,752 API calls
+[03:46:08] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:46:08]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,729 inserted | 19,752 API calls
+[03:46:08] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:47:22]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,829 inserted | 19,850 API calls
+[03:47:22] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:47:22]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,829 inserted | 19,850 API calls
+[03:47:22] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:49:02]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,613 inserted | 19,657 API calls
+[03:49:02]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,628 inserted | 19,657 API calls
+[03:49:02] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:49:02] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:49:02]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,628 inserted | 19,657 API calls
+[03:49:02] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:49:02]   [40/103] Raleigh done — +278 new | Total: 17,675 found, 17,628 inserted | 19,657 API calls
+[03:49:02] 
+  [41/103] Long Beach — 8 grid points, 20km radius
+[03:50:27]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,683 inserted | 19,752 API calls
+[03:50:27]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,698 inserted | 19,752 API calls
+[03:50:27] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:50:27] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:50:27]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,698 inserted | 19,752 API calls
+[03:50:27] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:50:27]   [41/103] Long Beach done — +73 new | Total: 17,748 found, 17,698 inserted | 19,752 API calls
+[03:50:27] 
+  [42/103] Virginia Beach — 11 grid points, 25km radius
+[03:51:40]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,798 inserted | 19,850 API calls
+[03:51:40]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,783 inserted | 19,850 API calls
+[03:51:40] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:51:40] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:51:40]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,798 inserted | 19,850 API calls
+[03:51:40]   [42/103] Virginia Beach done — +83 new | Total: 17,831 found, 17,798 inserted | 19,850 API calls
+[03:51:40] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:51:40] 
+  [43/103] Miami — 33 grid points, 40km radius
+[03:55:47]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,408 inserted | 20,534 API calls
+[03:55:47] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[03:55:47]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,408 inserted | 20,534 API calls
+[03:55:47] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[03:56:58]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,472 inserted | 20,610 API calls
+[03:56:58] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[03:56:58]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,472 inserted | 20,610 API calls
+[03:56:58] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[04:00:03]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,377 inserted | 20,534 API calls
+[04:00:03] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[04:00:03]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,362 inserted | 20,534 API calls
+[04:00:03] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[04:00:03]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,377 inserted | 20,534 API calls
+[04:00:03] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[04:00:03]   [43/103] Miami done — +618 new | Total: 18,449 found, 18,377 inserted | 20,534 API calls
+[04:00:03] 
+  [44/103] Oakland — 8 grid points, 20km radius
+[04:01:13]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,441 inserted | 20,610 API calls
+[04:01:13] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[04:01:13]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,441 inserted | 20,610 API calls
+[04:01:13] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[04:01:13]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,426 inserted | 20,610 API calls
+[04:01:13] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[04:01:13]   [44/103] Oakland done — +56 new | Total: 18,505 found, 18,441 inserted | 20,610 API calls
+[04:01:13] 
+  [45/103] Minneapolis — 24 grid points, 35km radius
+[04:05:06]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,068 inserted | 21,251 API calls
+[04:05:06] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:05:06]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,068 inserted | 21,251 API calls
+[04:05:06] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:09:16]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,037 inserted | 21,251 API calls
+[04:09:16] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:09:16]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,037 inserted | 21,251 API calls
+[04:09:16] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:09:16]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,022 inserted | 21,251 API calls
+[04:09:16] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:09:16]   [45/103] Minneapolis done — +579 new | Total: 19,084 found, 19,037 inserted | 21,251 API calls
+[04:09:16] 
+  [46/103] Tampa — 24 grid points, 35km radius
+[04:11:44]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,548 inserted | 21,780 API calls
+[04:11:44] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:11:44]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,548 inserted | 21,780 API calls
+[04:11:44] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:14:01]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,682 inserted | 21,964 API calls
+[04:14:01] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:14:01]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,682 inserted | 21,964 API calls
+[04:14:01] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:14:44]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,682 inserted | 21,989 API calls
+[04:14:44]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,682 inserted | 21,989 API calls
+[04:14:44] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:14:44] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:15:52]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,517 inserted | 21,780 API calls
+[04:15:52] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:15:52]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,502 inserted | 21,780 API calls
+[04:15:52] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:15:52]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,517 inserted | 21,780 API calls
+[04:15:52] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:15:52]   [46/103] Tampa done — +475 new | Total: 19,559 found, 19,517 inserted | 21,780 API calls
+[04:15:52] 
+  [47/103] Tulsa — 16 grid points, 30km radius
+[04:16:24]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,797 inserted | 22,112 API calls
+[04:16:24] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:16:24]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,797 inserted | 22,112 API calls
+[04:16:24] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:17:44]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,865 inserted | 22,222 API calls
+[04:17:44] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:17:44]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,865 inserted | 22,222 API calls
+[04:17:44] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:18:08]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,651 inserted | 21,964 API calls
+[04:18:08] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:18:08]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,651 inserted | 21,964 API calls
+[04:18:08] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:18:09]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,651 inserted | 21,964 API calls
+[04:18:09] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:18:09]   [47/103] Tulsa done — +159 new | Total: 19,718 found, 19,636 inserted | 21,964 API calls
+[04:18:09] 
+  [48/103] Arlington TX — 8 grid points, 20km radius
+[04:18:51]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,651 inserted | 21,989 API calls
+[04:18:51]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,651 inserted | 21,989 API calls
+[04:18:51] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:18:51]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,651 inserted | 21,989 API calls
+[04:18:51] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:18:51] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:18:51]   [48/103] Arlington TX done — +1 new | Total: 19,719 found, 19,636 inserted | 21,989 API calls
+[04:18:51] 
+  [49/103] New Orleans — 16 grid points, 30km radius
+[04:20:29]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,766 inserted | 22,112 API calls
+[04:20:29] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:20:29]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,766 inserted | 22,112 API calls
+[04:20:29] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:20:29]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,766 inserted | 22,112 API calls
+[04:20:29] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:20:29]   [49/103] New Orleans done — +97 new | Total: 19,816 found, 19,751 inserted | 22,112 API calls
+[04:20:29] 
+  [50/103] Wichita — 11 grid points, 25km radius
+[04:21:49]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,834 inserted | 22,222 API calls
+[04:21:49] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:21:49]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,819 inserted | 22,222 API calls
+[04:21:49] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:21:49]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,834 inserted | 22,222 API calls
+[04:21:49] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:21:49]   [50/103] Wichita done — +95 new | Total: 19,911 found, 19,834 inserted | 22,222 API calls
+[04:21:49] 
+  [51/103] Cleveland — 16 grid points, 30km radius
+[04:22:00]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,201 inserted | 22,563 API calls
+[04:22:00] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:22:00]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,201 inserted | 22,563 API calls
+[04:22:00] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:23:54]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,338 inserted | 22,716 API calls
+[04:23:54] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:23:54]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,338 inserted | 22,716 API calls
+[04:23:54] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:24:40]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,338 inserted | 22,761 API calls
+[04:24:40] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:24:40]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,338 inserted | 22,761 API calls
+[04:24:40] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:26:03]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,170 inserted | 22,563 API calls
+[04:26:03]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,170 inserted | 22,563 API calls
+[04:26:03] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:26:03] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:26:03]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,170 inserted | 22,563 API calls
+[04:26:03] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:26:03]   [51/103] Cleveland done — +307 new | Total: 20,218 found, 20,155 inserted | 22,563 API calls
+[04:26:03] 
+  [52/103] Bakersfield — 8 grid points, 20km radius
+[04:26:07]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,451 inserted | 22,853 API calls
+[04:26:07] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:26:07]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,451 inserted | 22,853 API calls
+[04:26:07] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:26:57]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,501 inserted | 22,922 API calls
+[04:26:57] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:26:57]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,501 inserted | 22,922 API calls
+[04:26:57] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:27:26]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,501 inserted | 22,946 API calls
+[04:27:26] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:27:26]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,501 inserted | 22,946 API calls
+[04:27:26] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:27:57]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,307 inserted | 22,716 API calls
+[04:27:57] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:27:57]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,307 inserted | 22,716 API calls
+[04:27:57] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:27:57]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,307 inserted | 22,716 API calls
+[04:27:57] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:27:57]   [52/103] Bakersfield done — +137 new | Total: 20,355 found, 20,292 inserted | 22,716 API calls
+[04:27:57] 
+  [53/103] Aurora CO — 8 grid points, 20km radius
+[04:28:43]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,292 inserted | 22,761 API calls
+[04:28:43] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:28:43]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,307 inserted | 22,761 API calls
+[04:28:43] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:28:43]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,307 inserted | 22,761 API calls
+[04:28:43] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:28:43]   [53/103] Aurora CO done — +27 new | Total: 20,382 found, 20,307 inserted | 22,761 API calls
+[04:28:43] 
+  [54/103] Anaheim — 8 grid points, 20km radius
+[04:30:08]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,420 inserted | 22,853 API calls
+[04:30:08] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:30:08]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,420 inserted | 22,853 API calls
+[04:30:08] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:30:08]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,405 inserted | 22,853 API calls
+[04:30:08] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:30:08]   [54/103] Anaheim done — +69 new | Total: 20,451 found, 20,420 inserted | 22,853 API calls
+[04:30:08] 
+  [55/103] Honolulu — 8 grid points, 20km radius
+[04:30:59]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,470 inserted | 22,922 API calls
+[04:30:59] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:30:59]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,470 inserted | 22,922 API calls
+[04:30:59] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:30:59]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,455 inserted | 22,922 API calls
+[04:30:59] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:30:59]   [55/103] Honolulu done — +59 new | Total: 20,510 found, 20,470 inserted | 22,922 API calls
+[04:30:59] 
+  [56/103] Santa Ana — 4 grid points, 15km radius
+[04:31:27]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,470 inserted | 22,946 API calls
+[04:31:27] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:31:27]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,455 inserted | 22,946 API calls
+[04:31:28] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:31:28]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,470 inserted | 22,946 API calls
+[04:31:28] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:31:28]   [56/103] Santa Ana done — +12 new | Total: 20,522 found, 20,470 inserted | 22,946 API calls
+[04:31:28] 
+  [57/103] Riverside — 16 grid points, 30km radius
+[04:33:20]   [57/103] Riverside done — +429 new | Total: 20,951 found, 20,951 inserted | 23,417 API calls
+[04:33:20]   [57/103] Riverside done — +429 new | Total: 20,951 found, 20,951 inserted | 23,417 API calls
+[04:33:20] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:33:20] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:33:42]   [58/103] Corpus Christi done — +14 new | Total: 20,965 found, 20,951 inserted | 23,442 API calls
+[04:33:42] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:33:42]   [58/103] Corpus Christi done — +14 new | Total: 20,965 found, 20,951 inserted | 23,442 API calls
+[04:33:42] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:34:46]   [59/103] Pittsburgh done — +75 new | Total: 21,040 found, 21,010 inserted | 23,534 API calls
+[04:34:46] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:34:46]   [59/103] Pittsburgh done — +75 new | Total: 21,040 found, 21,010 inserted | 23,534 API calls
+[04:34:46] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:34:52]   [60/103] Lexington done — +0 new | Total: 21,040 found, 21,010 inserted | 23,542 API calls
+[04:34:52] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:34:52]   [60/103] Lexington done — +0 new | Total: 21,040 found, 21,010 inserted | 23,542 API calls
+[04:34:52] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:34:55]   [57/103] Riverside done — +253 new | Total: 20,775 found, 20,744 inserted | 23,229 API calls
+[04:34:55]   [61/103] Stockton done — +0 new | Total: 21,040 found, 21,010 inserted | 23,546 API calls
+[04:34:55]   [57/103] Riverside done — +253 new | Total: 20,775 found, 20,744 inserted | 23,229 API calls
+[04:34:55]   [57/103] Riverside done — +253 new | Total: 20,775 found, 20,744 inserted | 23,229 API calls
+[04:34:55]   [57/103] Riverside done — +253 new | Total: 20,775 found, 20,729 inserted | 23,229 API calls
+[04:34:55] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:34:55] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:34:55] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:34:55] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:34:55] 
+  [58/103] Corpus Christi — 8 grid points, 20km radius
+[04:34:55]   [61/103] Stockton done — +0 new | Total: 21,040 found, 21,010 inserted | 23,546 API calls
+[04:34:55] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:35:01]   [58/103] Corpus Christi done — +0 new | Total: 20,775 found, 20,744 inserted | 23,237 API calls
+[04:35:01]   [58/103] Corpus Christi done — +0 new | Total: 20,775 found, 20,744 inserted | 23,237 API calls
+[04:35:01]   [58/103] Corpus Christi done — +0 new | Total: 20,775 found, 20,744 inserted | 23,237 API calls
+[04:35:01]   [58/103] Corpus Christi done — +0 new | Total: 20,775 found, 20,729 inserted | 23,237 API calls
+[04:35:01] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:35:01] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:35:01] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:35:01] 
+  [59/103] Pittsburgh — 16 grid points, 30km radius
+[04:35:13]   [62/103] St Louis done — +0 new | Total: 21,040 found, 21,010 inserted | 23,570 API calls
+[04:35:13]   [59/103] Pittsburgh done — +0 new | Total: 20,775 found, 20,744 inserted | 23,253 API calls
+[04:35:13] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:13] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:35:13]   [59/103] Pittsburgh done — +0 new | Total: 20,775 found, 20,744 inserted | 23,253 API calls
+[04:35:13]   [59/103] Pittsburgh done — +0 new | Total: 20,775 found, 20,729 inserted | 23,253 API calls
+[04:35:13] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:35:13]   [59/103] Pittsburgh done — +0 new | Total: 20,775 found, 20,744 inserted | 23,253 API calls
+[04:35:13] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:35:13] 
+  [60/103] Lexington — 8 grid points, 20km radius
+[04:35:14]   [62/103] St Louis done — +0 new | Total: 21,040 found, 21,010 inserted | 23,570 API calls
+[04:35:14] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:20]   [60/103] Lexington done — +0 new | Total: 20,775 found, 20,729 inserted | 23,261 API calls
+[04:35:20]   [60/103] Lexington done — +0 new | Total: 20,775 found, 20,744 inserted | 23,261 API calls
+[04:35:20]   [60/103] Lexington done — +0 new | Total: 20,775 found, 20,744 inserted | 23,261 API calls
+[04:35:20] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:35:20] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:35:20] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:35:20]   [60/103] Lexington done — +0 new | Total: 20,775 found, 20,744 inserted | 23,261 API calls
+[04:35:20] 
+  [61/103] Stockton — 4 grid points, 15km radius
+[04:35:23]   [61/103] Stockton done — +0 new | Total: 20,775 found, 20,744 inserted | 23,265 API calls
+[04:35:23] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:35:23]   [61/103] Stockton done — +0 new | Total: 20,775 found, 20,729 inserted | 23,265 API calls
+[04:35:23]   [61/103] Stockton done — +0 new | Total: 20,775 found, 20,744 inserted | 23,265 API calls
+[04:35:23]   [61/103] Stockton done — +0 new | Total: 20,775 found, 20,744 inserted | 23,265 API calls
+[04:35:23] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:35:23] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:35:23] 
+  [62/103] St Louis — 24 grid points, 35km radius
+[04:35:26]   [63/103] Cincinnati done — +0 new | Total: 21,040 found, 21,010 inserted | 23,586 API calls
+[04:35:26] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:26]   [63/103] Cincinnati done — +0 new | Total: 21,040 found, 21,010 inserted | 23,586 API calls
+[04:35:26] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:32]   [64/103] St Paul done — +0 new | Total: 21,040 found, 21,010 inserted | 23,594 API calls
+[04:35:32] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:35:32]   [64/103] St Paul done — +0 new | Total: 21,040 found, 21,010 inserted | 23,594 API calls
+[04:35:32] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:35:38]   [65/103] Greensboro done — +0 new | Total: 21,040 found, 21,010 inserted | 23,602 API calls
+[04:35:38] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:35:38]   [65/103] Greensboro done — +0 new | Total: 21,040 found, 21,010 inserted | 23,602 API calls
+[04:35:38] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:35:41]   [62/103] St Louis done — +0 new | Total: 20,775 found, 20,744 inserted | 23,289 API calls
+[04:35:41]   [62/103] St Louis done — +0 new | Total: 20,775 found, 20,744 inserted | 23,289 API calls
+[04:35:41]   [62/103] St Louis done — +0 new | Total: 20,775 found, 20,729 inserted | 23,289 API calls
+[04:35:41]   [66/103] Newark done — +0 new | Total: 21,040 found, 21,010 inserted | 23,606 API calls
+[04:35:41]   [62/103] St Louis done — +0 new | Total: 20,775 found, 20,744 inserted | 23,289 API calls
+[04:35:41] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:41] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:41] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:41] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:35:41] 
+  [63/103] Cincinnati — 16 grid points, 30km radius
+[04:35:41]   [66/103] Newark done — +0 new | Total: 21,040 found, 21,010 inserted | 23,606 API calls
+[04:35:41] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:35:44]   [67/103] Plano done — +0 new | Total: 21,040 found, 21,010 inserted | 23,610 API calls
+[04:35:44] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:35:45]   [67/103] Plano done — +0 new | Total: 21,040 found, 21,010 inserted | 23,610 API calls
+[04:35:45] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:35:47]   [68/103] Henderson done — +0 new | Total: 21,040 found, 21,010 inserted | 23,614 API calls
+[04:35:47] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:35:48]   [68/103] Henderson done — +0 new | Total: 21,040 found, 21,010 inserted | 23,614 API calls
+[04:35:48] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:35:53]   [63/103] Cincinnati done — +0 new | Total: 20,775 found, 20,744 inserted | 23,305 API calls
+[04:35:53] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:53]   [63/103] Cincinnati done — +0 new | Total: 20,775 found, 20,744 inserted | 23,305 API calls
+[04:35:53]   [63/103] Cincinnati done — +0 new | Total: 20,775 found, 20,744 inserted | 23,305 API calls
+[04:35:53]   [69/103] Lincoln done — +0 new | Total: 21,040 found, 21,010 inserted | 23,622 API calls
+[04:35:53] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:53] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:53]   [63/103] Cincinnati done — +0 new | Total: 20,775 found, 20,729 inserted | 23,305 API calls
+[04:35:53] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:35:53] 
+  [64/103] St Paul — 8 grid points, 20km radius
+[04:35:54]   [69/103] Lincoln done — +0 new | Total: 21,040 found, 21,010 inserted | 23,622 API calls
+[04:35:54] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:36:00]   [64/103] St Paul done — +0 new | Total: 20,775 found, 20,744 inserted | 23,313 API calls
+[04:36:00] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:36:00]   [64/103] St Paul done — +0 new | Total: 20,775 found, 20,744 inserted | 23,313 API calls
+[04:36:00]   [64/103] St Paul done — +0 new | Total: 20,775 found, 20,729 inserted | 23,313 API calls
+[04:36:00] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:36:00] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:36:00]   [64/103] St Paul done — +0 new | Total: 20,775 found, 20,744 inserted | 23,313 API calls
+[04:36:00] 
+  [65/103] Greensboro — 8 grid points, 20km radius
+[04:36:02]   [70/103] Buffalo done — +0 new | Total: 21,040 found, 21,010 inserted | 23,633 API calls
+[04:36:02] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:02]   [70/103] Buffalo done — +0 new | Total: 21,040 found, 21,010 inserted | 23,633 API calls
+[04:36:02] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:06]   [65/103] Greensboro done — +0 new | Total: 20,775 found, 20,744 inserted | 23,321 API calls
+[04:36:06] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:36:06]   [65/103] Greensboro done — +0 new | Total: 20,775 found, 20,744 inserted | 23,321 API calls
+[04:36:06]   [65/103] Greensboro done — +0 new | Total: 20,775 found, 20,744 inserted | 23,321 API calls
+[04:36:06]   [65/103] Greensboro done — +0 new | Total: 20,775 found, 20,729 inserted | 23,321 API calls
+[04:36:06] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:36:06] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:36:06] 
+  [66/103] Newark — 4 grid points, 15km radius
+[04:36:08]   [71/103] Fort Wayne done — +0 new | Total: 21,040 found, 21,010 inserted | 23,641 API calls
+[04:36:08] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:08]   [71/103] Fort Wayne done — +0 new | Total: 21,040 found, 21,010 inserted | 23,641 API calls
+[04:36:08] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:09]   [66/103] Newark done — +0 new | Total: 20,775 found, 20,744 inserted | 23,325 API calls
+[04:36:09]   [66/103] Newark done — +0 new | Total: 20,775 found, 20,729 inserted | 23,325 API calls
+[04:36:09]   [66/103] Newark done — +0 new | Total: 20,775 found, 20,744 inserted | 23,325 API calls
+[04:36:09] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:36:09] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:36:09] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:36:09]   [66/103] Newark done — +0 new | Total: 20,775 found, 20,744 inserted | 23,325 API calls
+[04:36:09] 
+  [67/103] Plano — 4 grid points, 15km radius
+[04:36:09]   [72/103] Jersey City done — +0 new | Total: 21,040 found, 21,010 inserted | 23,642 API calls
+[04:36:09] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:09]   [72/103] Jersey City done — +0 new | Total: 21,040 found, 21,010 inserted | 23,642 API calls
+[04:36:09] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:12]   [67/103] Plano done — +0 new | Total: 20,775 found, 20,744 inserted | 23,329 API calls
+[04:36:12]   [73/103] Chula Vista done — +0 new | Total: 21,040 found, 21,010 inserted | 23,646 API calls
+[04:36:12]   [67/103] Plano done — +0 new | Total: 20,775 found, 20,744 inserted | 23,329 API calls
+[04:36:12] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:36:12]   [67/103] Plano done — +0 new | Total: 20,775 found, 20,744 inserted | 23,329 API calls
+[04:36:12] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:12]   [67/103] Plano done — +0 new | Total: 20,775 found, 20,729 inserted | 23,329 API calls
+[04:36:12] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:36:12] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:36:12] 
+  [68/103] Henderson — 4 grid points, 15km radius
+[04:36:12]   [73/103] Chula Vista done — +0 new | Total: 21,040 found, 21,010 inserted | 23,646 API calls
+[04:36:12] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:15]   [68/103] Henderson done — +0 new | Total: 20,775 found, 20,744 inserted | 23,333 API calls
+[04:36:15] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:36:15]   [68/103] Henderson done — +0 new | Total: 20,775 found, 20,729 inserted | 23,333 API calls
+[04:36:15]   [68/103] Henderson done — +0 new | Total: 20,775 found, 20,744 inserted | 23,333 API calls
+[04:36:15]   [68/103] Henderson done — +0 new | Total: 20,775 found, 20,744 inserted | 23,333 API calls
+[04:36:15] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:36:15] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:36:15] 
+  [69/103] Lincoln — 8 grid points, 20km radius
+[04:36:18]   [74/103] Norfolk done — +0 new | Total: 21,040 found, 21,010 inserted | 23,654 API calls
+[04:36:18] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:18]   [74/103] Norfolk done — +0 new | Total: 21,040 found, 21,010 inserted | 23,654 API calls
+[04:36:18] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:21]   [69/103] Lincoln done — +0 new | Total: 20,775 found, 20,744 inserted | 23,341 API calls
+[04:36:21] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:36:21]   [69/103] Lincoln done — +0 new | Total: 20,775 found, 20,729 inserted | 23,341 API calls
+[04:36:21] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:36:21]   [69/103] Lincoln done — +0 new | Total: 20,775 found, 20,744 inserted | 23,341 API calls
+[04:36:21] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:36:21]   [69/103] Lincoln done — +0 new | Total: 20,775 found, 20,744 inserted | 23,341 API calls
+[04:36:21] 
+  [70/103] Buffalo — 11 grid points, 25km radius
+[04:36:24]   [75/103] St Petersburg done — +0 new | Total: 21,040 found, 21,010 inserted | 23,662 API calls
+[04:36:24] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:25]   [75/103] St Petersburg done — +0 new | Total: 21,040 found, 21,010 inserted | 23,662 API calls
+[04:36:25] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:27]   [76/103] Chandler done — +0 new | Total: 21,040 found, 21,010 inserted | 23,666 API calls
+[04:36:27] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:28]   [76/103] Chandler done — +0 new | Total: 21,040 found, 21,010 inserted | 23,666 API calls
+[04:36:28] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:30]   [70/103] Buffalo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,352 API calls
+[04:36:30] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:30]   [70/103] Buffalo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,352 API calls
+[04:36:30]   [70/103] Buffalo done — +0 new | Total: 20,775 found, 20,729 inserted | 23,352 API calls
+[04:36:30] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:30] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:30]   [70/103] Buffalo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,352 API calls
+[04:36:30] 
+  [71/103] Fort Wayne — 8 grid points, 20km radius
+[04:36:30]   [77/103] Laredo done — +0 new | Total: 21,040 found, 21,010 inserted | 23,670 API calls
+[04:36:30] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:31]   [77/103] Laredo done — +0 new | Total: 21,040 found, 21,010 inserted | 23,670 API calls
+[04:36:31] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:36]   [71/103] Fort Wayne done — +0 new | Total: 20,775 found, 20,729 inserted | 23,360 API calls
+[04:36:36] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:36]   [71/103] Fort Wayne done — +0 new | Total: 20,775 found, 20,744 inserted | 23,360 API calls
+[04:36:36]   [71/103] Fort Wayne done — +0 new | Total: 20,775 found, 20,744 inserted | 23,360 API calls
+[04:36:36]   [71/103] Fort Wayne done — +0 new | Total: 20,775 found, 20,744 inserted | 23,360 API calls
+[04:36:36] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:36] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:36] 
+  [72/103] Jersey City — 1 grid points, 10km radius
+[04:36:37]   [72/103] Jersey City done — +0 new | Total: 20,775 found, 20,729 inserted | 23,361 API calls
+[04:36:37]   [78/103] Madison done — +0 new | Total: 21,040 found, 21,010 inserted | 23,678 API calls
+[04:36:37] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:37] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:36:37]   [72/103] Jersey City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,361 API calls
+[04:36:37]   [72/103] Jersey City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,361 API calls
+[04:36:37]   [72/103] Jersey City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,361 API calls
+[04:36:37] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:37] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:37] 
+  [73/103] Chula Vista — 4 grid points, 15km radius
+[04:36:37]   [78/103] Madison done — +0 new | Total: 21,040 found, 21,010 inserted | 23,678 API calls
+[04:36:37] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:36:40]   [73/103] Chula Vista done — +0 new | Total: 20,775 found, 20,729 inserted | 23,365 API calls
+[04:36:40] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:40]   [73/103] Chula Vista done — +0 new | Total: 20,775 found, 20,744 inserted | 23,365 API calls
+[04:36:40] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:40]   [73/103] Chula Vista done — +0 new | Total: 20,775 found, 20,744 inserted | 23,365 API calls
+[04:36:40]   [73/103] Chula Vista done — +0 new | Total: 20,775 found, 20,744 inserted | 23,365 API calls
+[04:36:40] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:40] 
+  [74/103] Norfolk — 8 grid points, 20km radius
+[04:36:43]   [79/103] Durham done — +0 new | Total: 21,040 found, 21,010 inserted | 23,686 API calls
+[04:36:43] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:36:43]   [79/103] Durham done — +0 new | Total: 21,040 found, 21,010 inserted | 23,686 API calls
+[04:36:43] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:36:46]   [74/103] Norfolk done — +0 new | Total: 20,775 found, 20,729 inserted | 23,373 API calls
+[04:36:46]   [74/103] Norfolk done — +0 new | Total: 20,775 found, 20,744 inserted | 23,373 API calls
+[04:36:46] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:46] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:46]   [74/103] Norfolk done — +0 new | Total: 20,775 found, 20,744 inserted | 23,373 API calls
+[04:36:46] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:46]   [74/103] Norfolk done — +0 new | Total: 20,775 found, 20,744 inserted | 23,373 API calls
+[04:36:46] 
+  [75/103] St Petersburg — 8 grid points, 20km radius
+[04:36:49]   [80/103] Lubbock done — +0 new | Total: 21,040 found, 21,010 inserted | 23,694 API calls
+[04:36:49] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:36:49]   [80/103] Lubbock done — +0 new | Total: 21,040 found, 21,010 inserted | 23,694 API calls
+[04:36:49] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:36:52]   [75/103] St Petersburg done — +0 new | Total: 20,775 found, 20,744 inserted | 23,381 API calls
+[04:36:52]   [75/103] St Petersburg done — +0 new | Total: 20,775 found, 20,729 inserted | 23,381 API calls
+[04:36:52] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:52] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:52]   [75/103] St Petersburg done — +0 new | Total: 20,775 found, 20,744 inserted | 23,381 API calls
+[04:36:52] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:52]   [75/103] St Petersburg done — +0 new | Total: 20,775 found, 20,744 inserted | 23,381 API calls
+[04:36:52] 
+  [76/103] Chandler — 4 grid points, 15km radius
+[04:36:55]   [81/103] Winston-Salem done — +0 new | Total: 21,040 found, 21,010 inserted | 23,702 API calls
+[04:36:55] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:36:55]   [76/103] Chandler done — +0 new | Total: 20,775 found, 20,744 inserted | 23,385 API calls
+[04:36:55]   [76/103] Chandler done — +0 new | Total: 20,775 found, 20,744 inserted | 23,385 API calls
+[04:36:55]   [76/103] Chandler done — +0 new | Total: 20,775 found, 20,744 inserted | 23,385 API calls
+[04:36:55]   [76/103] Chandler done — +0 new | Total: 20,775 found, 20,729 inserted | 23,385 API calls
+[04:36:55] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:55] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:55] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:55] 
+  [77/103] Laredo — 4 grid points, 15km radius
+[04:36:55]   [81/103] Winston-Salem done — +0 new | Total: 21,040 found, 21,010 inserted | 23,702 API calls
+[04:36:55] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:36:58]   [82/103] Garland done — +0 new | Total: 21,040 found, 21,010 inserted | 23,706 API calls
+[04:36:58] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:36:58]   [77/103] Laredo done — +0 new | Total: 20,775 found, 20,729 inserted | 23,389 API calls
+[04:36:58]   [77/103] Laredo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,389 API calls
+[04:36:58]   [77/103] Laredo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,389 API calls
+[04:36:58]   [77/103] Laredo done — +0 new | Total: 20,775 found, 20,744 inserted | 23,389 API calls
+[04:36:58] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:58] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:58] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:58] 
+  [78/103] Madison — 8 grid points, 20km radius
+[04:36:58]   [82/103] Garland done — +0 new | Total: 21,040 found, 21,010 inserted | 23,706 API calls
+[04:36:59] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:37:01]   [83/103] Glendale AZ done — +0 new | Total: 21,040 found, 21,010 inserted | 23,710 API calls
+[04:37:01] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:02]   [83/103] Glendale AZ done — +0 new | Total: 21,040 found, 21,010 inserted | 23,710 API calls
+[04:37:02] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:04]   [78/103] Madison done — +0 new | Total: 20,775 found, 20,744 inserted | 23,397 API calls
+[04:37:04]   [84/103] Hialeah done — +0 new | Total: 21,040 found, 21,010 inserted | 23,714 API calls
+[04:37:04] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:37:04]   [78/103] Madison done — +0 new | Total: 20,775 found, 20,744 inserted | 23,397 API calls
+[04:37:04]   [78/103] Madison done — +0 new | Total: 20,775 found, 20,729 inserted | 23,397 API calls
+[04:37:04]   [78/103] Madison done — +0 new | Total: 20,775 found, 20,744 inserted | 23,397 API calls
+[04:37:04] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:04] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:37:04] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:37:04] 
+  [79/103] Durham — 8 grid points, 20km radius
+[04:37:05]   [84/103] Hialeah done — +0 new | Total: 21,040 found, 21,010 inserted | 23,714 API calls
+[04:37:05] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:11]   [79/103] Durham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,405 API calls
+[04:37:11]   [85/103] Reno done — +0 new | Total: 21,040 found, 21,010 inserted | 23,722 API calls
+[04:37:11]   [79/103] Durham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,405 API calls
+[04:37:11] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:37:11] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:11]   [79/103] Durham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,405 API calls
+[04:37:11] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:37:11]   [79/103] Durham done — +0 new | Total: 20,775 found, 20,729 inserted | 23,405 API calls
+[04:37:11] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:37:11] 
+  [80/103] Lubbock — 8 grid points, 20km radius
+[04:37:11]   [85/103] Reno done — +0 new | Total: 21,040 found, 21,010 inserted | 23,722 API calls
+[04:37:11] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:17]   [80/103] Lubbock done — +0 new | Total: 20,775 found, 20,744 inserted | 23,413 API calls
+[04:37:17] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:37:17]   [80/103] Lubbock done — +0 new | Total: 20,775 found, 20,729 inserted | 23,413 API calls
+[04:37:17]   [80/103] Lubbock done — +0 new | Total: 20,775 found, 20,744 inserted | 23,413 API calls
+[04:37:17]   [80/103] Lubbock done — +0 new | Total: 20,775 found, 20,744 inserted | 23,413 API calls
+[04:37:17] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:37:17] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:37:17] 
+  [81/103] Winston-Salem — 8 grid points, 20km radius
+[04:37:19]   [86/103] Baton Rouge done — +0 new | Total: 21,040 found, 21,010 inserted | 23,733 API calls
+[04:37:19] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:19]   [86/103] Baton Rouge done — +0 new | Total: 21,040 found, 21,010 inserted | 23,733 API calls
+[04:37:19] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:22]   [87/103] Irvine done — +0 new | Total: 21,040 found, 21,010 inserted | 23,737 API calls
+[04:37:22] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:22]   [87/103] Irvine done — +0 new | Total: 21,040 found, 21,010 inserted | 23,737 API calls
+[04:37:22] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:23]   [81/103] Winston-Salem done — +0 new | Total: 20,775 found, 20,744 inserted | 23,421 API calls
+[04:37:23] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:37:23]   [81/103] Winston-Salem done — +0 new | Total: 20,775 found, 20,744 inserted | 23,421 API calls
+[04:37:23]   [81/103] Winston-Salem done — +0 new | Total: 20,775 found, 20,744 inserted | 23,421 API calls
+[04:37:23] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:37:23] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:37:23]   [81/103] Winston-Salem done — +0 new | Total: 20,775 found, 20,729 inserted | 23,421 API calls
+[04:37:23] 
+  [82/103] Garland — 4 grid points, 15km radius
+[04:37:26]   [82/103] Garland done — +0 new | Total: 20,775 found, 20,744 inserted | 23,425 API calls
+[04:37:26] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:37:26]   [82/103] Garland done — +0 new | Total: 20,775 found, 20,744 inserted | 23,425 API calls
+[04:37:26]   [82/103] Garland done — +0 new | Total: 20,775 found, 20,744 inserted | 23,425 API calls
+[04:37:26]   [82/103] Garland done — +0 new | Total: 20,775 found, 20,729 inserted | 23,425 API calls
+[04:37:26] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:37:26] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:37:26] 
+  [83/103] Glendale AZ — 4 grid points, 15km radius
+[04:37:28]   [88/103] Chesapeake done — +0 new | Total: 21,040 found, 21,010 inserted | 23,745 API calls
+[04:37:28] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:29]   [88/103] Chesapeake done — +0 new | Total: 21,040 found, 21,010 inserted | 23,745 API calls
+[04:37:29] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:29]   [83/103] Glendale AZ done — +0 new | Total: 20,775 found, 20,744 inserted | 23,429 API calls
+[04:37:29] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:29]   [83/103] Glendale AZ done — +0 new | Total: 20,775 found, 20,729 inserted | 23,429 API calls
+[04:37:29]   [83/103] Glendale AZ done — +0 new | Total: 20,775 found, 20,744 inserted | 23,429 API calls
+[04:37:29]   [83/103] Glendale AZ done — +0 new | Total: 20,775 found, 20,744 inserted | 23,429 API calls
+[04:37:29] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:29] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:29] 
+  [84/103] Hialeah — 4 grid points, 15km radius
+[04:37:31]   [89/103] Irving done — +0 new | Total: 21,040 found, 21,010 inserted | 23,749 API calls
+[04:37:31] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:37:32]   [89/103] Irving done — +0 new | Total: 21,040 found, 21,010 inserted | 23,749 API calls
+[04:37:32] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:37:32]   [84/103] Hialeah done — +0 new | Total: 20,775 found, 20,744 inserted | 23,433 API calls
+[04:37:32]   [84/103] Hialeah done — +0 new | Total: 20,775 found, 20,729 inserted | 23,433 API calls
+[04:37:32] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:32] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:32]   [84/103] Hialeah done — +0 new | Total: 20,775 found, 20,744 inserted | 23,433 API calls
+[04:37:32] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:32]   [84/103] Hialeah done — +0 new | Total: 20,775 found, 20,744 inserted | 23,433 API calls
+[04:37:32] 
+  [85/103] Reno — 8 grid points, 20km radius
+[04:37:38]   [90/103] Scottsdale done — +0 new | Total: 21,040 found, 21,010 inserted | 23,757 API calls
+[04:37:38] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:37:38]   [90/103] Scottsdale done — +0 new | Total: 21,040 found, 21,010 inserted | 23,757 API calls
+[04:37:38] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:37:38]   [85/103] Reno done — +0 new | Total: 20,775 found, 20,744 inserted | 23,441 API calls
+[04:37:38] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:38]   [85/103] Reno done — +0 new | Total: 20,775 found, 20,729 inserted | 23,441 API calls
+[04:37:38] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:38]   [85/103] Reno done — +0 new | Total: 20,775 found, 20,744 inserted | 23,441 API calls
+[04:37:38] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:38]   [85/103] Reno done — +0 new | Total: 20,775 found, 20,744 inserted | 23,441 API calls
+[04:37:38] 
+  [86/103] Baton Rouge — 11 grid points, 25km radius
+[04:37:41]   [91/103] North Las Vegas done — +0 new | Total: 21,040 found, 21,010 inserted | 23,761 API calls
+[04:37:41] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:37:41]   [91/103] North Las Vegas done — +0 new | Total: 21,040 found, 21,010 inserted | 23,761 API calls
+[04:37:41] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:37:44]   [92/103] Fremont done — +0 new | Total: 21,040 found, 21,010 inserted | 23,765 API calls
+[04:37:44] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:37:44]   [92/103] Fremont done — +0 new | Total: 21,040 found, 21,010 inserted | 23,765 API calls
+[04:37:44] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:37:47]   [86/103] Baton Rouge done — +0 new | Total: 20,775 found, 20,744 inserted | 23,452 API calls
+[04:37:47]   [93/103] Gilbert done — +0 new | Total: 21,040 found, 21,010 inserted | 23,769 API calls
+[04:37:47] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:47] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:37:47]   [86/103] Baton Rouge done — +0 new | Total: 20,775 found, 20,729 inserted | 23,452 API calls
+[04:37:47]   [86/103] Baton Rouge done — +0 new | Total: 20,775 found, 20,744 inserted | 23,452 API calls
+[04:37:47] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:47] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:47]   [86/103] Baton Rouge done — +0 new | Total: 20,775 found, 20,744 inserted | 23,452 API calls
+[04:37:47] 
+  [87/103] Irvine — 4 grid points, 15km radius
+[04:37:47]   [93/103] Gilbert done — +0 new | Total: 21,040 found, 21,010 inserted | 23,769 API calls
+[04:37:47] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:37:50]   [87/103] Irvine done — +0 new | Total: 20,775 found, 20,744 inserted | 23,456 API calls
+[04:37:50] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:50]   [87/103] Irvine done — +0 new | Total: 20,775 found, 20,744 inserted | 23,456 API calls
+[04:37:50]   [87/103] Irvine done — +0 new | Total: 20,775 found, 20,729 inserted | 23,456 API calls
+[04:37:50] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:50] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:50]   [87/103] Irvine done — +0 new | Total: 20,775 found, 20,744 inserted | 23,456 API calls
+[04:37:50] 
+  [88/103] Chesapeake — 8 grid points, 20km radius
+[04:37:55]   [94/103] San Bernardino done — +0 new | Total: 21,040 found, 21,010 inserted | 23,780 API calls
+[04:37:55] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:37:55]   [94/103] San Bernardino done — +0 new | Total: 21,040 found, 21,010 inserted | 23,780 API calls
+[04:37:55] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:37:56]   [88/103] Chesapeake done — +0 new | Total: 20,775 found, 20,744 inserted | 23,464 API calls
+[04:37:56]   [88/103] Chesapeake done — +0 new | Total: 20,775 found, 20,744 inserted | 23,464 API calls
+[04:37:56]   [88/103] Chesapeake done — +0 new | Total: 20,775 found, 20,729 inserted | 23,464 API calls
+[04:37:56] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:56] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:56] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:56]   [88/103] Chesapeake done — +0 new | Total: 20,775 found, 20,744 inserted | 23,464 API calls
+[04:37:56] 
+  [89/103] Irving — 4 grid points, 15km radius
+[04:37:59]   [89/103] Irving done — +0 new | Total: 20,775 found, 20,744 inserted | 23,468 API calls
+[04:37:59]   [89/103] Irving done — +0 new | Total: 20,775 found, 20,744 inserted | 23,468 API calls
+[04:37:59]   [89/103] Irving done — +0 new | Total: 20,775 found, 20,729 inserted | 23,468 API calls
+[04:37:59] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:37:59] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:37:59] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:37:59]   [89/103] Irving done — +0 new | Total: 20,775 found, 20,744 inserted | 23,468 API calls
+[04:37:59] 
+  [90/103] Scottsdale — 8 grid points, 20km radius
+[04:38:04]   [95/103] Boise done — +0 new | Total: 21,040 found, 21,010 inserted | 23,791 API calls
+[04:38:04] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:04]   [95/103] Boise done — +0 new | Total: 21,040 found, 21,010 inserted | 23,791 API calls
+[04:38:04] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:05]   [90/103] Scottsdale done — +0 new | Total: 20,775 found, 20,744 inserted | 23,476 API calls
+[04:38:05]   [90/103] Scottsdale done — +0 new | Total: 20,775 found, 20,744 inserted | 23,476 API calls
+[04:38:05]   [90/103] Scottsdale done — +0 new | Total: 20,775 found, 20,729 inserted | 23,476 API calls
+[04:38:05] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:38:05] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:38:05] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:38:05]   [90/103] Scottsdale done — +0 new | Total: 20,775 found, 20,744 inserted | 23,476 API calls
+[04:38:05] 
+  [91/103] North Las Vegas — 4 grid points, 15km radius
+[04:38:08]   [91/103] North Las Vegas done — +0 new | Total: 20,775 found, 20,744 inserted | 23,480 API calls
+[04:38:08] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:38:08]   [91/103] North Las Vegas done — +0 new | Total: 20,775 found, 20,729 inserted | 23,480 API calls
+[04:38:08]   [91/103] North Las Vegas done — +0 new | Total: 20,775 found, 20,744 inserted | 23,480 API calls
+[04:38:08] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:38:08] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:38:08]   [91/103] North Las Vegas done — +0 new | Total: 20,775 found, 20,744 inserted | 23,480 API calls
+[04:38:08] 
+  [92/103] Fremont — 4 grid points, 15km radius
+[04:38:11]   [92/103] Fremont done — +0 new | Total: 20,775 found, 20,744 inserted | 23,484 API calls
+[04:38:11] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:38:11]   [92/103] Fremont done — +0 new | Total: 20,775 found, 20,744 inserted | 23,484 API calls
+[04:38:12]   [92/103] Fremont done — +0 new | Total: 20,775 found, 20,744 inserted | 23,484 API calls
+[04:38:12]   [92/103] Fremont done — +0 new | Total: 20,775 found, 20,729 inserted | 23,484 API calls
+[04:38:12] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:38:12] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:38:12] 
+  [93/103] Gilbert — 4 grid points, 15km radius
+[04:38:15]   [93/103] Gilbert done — +0 new | Total: 20,775 found, 20,744 inserted | 23,488 API calls
+[04:38:15] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:38:15]   [93/103] Gilbert done — +0 new | Total: 20,775 found, 20,744 inserted | 23,488 API calls
+[04:38:15] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:38:15]   [93/103] Gilbert done — +0 new | Total: 20,775 found, 20,744 inserted | 23,488 API calls
+[04:38:15]   [93/103] Gilbert done — +0 new | Total: 20,775 found, 20,729 inserted | 23,488 API calls
+[04:38:15] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:38:15] 
+  [94/103] San Bernardino — 11 grid points, 25km radius
+[04:38:16]   [96/103] Birmingham done — +0 new | Total: 21,040 found, 21,010 inserted | 23,807 API calls
+[04:38:16] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:16]   [96/103] Birmingham done — +0 new | Total: 21,040 found, 21,010 inserted | 23,807 API calls
+[04:38:16] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:22]   [97/103] Rochester done — +0 new | Total: 21,040 found, 21,010 inserted | 23,815 API calls
+[04:38:22] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:22]   [97/103] Rochester done — +0 new | Total: 21,040 found, 21,010 inserted | 23,815 API calls
+[04:38:22] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:23]   [94/103] San Bernardino done — +0 new | Total: 20,775 found, 20,744 inserted | 23,499 API calls
+[04:38:23]   [94/103] San Bernardino done — +0 new | Total: 20,775 found, 20,744 inserted | 23,499 API calls
+[04:38:23]   [94/103] San Bernardino done — +0 new | Total: 20,775 found, 20,744 inserted | 23,499 API calls
+[04:38:23] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:38:23]   [94/103] San Bernardino done — +0 new | Total: 20,775 found, 20,729 inserted | 23,499 API calls
+[04:38:23] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:38:23] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:38:23] 
+  [95/103] Boise — 11 grid points, 25km radius
+[04:38:31]   [98/103] Richmond done — +0 new | Total: 21,040 found, 21,010 inserted | 23,826 API calls
+[04:38:31] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:38:31]   [98/103] Richmond done — +0 new | Total: 21,040 found, 21,010 inserted | 23,826 API calls
+[04:38:31] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:38:31]   [95/103] Boise done — +0 new | Total: 20,775 found, 20,744 inserted | 23,510 API calls
+[04:38:31] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:32]   [95/103] Boise done — +0 new | Total: 20,775 found, 20,744 inserted | 23,510 API calls
+[04:38:32]   [95/103] Boise done — +0 new | Total: 20,775 found, 20,729 inserted | 23,510 API calls
+[04:38:32] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:32] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:32]   [95/103] Boise done — +0 new | Total: 20,775 found, 20,744 inserted | 23,510 API calls
+[04:38:32] 
+  [96/103] Birmingham — 16 grid points, 30km radius
+[04:38:37]   [99/103] Spokane done — +0 new | Total: 21,040 found, 21,010 inserted | 23,834 API calls
+[04:38:37] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:38:37]   [99/103] Spokane done — +0 new | Total: 21,040 found, 21,010 inserted | 23,834 API calls
+[04:38:37] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:38:44]   [96/103] Birmingham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,526 API calls
+[04:38:44]   [96/103] Birmingham done — +0 new | Total: 20,775 found, 20,729 inserted | 23,526 API calls
+[04:38:44]   [96/103] Birmingham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,526 API calls
+[04:38:44]   [96/103] Birmingham done — +0 new | Total: 20,775 found, 20,744 inserted | 23,526 API calls
+[04:38:44] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:44] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:44] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:44] 
+  [97/103] Rochester — 8 grid points, 20km radius
+[04:38:50]   [97/103] Rochester done — +0 new | Total: 20,775 found, 20,744 inserted | 23,534 API calls
+[04:38:50]   [97/103] Rochester done — +0 new | Total: 20,775 found, 20,744 inserted | 23,534 API calls
+[04:38:50] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:50] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:50]   [97/103] Rochester done — +0 new | Total: 20,775 found, 20,744 inserted | 23,534 API calls
+[04:38:50]   [97/103] Rochester done — +0 new | Total: 20,775 found, 20,729 inserted | 23,534 API calls
+[04:38:50] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:50] 
+  [98/103] Richmond — 11 grid points, 25km radius
+[04:38:59]   [98/103] Richmond done — +0 new | Total: 20,775 found, 20,744 inserted | 23,545 API calls
+[04:38:59]   [98/103] Richmond done — +0 new | Total: 20,775 found, 20,744 inserted | 23,545 API calls
+[04:38:59] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:38:59] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:38:59]   [98/103] Richmond done — +0 new | Total: 20,775 found, 20,744 inserted | 23,545 API calls
+[04:38:59]   [98/103] Richmond done — +0 new | Total: 20,775 found, 20,729 inserted | 23,545 API calls
+[04:38:59] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:38:59] 
+  [99/103] Spokane — 8 grid points, 20km radius
+[04:39:03]   [100/103] Detroit done — +0 new | Total: 21,040 found, 21,010 inserted | 23,867 API calls
+[04:39:03] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:03]   [100/103] Detroit done — +0 new | Total: 21,040 found, 21,010 inserted | 23,867 API calls
+[04:39:03] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:05]   [99/103] Spokane done — +0 new | Total: 20,775 found, 20,744 inserted | 23,553 API calls
+[04:39:05] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:39:05]   [99/103] Spokane done — +0 new | Total: 20,775 found, 20,744 inserted | 23,553 API calls
+[04:39:05]   [99/103] Spokane done — +0 new | Total: 20,775 found, 20,729 inserted | 23,553 API calls
+[04:39:05]   [99/103] Spokane done — +0 new | Total: 20,775 found, 20,744 inserted | 23,553 API calls
+[04:39:05] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:39:05] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:39:05] 
+  [100/103] Detroit — 33 grid points, 40km radius
+[04:39:15]   [101/103] Salt Lake City done — +0 new | Total: 21,040 found, 21,010 inserted | 23,883 API calls
+[04:39:15] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:15]   [101/103] Salt Lake City done — +0 new | Total: 21,040 found, 21,010 inserted | 23,883 API calls
+[04:39:15] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:24]   [102/103] Des Moines done — +0 new | Total: 21,040 found, 21,010 inserted | 23,894 API calls
+[04:39:24] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:39:24]   [102/103] Des Moines done — +0 new | Total: 21,040 found, 21,010 inserted | 23,894 API calls
+[04:39:24] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:39:30]   [100/103] Detroit done — +0 new | Total: 20,775 found, 20,744 inserted | 23,586 API calls
+[04:39:30] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:31]   [100/103] Detroit done — +0 new | Total: 20,775 found, 20,729 inserted | 23,586 API calls
+[04:39:31]   [100/103] Detroit done — +0 new | Total: 20,775 found, 20,744 inserted | 23,586 API calls
+[04:39:31]   [100/103] Detroit done — +0 new | Total: 20,775 found, 20,744 inserted | 23,586 API calls
+[04:39:31] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:31] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:31] 
+  [101/103] Salt Lake City — 16 grid points, 30km radius
+[04:39:42]   [103/103] Orlando done — +0 new | Total: 21,040 found, 21,010 inserted | 23,918 API calls
+[04:39:42]   [103/103] Orlando done — +0 new | Total: 21,040 found, 21,010 inserted | 23,918 API calls
+[04:39:42] 
+DONE — 21,040 found, 21,040 inserted, 23,918 API calls
+[04:39:42] 
+DONE — 21,040 found, 21,040 inserted, 23,918 API calls
+[04:39:43]   [101/103] Salt Lake City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,602 API calls
+[04:39:43] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:43]   [101/103] Salt Lake City done — +0 new | Total: 20,775 found, 20,729 inserted | 23,602 API calls
+[04:39:43]   [101/103] Salt Lake City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,602 API calls
+[04:39:43]   [101/103] Salt Lake City done — +0 new | Total: 20,775 found, 20,744 inserted | 23,602 API calls
+[04:39:43] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:43] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:43] 
+  [102/103] Des Moines — 11 grid points, 25km radius
+[04:39:51]   [102/103] Des Moines done — +0 new | Total: 20,775 found, 20,744 inserted | 23,613 API calls
+[04:39:51] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:39:51]   [102/103] Des Moines done — +0 new | Total: 20,775 found, 20,744 inserted | 23,613 API calls
+[04:39:51]   [102/103] Des Moines done — +0 new | Total: 20,775 found, 20,729 inserted | 23,613 API calls
+[04:39:51]   [102/103] Des Moines done — +0 new | Total: 20,775 found, 20,744 inserted | 23,613 API calls
+[04:39:51] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:39:51] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:39:51] 
+  [103/103] Orlando — 24 grid points, 35km radius
+[04:40:10]   [103/103] Orlando done — +0 new | Total: 20,775 found, 20,744 inserted | 23,637 API calls
+[04:40:10] 
+DONE — 20,775 found, 20,744 inserted, 23,637 API calls
+[04:40:10]   [103/103] Orlando done — +0 new | Total: 20,775 found, 20,744 inserted | 23,637 API calls
+[04:40:10] 
+DONE — 20,775 found, 20,744 inserted, 23,637 API calls
+[04:40:10]   [103/103] Orlando done — +0 new | Total: 20,775 found, 20,729 inserted | 23,637 API calls
+[04:40:10] 
+DONE — 20,775 found, 20,729 inserted, 23,637 API calls
+[04:40:10]   [103/103] Orlando done — +0 new | Total: 20,775 found, 20,744 inserted | 23,637 API calls
+[04:40:10] 
+DONE — 20,775 found, 20,744 inserted, 23,637 API calls

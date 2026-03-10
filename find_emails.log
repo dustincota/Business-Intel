@@ -1,0 +1,19 @@
+[17:55:31] Finding email for John Lai @ mistercarwash.com
+[17:55:32] MX host: mistercarwash-com.mail.protection.outlook.com
+[17:55:33] Catch-all: False
+[17:55:41] No email found
+[17:55:50] Finding email for John Smith @ woodieswash.com
+[17:55:50] MX host: woodieswash-com.mail.protection.outlook.com
+[17:55:51] Catch-all: False
+[17:56:00] No email found
+[17:56:16] Resuming from 0 already processed
+[17:56:19] Fetched 0 enrichable people
+[17:56:19] Processing 0 people (skipped 0 already done)
+[17:56:19] Grouped into 0 unique domains
+[17:56:19] ============================================================
+[17:56:19] EMAIL FINDING COMPLETE
+[17:56:19]   Processed: 0
+[17:56:19]   Emails found: 0
+[17:56:19]   No MX record: 0
+[17:56:19]   Errors: 0
+[17:56:19] ============================================================

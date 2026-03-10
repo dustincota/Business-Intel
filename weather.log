@@ -1,0 +1,484 @@
+[23:50:53] ============================================================
+[23:50:53] WEATHER ENRICHMENT
+[23:50:53] ============================================================
+[23:50:53]   Batch of 50...
+[23:51:14]     Weather API error: 429
+[23:51:14]     Weather API error: 429
+[23:51:15]     Weather API error: 429
+[23:51:16]     Weather API error: 429
+[23:51:16]     Weather API error: 429
+[23:51:16]   Progress: 45 enriched | 22 API calls | 28 cache hits | 17 cached locations
+[23:51:16]   Batch of 50...
+[23:51:17]     Weather API error: 429
+[23:51:17]     Weather API error: 429
+[23:51:18]     Weather API error: 429
+[23:51:18]     Weather API error: 429
+[23:51:19]     Weather API error: 429
+[23:51:19]     Weather API error: 429
+[23:51:20]     Weather API error: 429
+[23:51:20]     Weather API error: 429
+[23:51:21]     Weather API error: 429
+[23:51:22]     Weather API error: 429
+[23:51:22]     Weather API error: 429
+[23:51:23]     Weather API error: 429
+[23:51:23]     Weather API error: 429
+[23:51:24]     Weather API error: 429
+[23:51:24]     Weather API error: 429
+[23:51:25]     Weather API error: 429
+[23:51:25]     Weather API error: 429
+[23:51:26]     Weather API error: 429
+[23:51:27]     Weather API error: 429
+[23:51:28]     Weather API error: 429
+[23:51:28]     Weather API error: 429
+[23:51:29]     Weather API error: 429
+[23:51:29]     Weather API error: 429
+[23:51:30]     Weather API error: 429
+[23:51:30]     Weather API error: 429
+[23:51:31]     Weather API error: 429
+[23:51:32]     Weather API error: 429
+[23:51:32]     Weather API error: 429
+[23:51:33]     Weather API error: 429
+[23:51:33]     Weather API error: 429
+[23:51:34]     Weather API error: 429
+[23:51:34]     Weather API error: 429
+[23:51:35]     Weather API error: 429
+[23:51:35]     Weather API error: 429
+[23:51:36]     Weather API error: 429
+[23:51:36]     Weather API error: 429
+[23:51:37]     Weather API error: 429
+[23:51:37]     Weather API error: 429
+[23:51:38]     Weather API error: 429
+[23:51:38]     Weather API error: 429
+[23:51:39]   Progress: 55 enriched | 62 API calls | 38 cache hits | 17 cached locations
+[23:51:39]   Batch of 50...
+[23:51:39]     Weather API error: 429
+[23:51:40]     Weather API error: 429
+[23:51:40]     Weather API error: 429
+[23:51:41]     Weather API error: 429
+[23:51:42]     Weather API error: 429
+[23:51:42]     Weather API error: 429
+[23:51:43]     Weather API error: 429
+[23:51:43]     Weather API error: 429
+[23:51:44]     Weather API error: 429
+[23:51:44]     Weather API error: 429
+[23:51:45]     Weather API error: 429
+[23:51:45]     Weather API error: 429
+[23:51:46]     Weather API error: 429
+[23:51:46]     Weather API error: 429
+[23:51:47]     Weather API error: 429
+[23:51:47]     Weather API error: 429
+[23:51:48]     Weather API error: 429
+[23:51:49]     Weather API error: 429
+[23:51:49]     Weather API error: 429
+[23:51:50]     Weather API error: 429
+[23:51:50]     Weather API error: 429
+[23:51:51]     Weather API error: 429
+[23:51:51]     Weather API error: 429
+[23:51:52]     Weather API error: 429
+[23:51:52]     Weather API error: 429
+[23:51:53]     Weather API error: 429
+[23:51:54]     Weather API error: 429
+[23:51:54]     Weather API error: 429
+[23:51:55]     Weather API error: 429
+[23:51:55]     Weather API error: 429
+[23:51:56]     Weather API error: 429
+[23:51:56]     Weather API error: 429
+[23:51:57]     Weather API error: 429
+[23:51:57]     Weather API error: 429
+[23:51:58]     Weather API error: 429
+[23:51:58]     Weather API error: 429
+[23:51:59]     Weather API error: 429
+[23:51:59]     Weather API error: 429
+[23:52:03]   Progress: 67 enriched | 103 API calls | 47 cache hits | 20 cached locations
+[23:52:03]   Batch of 50...
+[23:52:10]     Weather API error: 429
+[23:52:10]     Weather API error: 429
+[23:52:11]     Weather API error: 429
+[23:52:11]     Weather API error: 429
+[23:52:12]     Weather API error: 429
+[23:52:13]     Weather API error: 429
+[23:52:13]     Weather API error: 429
+[23:52:14]     Weather API error: 429
+[23:52:14]     Weather API error: 429
+[23:52:15]     Weather API error: 429
+[23:52:15]     Weather API error: 429
+[23:52:16]     Weather API error: 429
+[23:52:16]     Weather API error: 429
+[23:52:17]     Weather API error: 429
+[23:52:18]     Weather API error: 429
+[23:52:19]     Weather API error: 429
+[23:52:19]     Weather API error: 429
+[23:52:20]     Weather API error: 429
+[23:52:21]     Weather API error: 429
+[23:52:21]     Weather API error: 429
+[23:52:22]     Weather API error: 429
+[23:52:22]     Weather API error: 429
+[23:52:23]     Weather API error: 429
+[23:52:23]     Weather API error: 429
+[23:52:24]     Weather API error: 429
+[23:52:25]     Weather API error: 429
+[23:52:25]     Weather API error: 429
+[23:52:26]     Weather API error: 429
+[23:52:26]     Weather API error: 429
+[23:52:27]     Weather API error: 429
+[23:52:27]   Progress: 87 enriched | 141 API calls | 59 cache hits | 28 cached locations
+[23:52:27]   Batch of 50...
+[23:52:28]     Weather API error: 429
+[23:52:29]     Weather API error: 429
+[23:52:29]     Weather API error: 429
+[23:52:30]     Weather API error: 429
+[23:52:30]     Weather API error: 429
+[23:52:31]     Weather API error: 429
+[23:52:31]     Weather API error: 429
+[23:52:32]     Weather API error: 429
+[23:52:32]     Weather API error: 429
+[23:52:33]     Weather API error: 429
+[23:52:33]     Weather API error: 429
+[23:52:34]     Weather API error: 429
+[23:52:34]     Weather API error: 429
+[23:52:35]     Weather API error: 429
+[23:52:36]     Weather API error: 429
+[23:52:36]     Weather API error: 429
+[23:52:37]     Weather API error: 429
+[23:52:37]     Weather API error: 429
+[23:52:38]     Weather API error: 429
+[23:52:38]     Weather API error: 429
+[23:52:39]     Weather API error: 429
+[23:52:40]     Weather API error: 429
+[23:52:41]     Weather API error: 429
+[23:52:42]     Weather API error: 429
+[23:52:42]     Weather API error: 429
+[23:52:43]     Weather API error: 429
+[23:52:43]     Weather API error: 429
+[23:52:44]     Weather API error: 429
+[23:52:44]     Weather API error: 429
+[23:52:45]     Weather API error: 429
+[23:52:45]     Weather API error: 429
+[23:52:46]     Weather API error: 429
+[23:52:46]     Weather API error: 429
+[23:52:47]     Weather API error: 429
+[23:52:47]     Weather API error: 429
+[23:52:48]     Weather API error: 429
+[23:52:48]     Weather API error: 429
+[23:52:49]   Progress: 100 enriched | 178 API calls | 72 cache hits | 28 cached locations
+[23:52:49]   Batch of 50...
+[23:52:49]     Weather API error: 429
+[23:52:50]     Weather API error: 429
+[23:52:50]     Weather API error: 429
+[23:52:51]     Weather API error: 429
+[23:52:51]     Weather API error: 429
+[23:52:52]     Weather API error: 429
+[23:52:52]     Weather API error: 429
+[23:52:53]     Weather API error: 429
+[23:52:54]     Weather API error: 429
+[23:52:54]     Weather API error: 429
+[23:52:55]     Weather API error: 429
+[23:52:55]     Weather API error: 429
+[23:52:56]     Weather API error: 429
+[23:52:56]     Weather API error: 429
+[23:52:57]     Weather API error: 429
+[23:52:58]     Weather API error: 429
+[23:52:58]     Weather API error: 429
+[23:52:59]     Weather API error: 429
+[23:52:59]     Weather API error: 429
+[23:53:00]     Weather API error: 429
+[23:53:00]     Weather API error: 429
+[23:53:13]     Weather API error: 429
+[23:53:13]     Weather API error: 429
+[23:53:14]     Weather API error: 429
+[23:53:14]     Weather API error: 429
+[23:53:15]     Weather API error: 429
+[23:53:15]   Progress: 124 enriched | 215 API calls | 85 cache hits | 39 cached locations
+[23:53:15]   Batch of 50...
+[23:53:16]     Weather API error: 429
+[23:53:17]     Weather API error: 429
+[23:53:17]     Weather API error: 429
+[23:53:18]     Weather API error: 429
+[23:53:18]     Weather API error: 429
+[23:53:19]     Weather API error: 429
+[23:53:19]     Weather API error: 429
+[23:53:20]     Weather API error: 429
+[23:53:21]     Weather API error: 429
+[23:53:21]     Weather API error: 429
+[23:53:22]     Weather API error: 429
+[23:53:23]     Weather API error: 429
+[23:53:23]     Weather API error: 429
+[23:53:24]     Weather API error: 429
+[23:53:24]     Weather API error: 429
+[23:53:25]     Weather API error: 429
+[23:53:26]     Weather API error: 429
+[23:53:27]     Weather API error: 429
+[23:53:27]     Weather API error: 429
+[23:53:28]     Weather API error: 429
+[23:53:28]     Weather API error: 429
+[23:53:29]     Weather API error: 429
+[23:53:29]     Weather API error: 429
+[23:53:30]     Weather API error: 429
+[23:53:30]     Weather API error: 429
+[23:53:31]     Weather API error: 429
+[23:53:32]     Weather API error: 429
+[23:53:32]     Weather API error: 429
+[23:53:33]     Weather API error: 429
+[23:53:33]     Weather API error: 429
+[23:53:34]     Weather API error: 429
+[23:53:34]     Weather API error: 429
+[23:53:35]     Weather API error: 429
+[23:53:35]     Weather API error: 429
+[23:53:36]     Weather API error: 429
+[23:53:36]     Weather API error: 429
+[23:53:37]     Weather API error: 429
+[23:53:37]   Progress: 137 enriched | 252 API calls | 98 cache hits | 39 cached locations
+[23:53:37]   Batch of 50...
+[23:53:38]     Weather API error: 429
+[23:53:38]     Weather API error: 429
+[23:53:39]     Weather API error: 429
+[23:53:39]     Weather API error: 429
+[23:53:40]     Weather API error: 429
+[23:53:40]     Weather API error: 429
+[23:53:41]     Weather API error: 429
+[23:53:41]     Weather API error: 429
+[23:53:42]     Weather API error: 429
+[23:53:43]     Weather API error: 429
+[23:53:43]     Weather API error: 429
+[23:53:44]     Weather API error: 429
+[23:53:44]     Weather API error: 429
+[23:53:45]     Weather API error: 429
+[23:53:45]     Weather API error: 429
+[23:53:46]     Weather API error: 429
+[23:53:47]     Weather API error: 429
+[23:53:47]     Weather API error: 429
+[23:53:48]     Weather API error: 429
+[23:53:48]     Weather API error: 429
+[23:53:49]     Weather API error: 429
+[23:53:50]     Weather API error: 429
+[23:53:50]     Weather API error: 429
+[23:53:51]     Weather API error: 429
+[23:53:51]     Weather API error: 429
+[23:53:52]     Weather API error: 429
+[23:53:53]     Weather API error: 429
+[23:53:53]     Weather API error: 429
+[23:53:54]     Weather API error: 429
+[23:53:55]     Weather API error: 429
+[23:53:55]     Weather API error: 429
+[23:53:56]     Weather API error: 429
+[23:53:57]     Weather API error: 429
+[23:53:57]     Weather API error: 429
+[23:53:58]     Weather API error: 429
+[23:53:58]     Weather API error: 429
+[23:53:59]     Weather API error: 429
+[23:53:59]   Progress: 150 enriched | 289 API calls | 111 cache hits | 39 cached locations
+[23:53:59]   Batch of 50...
+[23:54:00]     Weather API error: 429
+[23:54:00]     Weather API error: 429
+[23:54:05] ============================================================
+[23:54:05] WEATHER ENRICHMENT
+[23:54:05] ============================================================
+[23:54:05]   Batch of 50...
+[23:54:08]     Weather rate limited, waiting 30s...
+[23:54:09]     Weather API error: 429
+[23:54:10]     Weather API error: 429
+[23:54:10]     Weather API error: 429
+[23:54:11]     Weather API error: 429
+[23:54:11]     Weather API error: 429
+[23:54:12]     Weather API error: 429
+[23:54:12]     Weather API error: 429
+[23:54:13]     Weather API error: 429
+[23:54:13]     Weather API error: 429
+[23:54:14]     Weather API error: 429
+[23:54:15]     Weather API error: 429
+[23:54:15]     Weather API error: 429
+[23:54:16]     Weather API error: 429
+[23:54:17]     Weather API error: 429
+[23:54:17]     Weather API error: 429
+[23:54:18]     Weather API error: 429
+[23:54:18]     Weather API error: 429
+[23:54:20]     Weather API error: 429
+[23:54:20]     Weather API error: 429
+[23:54:21]     Weather API error: 429
+[23:54:21]     Weather API error: 429
+[23:54:22]     Weather API error: 429
+[23:54:22]     Weather API error: 429
+[23:54:23]     Weather API error: 429
+[23:54:23]     Weather API error: 429
+[23:54:24]     Weather API error: 429
+[23:54:24]     Weather API error: 429
+[23:54:24]   Progress: 171 enriched | 327 API calls | 123 cache hits | 48 cached locations
+[23:54:24]   Batch of 50...
+[23:54:25]     Weather API error: 429
+[23:54:25]     Weather API error: 429
+[23:54:26]     Weather API error: 429
+[23:54:27]     Weather API error: 429
+[23:54:27]     Weather API error: 429
+[23:54:28]     Weather API error: 429
+[23:54:28]     Weather API error: 429
+[23:54:29]     Weather API error: 429
+[23:54:29]     Weather API error: 429
+[23:54:30]     Weather API error: 429
+[23:54:30]     Weather API error: 429
+[23:54:31]     Weather API error: 429
+[23:54:31]     Weather API error: 429
+[23:54:32]     Weather API error: 429
+[23:54:33]     Weather API error: 429
+[23:54:33]     Weather API error: 429
+[23:54:34]     Weather API error: 429
+[23:54:35]     Weather API error: 429
+[23:54:35]     Weather API error: 429
+[23:54:36]     Weather API error: 429
+[23:54:36]     Weather API error: 429
+[23:54:37]     Weather API error: 429
+[23:54:37]     Weather API error: 429
+[23:54:38]     Weather API error: 429
+[23:54:38]     Weather rate limited, waiting 60s...
+[23:54:38]     Weather API error: 429
+[23:54:39]     Weather API error: 429
+[23:54:40]     Weather API error: 429
+[23:54:40]     Weather API error: 429
+[23:54:41]     Weather API error: 429
+[23:54:42]     Weather API error: 429
+[23:54:42]     Weather API error: 429
+[23:54:43]     Weather API error: 429
+[23:54:43]     Weather API error: 429
+[23:54:44]     Weather API error: 429
+[23:54:44]     Weather API error: 429
+[23:54:45]     Weather API error: 429
+[23:54:45]     Weather API error: 429
+[23:54:46]     Weather API error: 429
+[23:54:47]     Weather API error: 429
+[23:54:47]     Weather API error: 429
+[23:54:47]   Progress: 181 enriched | 367 API calls | 133 cache hits | 48 cached locations
+[23:54:47]   Batch of 50...
+[23:54:48]     Weather API error: 429
+[23:54:48]     Weather API error: 429
+[23:54:49]     Weather API error: 429
+[23:54:49]     Weather API error: 429
+[23:54:50]     Weather API error: 429
+[23:54:51]     Weather API error: 429
+[23:54:51]     Weather API error: 429
+[23:54:52]     Weather API error: 429
+[23:54:53]     Weather API error: 429
+[23:54:53]     Weather API error: 429
+[23:54:54]     Weather API error: 429
+[23:54:54]     Weather API error: 429
+[23:54:55]     Weather API error: 429
+[23:54:55]     Weather API error: 429
+[23:54:56]     Weather API error: 429
+[23:54:56]     Weather API error: 429
+[23:54:57]     Weather API error: 429
+[23:54:57]     Weather API error: 429
+[23:54:58]     Weather API error: 429
+[23:54:58]     Weather API error: 429
+[23:54:59]     Weather API error: 429
+[23:54:59]     Weather API error: 429
+[23:55:00]     Weather API error: 429
+[23:55:00]     Weather API error: 429
+[23:55:11]     Weather API error: 429
+[23:55:12]     Weather API error: 429
+[23:55:12]     Weather API error: 429
+[23:55:13]   Progress: 204 enriched | 404 API calls | 146 cache hits | 58 cached locations
+[23:55:13]   Batch of 50...
+[23:55:13]     Weather API error: 429
+[23:55:14]     Weather API error: 429
+[23:55:15]     Weather API error: 429
+[23:55:15]     Weather API error: 429
+[23:55:16]     Weather API error: 429
+[23:55:17]     Weather API error: 429
+[23:55:17]     Weather API error: 429
+[23:55:18]     Weather API error: 429
+[23:55:18]     Weather API error: 429
+[23:55:19]     Weather API error: 429
+[23:55:20]     Weather API error: 429
+[23:55:20]     Weather API error: 429
+[23:55:21]     Weather API error: 429
+[23:55:21]     Weather API error: 429
+[23:55:22]     Weather API error: 429
+[23:55:22]     Weather API error: 429
+[23:55:23]     Weather API error: 429
+[23:55:24]     Weather API error: 429
+[23:55:24]     Weather API error: 429
+[23:55:25]     Weather API error: 429
+[23:55:25]     Weather API error: 429
+[23:55:26]     Weather API error: 429
+[23:55:27]     Weather API error: 429
+[23:55:27]     Weather API error: 429
+[23:55:28]     Weather API error: 429
+[23:55:28]     Weather API error: 429
+[23:55:29]     Weather API error: 429
+[23:55:30]     Weather API error: 429
+[23:55:31]     Weather API error: 429
+[23:55:32]     Weather API error: 429
+[23:55:32]     Weather API error: 429
+[23:55:33]     Weather API error: 429
+[23:55:33]     Weather API error: 429
+[23:55:34]     Weather API error: 429
+[23:55:34]   Progress: 220 enriched | 438 API calls | 162 cache hits | 58 cached locations
+[23:55:34]   Batch of 50...
+[23:55:34]     Weather API error: 429
+[23:55:35]     Weather API error: 429
+[23:55:35]     Weather API error: 429
+[23:55:36]     Weather API error: 429
+[23:55:37]     Weather API error: 429
+[07:03:58] ============================================================
+[07:03:58] WEATHER ENRICHMENT
+[07:03:58] ============================================================
+[07:04:01]   Batch of 50...
+[07:04:22]     Weather rate limited, waiting 30s...
+[07:04:52]     Weather rate limited, waiting 60s...
+[07:06:21]     Weather rate limited, waiting 30s...
+[07:06:51]     Weather rate limited, waiting 60s...
+[07:08:03]   Progress: 50 enriched | 32 API calls | 18 cache hits | 32 cached locations
+[07:08:03]   Batch of 50...
+[07:08:20]     Weather rate limited, waiting 30s...
+[07:08:50]     Weather rate limited, waiting 60s...
+[07:10:17]   Progress: 100 enriched | 55 API calls | 45 cache hits | 55 cached locations
+[07:10:17]   Batch of 50...
+[07:10:21]     Weather rate limited, waiting 30s...
+[07:10:51]     Weather rate limited, waiting 60s...
+[07:12:22]     Weather rate limited, waiting 30s...
+[07:12:52]     Weather rate limited, waiting 60s...
+[07:14:01]   Progress: 150 enriched | 76 API calls | 74 cache hits | 76 cached locations
+[07:14:02]   Batch of 50...
+[07:14:11]     Weather rate limited, waiting 30s...
+[07:14:42]     Weather rate limited, waiting 60s...
+[07:15:42]     Weather rate limited, waiting 90s...
+[07:17:32]     Weather rate limited, waiting 30s...
+[07:18:18]   Progress: 199 enriched | 101 API calls | 99 cache hits | 100 cached locations
+[07:18:19]   Batch of 50...
+[07:18:20]     Weather rate limited, waiting 30s...
+[07:18:50]     Weather rate limited, waiting 60s...
+[07:20:21]     Weather rate limited, waiting 30s...
+[07:20:52]     Weather rate limited, waiting 60s...
+[07:21:57]   Progress: 249 enriched | 121 API calls | 129 cache hits | 120 cached locations
+[07:21:57]   Batch of 50...
+[07:22:20]     Weather rate limited, waiting 30s...
+[07:22:50]     Weather rate limited, waiting 60s...
+[07:24:04]   Progress: 299 enriched | 140 API calls | 160 cache hits | 139 cached locations
+[07:24:04]   Batch of 50...
+[07:24:24]     Weather rate limited, waiting 30s...
+[07:24:54]     Weather rate limited, waiting 60s...
+[07:26:12]   Progress: 349 enriched | 158 API calls | 192 cache hits | 157 cached locations
+[07:26:13]   Batch of 50...
+[07:26:20]     Weather rate limited, waiting 30s...
+[07:26:50]     Weather rate limited, waiting 60s...
+[07:27:50]     Weather rate limited, waiting 90s...
+[07:29:23]     Weather rate limited, waiting 30s...
+[07:29:53]     Weather rate limited, waiting 60s...
+[07:30:53]     Weather rate limited, waiting 90s...
+[07:32:26]     Weather rate limited, waiting 30s...
+[07:32:56]     Weather rate limited, waiting 60s...
+[07:33:56]     Weather rate limited, waiting 90s...
+[07:35:28]     Weather rate limited, waiting 30s...
+[07:35:58]     Weather rate limited, waiting 60s...
+[07:36:58]     Weather rate limited, waiting 90s...
+[07:37:29] ============================================================
+[07:37:29] WEATHER ENRICHMENT
+[07:37:29] ============================================================
+[07:37:30]   Batch of 50...
+[07:37:33]     Weather rate limited, waiting 30s...
+[07:38:03]     Weather rate limited, waiting 60s...
+[07:39:03]     Weather rate limited, waiting 90s...
+[07:40:36]     Weather rate limited, waiting 30s...
+[07:41:07]     Weather rate limited, waiting 60s...
+[07:42:07]     Weather rate limited, waiting 90s...
+[07:43:40]     Weather rate limited, waiting 30s...
+[07:44:10]     Weather rate limited, waiting 60s...
+[07:45:10]     Weather rate limited, waiting 90s...

@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-03-10T17:01:58.616062+00:00",
+  "census_year": 2023,
+  "zbp_detail_row": 0,
+  "zbp_detail_inserted": 0,
+  "zbp_detail_errors": 0,
+  "cbp_county_row": 1100961,
+  "cbp_county_inserted": 0,
+  "cbp_county_errors": 0,
+  "zbp_detail_done": true,
+  "cbp_county_done": true,
+  "car_wash_api_done": true,
+  "api_811192": "19895_establishments",
+  "api_722511": "260866_establishments",
+  "api_722513": "272562_establishments",
+  "api_811111": "85291_establishments",
+  "api_447110": "96994_establishments",
+  "api_812310": "10954_establishments",
+  "api_713940": "41660_establishments",
+  "api_621210": "136607_establishments",
+  "api_561730": "118225_establishments",
+  "api_238220": "111607_establishments"
+}

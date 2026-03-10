@@ -1,0 +1,172 @@
+[13:01:10] ======================================================================
+[13:01:10]   ENRICHMENT PIPELINE STATUS
+[13:01:10]   2026-03-10 13:01:10
+[13:01:10] ======================================================================
+[13:01:10] 
+── Database Overview ──
+[13:01:14]   businesses: 0 rows
+[13:01:16]   people: 1,109,566 rows
+[13:01:19]   firms: 0 rows
+[13:01:20]   car_wash_buyers: 108 rows
+[13:01:20]   business_people: 97,123 rows
+[13:01:22]   industry_details: 51,745 rows
+[13:01:22] 
+── Enrichment Status ──
+[13:01:27]   apollo_people_searched: 1,643
+[13:01:28]   google_enriched: 256
+[13:01:30]   legacy_merged: 18,000
+[13:01:32] 
+── Business Types (classified) ──
+[13:01:39] ======================================================================
+[13:01:39]   BUYER ENRICHMENT — 108 Car Wash Buyers
+[13:01:39] ======================================================================
+[13:01:41] No buyers found
+[13:01:51]   gym: 3,405 total | 0 enriched (0.0%) | 1,193 raw+website
+[13:02:00]   auto_dealer: 3,575 total | 0 enriched (0.0%) | 0 raw+website
+[13:02:04]   real_estate: 2,164 total | 0 enriched (0.0%) | 684 raw+website
+[13:02:05]   construction: 6 total | 0 enriched (0.0%) | 0 raw+website
+[13:02:08]   laundromat: 9,250 total | 0 enriched (0.0%) | 225 raw+website
+[13:02:17] 
+── People ──
+[13:02:26]   Total: 1,109,566 | Email: 2,845 (0.3%) | Phone: 0
+[13:02:26] 
+── Buyers ──
+[13:02:35]   Total: 108 | Contact: 43 | Email: 18
+[13:02:35] 
+── Progress Files ──
+[13:02:35]   business_entity_progress.json: 0 done, 0 err
+[13:02:35]   gp_metro_progress.json: 0 done, 0 err
+[13:02:35]   gp_v2_progress.json: 0 done, 0 err
+[13:02:35]   ingest_census_progress.json: 0 done, 0 err
+[13:02:35] ======================================================================
+[17:49:02] ======================================================================
+[17:49:02]   BUYER ENRICHMENT — 108 Car Wash Buyers
+[17:49:02] ======================================================================
+[17:49:03]   [1/108] Driven Brands (Take 5 Car Wash) (drivenbrands.com)
+[17:49:15]     Updated: ['contact_email', 'updated_at']
+[17:49:16]   [2/108] Mr. Quick Car Wash LLC (no domain)
+[17:49:18]   [2/108] Swabbie's Express Car Wash Co LLC Series B (no domain)
+[17:49:19]   [2/108] Stabilized Carwash, LLC (no domain)
+[17:49:20]   [2/108] Coastal Car Wash GP Fund, LLC (no domain)
+[17:49:22]   [2/108] Splash Car Wash (splashcarwashes.com)
+[17:49:37]     Updated: ['contact_phone', 'updated_at']
+[17:49:38]   [3/108] Quick Quack Car Wash (quickquack.com)
+[17:49:50]   [3/108] Caliber Car Wash (Percheron Capital / Eagle Merchant) (calibercarwash.com)
+[17:50:04]     Updated: ['contact_phone', 'updated_at']
+[17:50:05]   [4/108] Alimentation Couche-Tard (couche-tard.com)
+[17:50:23]   [4/108] DJ Car Wash IV LLC (no domain)
+[17:50:24]   [4/108] GO Car Wash (gocarwash.com)
+[17:50:37]   [4/108] Imperial Capital GO Car Wash Sidecar II (Intl) LP (gocarwash.com)
+[17:50:49]   [4/108] LUV Car Wash (Susquehanna Growth Equity) (luvcarwash.com)
+[17:51:01]   [4/108] PPR Capital Management (pprcapital.com)
+[17:51:22]   [4/108] Super Star Car Wash (superstarcarwash.com)
+[17:51:33]   [4/108] International Car Wash Group (ICWG) (icwg.com)
+[17:51:52]   [4/108] Raceway Express Car Wash (ClearSky Capital) (racewayexpress.com)
+[17:52:03]   [4/108] Bashert QC Capital Car Wash I LLC (no domain)
+[17:52:05]   [4/108] 27 Car Wash Holdings, LLC (no domain)
+[17:52:07]   [4/108] Blue Buffalo Car Wash, LLC (bluebuffalocarwash.com)
+[17:52:19]   [4/108] Mammoth Holdings (Red Dog Equity / Pritzker) (mammothholdings.com)
+[17:52:48]   [4/108] Percheron Capital (percheroncapital.com)
+[17:52:58]   [4/108] MIAMI BREEZE CAR CARE INC (no domain)
+[17:53:00]   [4/108] Red Ride Car Wash Fund I, L.P. (no domain)
+[17:53:01]   [4/108] PIC Car Wash 7, LLC (no domain)
+[17:53:02]   [4/108] TRP Capital Partners (trpcapitalpartners.com)
+[17:53:14]   [4/108] Spotless Brands - Cobblestone Auto Spa (cobblestoneautospa.com)
+[17:53:25]   [4/108] Spotless Brands (Access Holdings) (spotlessbrands.com)
+[17:53:37]   [4/108] Sculptor Real Estate (fka Och-Ziff) (sculptor.com)
+[17:53:47]     Updated: ['contact_email', 'contact_phone', 'linkedin_url', 'updated_at']
+[17:53:48]   [5/108] Golden Gate Capital (goldengatecap.com)
+[17:54:00]   [5/108] CCMP Growth Advisors (ccmpgrowthadvisors.com)
+[17:54:11]     Updated: ['contact_phone', 'updated_at']
+[17:54:12]   [6/108] Rocket Car Wash (rocketcarwash.com)
+[17:54:38]   [6/108] Susquehanna Growth Equity (susquehannagrowthequity.com)
+[17:54:49]   [6/108] WhiteWater Express Car Wash (whitewaterexpresscarwash.com)
+[17:55:21]   [6/108] Imperial Capital GO Car Wash Sidecar (Intl) LP (gocarwash.com)
+[17:55:32]   [6/108] Vision Car Wash, LLC (visioncarwash.com)
+[17:55:44]   [6/108] Tommy's Express Car Wash (tommysexpress.com)
+[17:55:54]   [6/108] El Car Wash (Warburg Pincus) (elcarwash.com)
+[17:56:05]   [6/108] YCP Car Wash Portfolio LLC (no domain)
+[17:56:06]   [6/108] ISP RE Car Wash Fund LP (no domain)
+[17:56:08]   [6/108] Express Wash Concepts (Wildcat Capital / Bonderman) (expresswashconcepts.com)
+[17:56:22]     Updated: ['contact_phone', 'updated_at']
+[17:56:23]   [7/108] QC Car Wash Fund II, LLC (no domain)
+[17:56:24]   [7/108] Sparky's Car Wash McKinney, LLC (sparkyscarwashmckinney.com)
+[17:56:35]   [7/108] Argosy Private Equity (argosyprivateequity.com)
+[17:57:05]   [7/108] PIC CAR WASH 4, LLC (no domain)
+[17:57:07]   [7/108] Summit Wash Holdings (New Mountain Capital) (summitwashholdings.com)
+[17:57:18]   [7/108] Owl's Nest 2022 Car Wash Fund, LLC (no domain)
+[17:57:20]   [7/108] Mr. Splash Car Wash (Argosy Private Equity) (splashcarwashes.com)
+[17:57:30]     Updated: ['contact_phone', 'updated_at']
+[17:57:31]   [8/108] BE Car Wash Fund LLC (becarwash.com)
+[17:57:43]   [8/108] Jax Kar Wash (TRP Capital Partners) (jaxkarwash.com)
+[17:57:54]   [8/108] Leonard Green & Partners (via Mister CW) (leonardgreen.com)
+[17:58:09]     Updated: ['contact_phone', 'updated_at']
+[17:58:10]   [9/108] Wildcat Capital Management (Bonderman) (wildcatcapital.com)
+[17:58:21]   [9/108] New Mountain Capital (newmountaincapital.com)
+[17:58:33]   [9/108] Whistle Express Car Wash (whistleexpresscarwash.com)
+[18:01:27]     Updated: ['contact_phone', 'updated_at']
+[18:01:28]   [10/108] PIC CAR WASH 1, LLC (no domain)
+[18:01:30]   [10/108] Links Car Wash Tampa Investors, LLC (no domain)
+[18:01:31]   [10/108] GWC Car Wash Fund LLC (no domain)
+[18:01:33]   [10/108] Vision Car Wash Two, LLC (no domain)
+[18:01:34]   [10/108] Freestone Car Wash I LLC (no domain)
+[18:01:35]   [10/108] ClearSky Capital (clearskycapital.com)
+[18:02:23]   [10/108] ClearWater Express Wash (clearwaterexpresswash.com)
+[18:02:40]   [10/108] Magnolia Wash Holdings (Oaktree Capital) (magnoliawash.com)
+[18:03:02]   [10/108] Club Car Wash (clubcarwash.com)
+[18:03:14]   [10/108] Freeman Spogli & Co. (freemanspogli.com)
+[18:03:25]     Updated: ['contact_email', 'contact_phone', 'linkedin_url', 'updated_at']
+[18:03:26]   [11/108] PIC Car Wash 6, LLC (no domain)
+[18:03:30]   [11/108] Point72 Ventures (point72ventures.com)
+[18:03:42]   [11/108] Tsunami Express Car Wash (Point72) (tsunamiexpress.com)
+[18:03:56]   [11/108] Rocket Carwash, LLC (rocketcarwash.com)
+[18:04:21]   [11/108] San Diego Sunshine Car Wash 1st Mortgage Investors LP (no domain)
+[18:04:23]   [11/108] DJ Car Wash I LLC (no domain)
+[18:04:25]   [11/108] Coastal Links Car Wash Fund, LLC (no domain)
+[18:04:26]   [11/108] QC Car Wash Fund I, LLC (no domain)
+[18:04:28]   [11/108] Spotless Brands - Okie Express (okieexpress.com)
+[18:12:16]   [11/108] Mister Car Wash (Leonard Green & Partners) (mistercarwash.com)
+[18:12:41]     Updated: ['contact_email', 'contact_phone', 'updated_at']
+[18:12:42]   [12/108] Links Car Wash Opportunity Fund II, LLC (no domain)
+[18:12:44]   [12/108] Roark Capital (via Driven Brands) (roarkcapital.com)
+[18:12:58]   [12/108] ModWash (Hutton Co.) (modwash.com)
+[18:13:10]     Updated: ['contact_phone', 'updated_at']
+[18:13:11]   [13/108] Moo Moo / Flying Ace (Wildcat Capital platform) (moomoocarwash.com)
+[18:13:43]     Updated: ['contact_phone', 'updated_at']
+[18:13:44]   [14/108] PIC CAR WASH 5, LLC (no domain)
+[18:13:45]   [14/108] Links Car Wash Opportunity Fund, LLC (no domain)
+[18:13:47]   [14/108] ZIPS Car Wash (Ch.11 restructuring) (zipscarwash.com)
+[18:13:58]     Updated: ['contact_phone', 'updated_at']
+[18:13:59]   [15/108] PIC CAR WASH 2, LLC (no domain)
+[18:14:00]   [15/108] ISP RE Car Wash Fund II, LP (no domain)
+[18:14:02]   [15/108] Dutchman Car Washes, LLC (no domain)
+[18:14:03]   [15/108] DJ Car Wash III LLC (no domain)
+[18:14:04]   [15/108] Tidal Wave Auto Spa (Golden Gate Capital) (tidalwaveautospa.com)
+[18:14:16]     Updated: ['contact_email', 'updated_at']
+[18:14:17]   [16/108] Swabbie's Express Car Wash Co LLC Series A (no domain)
+[18:14:18]   [16/108] Flagship Carwash (flagshipcarwash.com)
+[18:14:31]   [16/108] HF SA Car Wash LLC (no domain)
+[18:14:32]   [16/108] PIC CAR WASH 3, LLC (no domain)
+[18:14:34]   [16/108] Red Dog Equity (Pritzker family) (reddogequity.com)
+[18:14:46]   [16/108] Mid-South Car Wash Investors Fund II, LLC (no domain)
+[18:14:47]   [16/108] Real Capital Car Wash Lower Fund, L.P. (no domain)
+[18:14:48]   [16/108] 105 Market Street Car Wash LLC (no domain)
+[18:14:50]   [16/108] Captain Car Wash Co., LLC Series C (no domain)
+[18:14:51]   [16/108] Access Holdings (accessholdings.com)
+[18:15:07]   [16/108] Apex Equity Group QC Capital Car Wash Fund LLC (no domain)
+[18:15:08]   [16/108] Links Car Wash Orlando Investors, LLC (no domain)
+[18:15:09]   [16/108] Tidal Wave Express (regional chain) (tidalwaveautospa.com)
+[18:15:18]     Updated: ['contact_email', 'contact_phone', 'updated_at']
+[18:15:19]   [17/108] Bashert QC Capital Car Wash II LLC (no domain)
+[18:15:21]   [17/108] Exp Eq QC Car Wash II LLC (no domain)
+[18:15:22]   [17/108] Eagle Merchant Partners (eaglemerchantpartners.com)
+[18:15:34]   [17/108] Oaktree Capital Management (oaktreecapital.com)
+[18:15:47]     Updated: ['contact_phone', 'updated_at']
+[18:15:48]   [18/108] BEAM CAR WASH FUND I LLC (beamcarwash.com)
+[18:15:59]   [18/108] Team Car Wash Holdings LLC (no domain)
+[18:16:00]   [18/108] Upper90 Magic Car Wash Equity SPV LLC (no domain)
+[18:16:02]   [18/108] Amplify Car Wash Advisors (amplifycarwashadvisors.com)
+[18:16:13]   [18/108] Warburg Pincus (warburgpincus.com)
+[18:16:26]     Updated: ['contact_phone', 'updated_at']
+[18:16:27] 
+Buyer enrichment: 18/108 updated

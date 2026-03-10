@@ -1,0 +1,368 @@
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[17:49:02] ======================================================================
+[17:49:02]   BUYER ENRICHMENT — 108 Car Wash Buyers
+[17:49:02] ======================================================================
+[17:49:03]   [1/108] Driven Brands (Take 5 Car Wash) (drivenbrands.com)
+[2026-03-10 17:49:03] INFO      Layer 1: Website scrape -> drivenbrands.com
+[2026-03-10 17:49:13] INFO      Layer 2: Domain intel -> drivenbrands.com
+[2026-03-10 17:49:14] INFO      Layer 3: SEC EDGAR -> Driven Brands (Take 5 Car Wash)
+[17:49:15]     Updated: ['contact_email', 'updated_at']
+[17:49:16]   [2/108] Mr. Quick Car Wash LLC (no domain)
+[2026-03-10 17:49:16] INFO      Layer 3: SEC EDGAR -> Mr. Quick Car Wash LLC
+[17:49:18]   [2/108] Swabbie's Express Car Wash Co LLC Series B (no domain)
+[2026-03-10 17:49:18] INFO      Layer 3: SEC EDGAR -> Swabbie's Express Car Wash Co LLC Series B
+[17:49:19]   [2/108] Stabilized Carwash, LLC (no domain)
+[2026-03-10 17:49:19] INFO      Layer 3: SEC EDGAR -> Stabilized Carwash, LLC
+[17:49:20]   [2/108] Coastal Car Wash GP Fund, LLC (no domain)
+[2026-03-10 17:49:20] INFO      Layer 3: SEC EDGAR -> Coastal Car Wash GP Fund, LLC
+[17:49:22]   [2/108] Splash Car Wash (splashcarwashes.com)
+[2026-03-10 17:49:22] INFO      Layer 1: Website scrape -> splashcarwashes.com
+[2026-03-10 17:49:33] INFO      Layer 2: Domain intel -> splashcarwashes.com
+[2026-03-10 17:49:36] INFO      Layer 3: SEC EDGAR -> Splash Car Wash
+[17:49:37]     Updated: ['contact_phone', 'updated_at']
+[17:49:38]   [3/108] Quick Quack Car Wash (quickquack.com)
+[2026-03-10 17:49:38] INFO      Layer 1: Website scrape -> quickquack.com
+[2026-03-10 17:49:47] INFO      Layer 2: Domain intel -> quickquack.com
+[2026-03-10 17:49:48] INFO      Layer 3: SEC EDGAR -> Quick Quack Car Wash
+[17:49:50]   [3/108] Caliber Car Wash (Percheron Capital / Eagle Merchant) (calibercarwash.com)
+[2026-03-10 17:49:50] INFO      Layer 1: Website scrape -> calibercarwash.com
+[2026-03-10 17:50:02] INFO      Layer 2: Domain intel -> calibercarwash.com
+[2026-03-10 17:50:03] INFO      Layer 3: SEC EDGAR -> Caliber Car Wash (Percheron Capital / Eagle Merchant)
+[17:50:04]     Updated: ['contact_phone', 'updated_at']
+[17:50:05]   [4/108] Alimentation Couche-Tard (couche-tard.com)
+[2026-03-10 17:50:05] INFO      Layer 1: Website scrape -> couche-tard.com
+[2026-03-10 17:50:20] INFO      Layer 2: Domain intel -> couche-tard.com
+[2026-03-10 17:50:21] INFO      Layer 3: SEC EDGAR -> Alimentation Couche-Tard
+[17:50:23]   [4/108] DJ Car Wash IV LLC (no domain)
+[2026-03-10 17:50:23] INFO      Layer 3: SEC EDGAR -> DJ Car Wash IV LLC
+[17:50:24]   [4/108] GO Car Wash (gocarwash.com)
+[2026-03-10 17:50:24] INFO      Layer 1: Website scrape -> gocarwash.com
+[2026-03-10 17:50:34] INFO      Layer 2: Domain intel -> gocarwash.com
+[2026-03-10 17:50:35] INFO      Layer 3: SEC EDGAR -> GO Car Wash
+[17:50:37]   [4/108] Imperial Capital GO Car Wash Sidecar II (Intl) LP (gocarwash.com)
+[2026-03-10 17:50:37] INFO      Layer 1: Website scrape -> gocarwash.com
+[2026-03-10 17:50:48] INFO      Layer 2: Domain intel -> gocarwash.com
+[2026-03-10 17:50:48] INFO      Layer 3: SEC EDGAR -> Imperial Capital GO Car Wash Sidecar II (Intl) LP
+[17:50:49]   [4/108] LUV Car Wash (Susquehanna Growth Equity) (luvcarwash.com)
+[2026-03-10 17:50:49] INFO      Layer 1: Website scrape -> luvcarwash.com
+[2026-03-10 17:50:59] INFO      Layer 2: Domain intel -> luvcarwash.com
+[2026-03-10 17:51:00] INFO      Layer 3: SEC EDGAR -> LUV Car Wash (Susquehanna Growth Equity)
+[17:51:01]   [4/108] PPR Capital Management (pprcapital.com)
+[2026-03-10 17:51:01] INFO      Layer 1: Website scrape -> pprcapital.com
+[2026-03-10 17:51:10] INFO      Layer 2: Domain intel -> pprcapital.com
+Error trying to connect to socket: closing socket - timed out
+[2026-03-10 17:51:20] INFO      Layer 3: SEC EDGAR -> PPR Capital Management
+[17:51:22]   [4/108] Super Star Car Wash (superstarcarwash.com)
+[2026-03-10 17:51:22] INFO      Layer 1: Website scrape -> superstarcarwash.com
+[2026-03-10 17:51:31] INFO      Layer 2: Domain intel -> superstarcarwash.com
+[2026-03-10 17:51:31] INFO      Layer 3: SEC EDGAR -> Super Star Car Wash
+[17:51:33]   [4/108] International Car Wash Group (ICWG) (icwg.com)
+[2026-03-10 17:51:33] INFO      Layer 1: Website scrape -> icwg.com
+[2026-03-10 17:51:50] INFO      Layer 2: Domain intel -> icwg.com
+[2026-03-10 17:51:51] INFO      Layer 3: SEC EDGAR -> International Car Wash Group (ICWG)
+[17:51:52]   [4/108] Raceway Express Car Wash (ClearSky Capital) (racewayexpress.com)
+[2026-03-10 17:51:52] INFO      Layer 1: Website scrape -> racewayexpress.com
+[2026-03-10 17:52:01] INFO      Layer 2: Domain intel -> racewayexpress.com
+[2026-03-10 17:52:02] INFO      Layer 3: SEC EDGAR -> Raceway Express Car Wash (ClearSky Capital)
+[17:52:03]   [4/108] Bashert QC Capital Car Wash I LLC (no domain)
+[2026-03-10 17:52:03] INFO      Layer 3: SEC EDGAR -> Bashert QC Capital Car Wash I LLC
+[17:52:05]   [4/108] 27 Car Wash Holdings, LLC (no domain)
+[2026-03-10 17:52:05] INFO      Layer 3: SEC EDGAR -> 27 Car Wash Holdings, LLC
+[17:52:07]   [4/108] Blue Buffalo Car Wash, LLC (bluebuffalocarwash.com)
+[2026-03-10 17:52:07] INFO      Layer 1: Website scrape -> bluebuffalocarwash.com
+[2026-03-10 17:52:16] INFO      Layer 2: Domain intel -> bluebuffalocarwash.com
+[2026-03-10 17:52:18] INFO      Layer 3: SEC EDGAR -> Blue Buffalo Car Wash, LLC
+[17:52:19]   [4/108] Mammoth Holdings (Red Dog Equity / Pritzker) (mammothholdings.com)
+[2026-03-10 17:52:19] INFO      Layer 1: Website scrape -> mammothholdings.com
+[2026-03-10 17:52:46] INFO      Layer 2: Domain intel -> mammothholdings.com
+[2026-03-10 17:52:46] INFO      Layer 3: SEC EDGAR -> Mammoth Holdings (Red Dog Equity / Pritzker)
+[17:52:48]   [4/108] Percheron Capital (percheroncapital.com)
+[2026-03-10 17:52:48] INFO      Layer 1: Website scrape -> percheroncapital.com
+[2026-03-10 17:52:56] INFO      Layer 2: Domain intel -> percheroncapital.com
+[2026-03-10 17:52:57] INFO      Layer 3: SEC EDGAR -> Percheron Capital
+[17:52:58]   [4/108] MIAMI BREEZE CAR CARE INC (no domain)
+[2026-03-10 17:52:58] INFO      Layer 3: SEC EDGAR -> MIAMI BREEZE CAR CARE INC
+[17:53:00]   [4/108] Red Ride Car Wash Fund I, L.P. (no domain)
+[2026-03-10 17:53:00] INFO      Layer 3: SEC EDGAR -> Red Ride Car Wash Fund I, L.P.
+[17:53:01]   [4/108] PIC Car Wash 7, LLC (no domain)
+[2026-03-10 17:53:01] INFO      Layer 3: SEC EDGAR -> PIC Car Wash 7, LLC
+[17:53:02]   [4/108] TRP Capital Partners (trpcapitalpartners.com)
+[2026-03-10 17:53:02] INFO      Layer 1: Website scrape -> trpcapitalpartners.com
+[2026-03-10 17:53:11] INFO      Layer 2: Domain intel -> trpcapitalpartners.com
+[2026-03-10 17:53:11] INFO      Layer 3: SEC EDGAR -> TRP Capital Partners
+[17:53:14]   [4/108] Spotless Brands - Cobblestone Auto Spa (cobblestoneautospa.com)
+[2026-03-10 17:53:14] INFO      Layer 1: Website scrape -> cobblestoneautospa.com
+[2026-03-10 17:53:23] INFO      Layer 2: Domain intel -> cobblestoneautospa.com
+[2026-03-10 17:53:24] INFO      Layer 3: SEC EDGAR -> Spotless Brands - Cobblestone Auto Spa
+[17:53:25]   [4/108] Spotless Brands (Access Holdings) (spotlessbrands.com)
+[2026-03-10 17:53:25] INFO      Layer 1: Website scrape -> spotlessbrands.com
+[2026-03-10 17:53:34] INFO      Layer 2: Domain intel -> spotlessbrands.com
+[2026-03-10 17:53:35] INFO      Layer 3: SEC EDGAR -> Spotless Brands (Access Holdings)
+[17:53:37]   [4/108] Sculptor Real Estate (fka Och-Ziff) (sculptor.com)
+[2026-03-10 17:53:37] INFO      Layer 1: Website scrape -> sculptor.com
+[2026-03-10 17:53:46] INFO      Layer 2: Domain intel -> sculptor.com
+[2026-03-10 17:53:47] INFO      Layer 3: SEC EDGAR -> Sculptor Real Estate (fka Och-Ziff)
+[17:53:47]     Updated: ['contact_email', 'contact_phone', 'linkedin_url', 'updated_at']
+[17:53:48]   [5/108] Golden Gate Capital (goldengatecap.com)
+[2026-03-10 17:53:48] INFO      Layer 1: Website scrape -> goldengatecap.com
+[2026-03-10 17:53:58] INFO      Layer 2: Domain intel -> goldengatecap.com
+[2026-03-10 17:53:59] INFO      Layer 3: SEC EDGAR -> Golden Gate Capital
+[17:54:00]   [5/108] CCMP Growth Advisors (ccmpgrowthadvisors.com)
+[2026-03-10 17:54:00] INFO      Layer 1: Website scrape -> ccmpgrowthadvisors.com
+[2026-03-10 17:54:09] INFO      Layer 2: Domain intel -> ccmpgrowthadvisors.com
+[2026-03-10 17:54:11] INFO      Layer 3: SEC EDGAR -> CCMP Growth Advisors
+[17:54:11]     Updated: ['contact_phone', 'updated_at']
+[17:54:12]   [6/108] Rocket Car Wash (rocketcarwash.com)
+[2026-03-10 17:54:12] INFO      Layer 1: Website scrape -> rocketcarwash.com
+[2026-03-10 17:54:36] INFO      Layer 2: Domain intel -> rocketcarwash.com
+[2026-03-10 17:54:36] INFO      Layer 3: SEC EDGAR -> Rocket Car Wash
+[17:54:38]   [6/108] Susquehanna Growth Equity (susquehannagrowthequity.com)
+[2026-03-10 17:54:38] INFO      Layer 1: Website scrape -> susquehannagrowthequity.com
+[2026-03-10 17:54:47] INFO      Layer 2: Domain intel -> susquehannagrowthequity.com
+[2026-03-10 17:54:48] INFO      Layer 3: SEC EDGAR -> Susquehanna Growth Equity
+[17:54:49]   [6/108] WhiteWater Express Car Wash (whitewaterexpresscarwash.com)
+[2026-03-10 17:54:49] INFO      Layer 1: Website scrape -> whitewaterexpresscarwash.com
+[2026-03-10 17:55:19] INFO      Layer 2: Domain intel -> whitewaterexpresscarwash.com
+[2026-03-10 17:55:19] INFO      Layer 3: SEC EDGAR -> WhiteWater Express Car Wash
+[17:55:21]   [6/108] Imperial Capital GO Car Wash Sidecar (Intl) LP (gocarwash.com)
+[2026-03-10 17:55:21] INFO      Layer 1: Website scrape -> gocarwash.com
+[2026-03-10 17:55:30] INFO      Layer 2: Domain intel -> gocarwash.com
+[2026-03-10 17:55:30] INFO      Layer 3: SEC EDGAR -> Imperial Capital GO Car Wash Sidecar (Intl) LP
+[17:55:32]   [6/108] Vision Car Wash, LLC (visioncarwash.com)
+[2026-03-10 17:55:32] INFO      Layer 1: Website scrape -> visioncarwash.com
+[2026-03-10 17:55:40] INFO      Layer 2: Domain intel -> visioncarwash.com
+[2026-03-10 17:55:42] INFO      Layer 3: SEC EDGAR -> Vision Car Wash, LLC
+[17:55:44]   [6/108] Tommy's Express Car Wash (tommysexpress.com)
+[2026-03-10 17:55:44] INFO      Layer 1: Website scrape -> tommysexpress.com
+[2026-03-10 17:55:52] INFO      Layer 2: Domain intel -> tommysexpress.com
+[2026-03-10 17:55:53] INFO      Layer 3: SEC EDGAR -> Tommy's Express Car Wash
+[17:55:54]   [6/108] El Car Wash (Warburg Pincus) (elcarwash.com)
+[2026-03-10 17:55:54] INFO      Layer 1: Website scrape -> elcarwash.com
+[2026-03-10 17:56:03] INFO      Layer 2: Domain intel -> elcarwash.com
+[2026-03-10 17:56:04] INFO      Layer 3: SEC EDGAR -> El Car Wash (Warburg Pincus)
+[17:56:05]   [6/108] YCP Car Wash Portfolio LLC (no domain)
+[2026-03-10 17:56:05] INFO      Layer 3: SEC EDGAR -> YCP Car Wash Portfolio LLC
+[17:56:06]   [6/108] ISP RE Car Wash Fund LP (no domain)
+[2026-03-10 17:56:06] INFO      Layer 3: SEC EDGAR -> ISP RE Car Wash Fund LP
+[17:56:08]   [6/108] Express Wash Concepts (Wildcat Capital / Bonderman) (expresswashconcepts.com)
+[2026-03-10 17:56:08] INFO      Layer 1: Website scrape -> expresswashconcepts.com
+[2026-03-10 17:56:21] INFO      Layer 2: Domain intel -> expresswashconcepts.com
+[2026-03-10 17:56:22] INFO      Layer 3: SEC EDGAR -> Express Wash Concepts (Wildcat Capital / Bonderman)
+[17:56:22]     Updated: ['contact_phone', 'updated_at']
+[17:56:23]   [7/108] QC Car Wash Fund II, LLC (no domain)
+[2026-03-10 17:56:23] INFO      Layer 3: SEC EDGAR -> QC Car Wash Fund II, LLC
+[17:56:24]   [7/108] Sparky's Car Wash McKinney, LLC (sparkyscarwashmckinney.com)
+[2026-03-10 17:56:24] INFO      Layer 1: Website scrape -> sparkyscarwashmckinney.com
+[2026-03-10 17:56:33] INFO      Layer 2: Domain intel -> sparkyscarwashmckinney.com
+[2026-03-10 17:56:34] INFO      Layer 3: SEC EDGAR -> Sparky's Car Wash McKinney, LLC
+[17:56:35]   [7/108] Argosy Private Equity (argosyprivateequity.com)
+[2026-03-10 17:56:35] INFO      Layer 1: Website scrape -> argosyprivateequity.com
+[2026-03-10 17:57:03] INFO      Layer 2: Domain intel -> argosyprivateequity.com
+[2026-03-10 17:57:04] INFO      Layer 3: SEC EDGAR -> Argosy Private Equity
+[17:57:05]   [7/108] PIC CAR WASH 4, LLC (no domain)
+[2026-03-10 17:57:05] INFO      Layer 3: SEC EDGAR -> PIC CAR WASH 4, LLC
+[17:57:07]   [7/108] Summit Wash Holdings (New Mountain Capital) (summitwashholdings.com)
+[2026-03-10 17:57:07] INFO      Layer 1: Website scrape -> summitwashholdings.com
+[2026-03-10 17:57:16] INFO      Layer 2: Domain intel -> summitwashholdings.com
+[2026-03-10 17:57:17] INFO      Layer 3: SEC EDGAR -> Summit Wash Holdings (New Mountain Capital)
+[17:57:18]   [7/108] Owl's Nest 2022 Car Wash Fund, LLC (no domain)
+[2026-03-10 17:57:18] INFO      Layer 3: SEC EDGAR -> Owl's Nest 2022 Car Wash Fund, LLC
+[17:57:20]   [7/108] Mr. Splash Car Wash (Argosy Private Equity) (splashcarwashes.com)
+[2026-03-10 17:57:20] INFO      Layer 1: Website scrape -> splashcarwashes.com
+[2026-03-10 17:57:29] INFO      Layer 2: Domain intel -> splashcarwashes.com
+[2026-03-10 17:57:29] INFO      Layer 3: SEC EDGAR -> Mr. Splash Car Wash (Argosy Private Equity)
+[17:57:30]     Updated: ['contact_phone', 'updated_at']
+[17:57:31]   [8/108] BE Car Wash Fund LLC (becarwash.com)
+[2026-03-10 17:57:31] INFO      Layer 1: Website scrape -> becarwash.com
+[2026-03-10 17:57:40] INFO      Layer 2: Domain intel -> becarwash.com
+[2026-03-10 17:57:41] INFO      Layer 3: SEC EDGAR -> BE Car Wash Fund LLC
+[17:57:43]   [8/108] Jax Kar Wash (TRP Capital Partners) (jaxkarwash.com)
+[2026-03-10 17:57:43] INFO      Layer 1: Website scrape -> jaxkarwash.com
+[2026-03-10 17:57:52] INFO      Layer 2: Domain intel -> jaxkarwash.com
+[2026-03-10 17:57:53] INFO      Layer 3: SEC EDGAR -> Jax Kar Wash (TRP Capital Partners)
+[17:57:54]   [8/108] Leonard Green & Partners (via Mister CW) (leonardgreen.com)
+[2026-03-10 17:57:54] INFO      Layer 1: Website scrape -> leonardgreen.com
+[2026-03-10 17:58:07] INFO      Layer 2: Domain intel -> leonardgreen.com
+[2026-03-10 17:58:08] INFO      Layer 3: SEC EDGAR -> Leonard Green & Partners (via Mister CW)
+[17:58:09]     Updated: ['contact_phone', 'updated_at']
+[17:58:10]   [9/108] Wildcat Capital Management (Bonderman) (wildcatcapital.com)
+[2026-03-10 17:58:10] INFO      Layer 1: Website scrape -> wildcatcapital.com
+[2026-03-10 17:58:18] INFO      Layer 2: Domain intel -> wildcatcapital.com
+[2026-03-10 17:58:19] INFO      Layer 3: SEC EDGAR -> Wildcat Capital Management (Bonderman)
+[17:58:21]   [9/108] New Mountain Capital (newmountaincapital.com)
+[2026-03-10 17:58:21] INFO      Layer 1: Website scrape -> newmountaincapital.com
+[2026-03-10 17:58:31] INFO      Layer 2: Domain intel -> newmountaincapital.com
+[2026-03-10 17:58:32] INFO      Layer 3: SEC EDGAR -> New Mountain Capital
+[17:58:33]   [9/108] Whistle Express Car Wash (whistleexpresscarwash.com)
+[2026-03-10 17:58:33] INFO      Layer 1: Website scrape -> whistleexpresscarwash.com
+[2026-03-10 18:01:26] INFO      Layer 2: Domain intel -> whistleexpresscarwash.com
+[2026-03-10 18:01:27] INFO      Layer 3: SEC EDGAR -> Whistle Express Car Wash
+[18:01:27]     Updated: ['contact_phone', 'updated_at']
+[18:01:28]   [10/108] PIC CAR WASH 1, LLC (no domain)
+[2026-03-10 18:01:28] INFO      Layer 3: SEC EDGAR -> PIC CAR WASH 1, LLC
+[18:01:30]   [10/108] Links Car Wash Tampa Investors, LLC (no domain)
+[2026-03-10 18:01:30] INFO      Layer 3: SEC EDGAR -> Links Car Wash Tampa Investors, LLC
+[18:01:31]   [10/108] GWC Car Wash Fund LLC (no domain)
+[2026-03-10 18:01:31] INFO      Layer 3: SEC EDGAR -> GWC Car Wash Fund LLC
+[18:01:33]   [10/108] Vision Car Wash Two, LLC (no domain)
+[2026-03-10 18:01:33] INFO      Layer 3: SEC EDGAR -> Vision Car Wash Two, LLC
+[18:01:34]   [10/108] Freestone Car Wash I LLC (no domain)
+[2026-03-10 18:01:34] INFO      Layer 3: SEC EDGAR -> Freestone Car Wash I LLC
+[18:01:35]   [10/108] ClearSky Capital (clearskycapital.com)
+[2026-03-10 18:01:35] INFO      Layer 1: Website scrape -> clearskycapital.com
+[2026-03-10 18:02:13] INFO      Layer 2: Domain intel -> clearskycapital.com
+[2026-03-10 18:02:22] INFO      Layer 3: SEC EDGAR -> ClearSky Capital
+[18:02:23]   [10/108] ClearWater Express Wash (clearwaterexpresswash.com)
+[2026-03-10 18:02:23] INFO      Layer 1: Website scrape -> clearwaterexpresswash.com
+[2026-03-10 18:02:37] INFO      Layer 2: Domain intel -> clearwaterexpresswash.com
+[2026-03-10 18:02:38] INFO      Layer 3: SEC EDGAR -> ClearWater Express Wash
+[18:02:40]   [10/108] Magnolia Wash Holdings (Oaktree Capital) (magnoliawash.com)
+[2026-03-10 18:02:40] INFO      Layer 1: Website scrape -> magnoliawash.com
+[2026-03-10 18:03:00] INFO      Layer 2: Domain intel -> magnoliawash.com
+[2026-03-10 18:03:01] INFO      Layer 3: SEC EDGAR -> Magnolia Wash Holdings (Oaktree Capital)
+[18:03:02]   [10/108] Club Car Wash (clubcarwash.com)
+[2026-03-10 18:03:02] INFO      Layer 1: Website scrape -> clubcarwash.com
+[2026-03-10 18:03:12] INFO      Layer 2: Domain intel -> clubcarwash.com
+[2026-03-10 18:03:13] INFO      Layer 3: SEC EDGAR -> Club Car Wash
+[18:03:14]   [10/108] Freeman Spogli & Co. (freemanspogli.com)
+[2026-03-10 18:03:14] INFO      Layer 1: Website scrape -> freemanspogli.com
+[2026-03-10 18:03:23] INFO      Layer 2: Domain intel -> freemanspogli.com
+[2026-03-10 18:03:25] INFO      Layer 3: SEC EDGAR -> Freeman Spogli & Co.
+[18:03:25]     Updated: ['contact_email', 'contact_phone', 'linkedin_url', 'updated_at']
+[18:03:26]   [11/108] PIC Car Wash 6, LLC (no domain)
+[2026-03-10 18:03:26] INFO      Layer 3: SEC EDGAR -> PIC Car Wash 6, LLC
+[18:03:30]   [11/108] Point72 Ventures (point72ventures.com)
+[2026-03-10 18:03:30] INFO      Layer 1: Website scrape -> point72ventures.com
+[2026-03-10 18:03:39] INFO      Layer 2: Domain intel -> point72ventures.com
+[2026-03-10 18:03:40] INFO      Layer 3: SEC EDGAR -> Point72 Ventures
+[18:03:42]   [11/108] Tsunami Express Car Wash (Point72) (tsunamiexpress.com)
+[2026-03-10 18:03:42] INFO      Layer 1: Website scrape -> tsunamiexpress.com
+[2026-03-10 18:03:54] INFO      Layer 2: Domain intel -> tsunamiexpress.com
+[2026-03-10 18:03:55] INFO      Layer 3: SEC EDGAR -> Tsunami Express Car Wash (Point72)
+[18:03:56]   [11/108] Rocket Carwash, LLC (rocketcarwash.com)
+[2026-03-10 18:03:56] INFO      Layer 1: Website scrape -> rocketcarwash.com
+[2026-03-10 18:04:20] INFO      Layer 2: Domain intel -> rocketcarwash.com
+[2026-03-10 18:04:20] INFO      Layer 3: SEC EDGAR -> Rocket Carwash, LLC
+[18:04:21]   [11/108] San Diego Sunshine Car Wash 1st Mortgage Investors LP (no domain)
+[2026-03-10 18:04:21] INFO      Layer 3: SEC EDGAR -> San Diego Sunshine Car Wash 1st Mortgage Investors LP
+[18:04:23]   [11/108] DJ Car Wash I LLC (no domain)
+[2026-03-10 18:04:23] INFO      Layer 3: SEC EDGAR -> DJ Car Wash I LLC
+[18:04:25]   [11/108] Coastal Links Car Wash Fund, LLC (no domain)
+[2026-03-10 18:04:25] INFO      Layer 3: SEC EDGAR -> Coastal Links Car Wash Fund, LLC
+[18:04:26]   [11/108] QC Car Wash Fund I, LLC (no domain)
+[2026-03-10 18:04:26] INFO      Layer 3: SEC EDGAR -> QC Car Wash Fund I, LLC
+[18:04:28]   [11/108] Spotless Brands - Okie Express (okieexpress.com)
+[2026-03-10 18:04:28] INFO      Layer 1: Website scrape -> okieexpress.com
+[2026-03-10 18:12:04] INFO      Layer 2: Domain intel -> okieexpress.com
+[2026-03-10 18:12:15] INFO      Layer 3: SEC EDGAR -> Spotless Brands - Okie Express
+[18:12:16]   [11/108] Mister Car Wash (Leonard Green & Partners) (mistercarwash.com)
+[2026-03-10 18:12:16] INFO      Layer 1: Website scrape -> mistercarwash.com
+[2026-03-10 18:12:40] INFO      Layer 2: Domain intel -> mistercarwash.com
+[2026-03-10 18:12:41] INFO      Layer 3: SEC EDGAR -> Mister Car Wash (Leonard Green & Partners)
+[18:12:41]     Updated: ['contact_email', 'contact_phone', 'updated_at']
+[18:12:42]   [12/108] Links Car Wash Opportunity Fund II, LLC (no domain)
+[2026-03-10 18:12:42] INFO      Layer 3: SEC EDGAR -> Links Car Wash Opportunity Fund II, LLC
+[18:12:44]   [12/108] Roark Capital (via Driven Brands) (roarkcapital.com)
+[2026-03-10 18:12:44] INFO      Layer 1: Website scrape -> roarkcapital.com
+[2026-03-10 18:12:55] INFO      Layer 2: Domain intel -> roarkcapital.com
+[2026-03-10 18:12:57] INFO      Layer 3: SEC EDGAR -> Roark Capital (via Driven Brands)
+[18:12:58]   [12/108] ModWash (Hutton Co.) (modwash.com)
+[2026-03-10 18:12:58] INFO      Layer 1: Website scrape -> modwash.com
+[2026-03-10 18:13:09] INFO      Layer 2: Domain intel -> modwash.com
+[2026-03-10 18:13:10] INFO      Layer 3: SEC EDGAR -> ModWash (Hutton Co.)
+[18:13:10]     Updated: ['contact_phone', 'updated_at']
+[18:13:11]   [13/108] Moo Moo / Flying Ace (Wildcat Capital platform) (moomoocarwash.com)
+[2026-03-10 18:13:11] INFO      Layer 1: Website scrape -> moomoocarwash.com
+[2026-03-10 18:13:39] INFO      Layer 2: Domain intel -> moomoocarwash.com
+[2026-03-10 18:13:43] INFO      Layer 3: SEC EDGAR -> Moo Moo / Flying Ace (Wildcat Capital platform)
+[18:13:43]     Updated: ['contact_phone', 'updated_at']
+[18:13:44]   [14/108] PIC CAR WASH 5, LLC (no domain)
+[2026-03-10 18:13:44] INFO      Layer 3: SEC EDGAR -> PIC CAR WASH 5, LLC
+[18:13:45]   [14/108] Links Car Wash Opportunity Fund, LLC (no domain)
+[2026-03-10 18:13:45] INFO      Layer 3: SEC EDGAR -> Links Car Wash Opportunity Fund, LLC
+[18:13:47]   [14/108] ZIPS Car Wash (Ch.11 restructuring) (zipscarwash.com)
+[2026-03-10 18:13:47] INFO      Layer 1: Website scrape -> zipscarwash.com
+[2026-03-10 18:13:57] INFO      Layer 2: Domain intel -> zipscarwash.com
+[2026-03-10 18:13:58] INFO      Layer 3: SEC EDGAR -> ZIPS Car Wash (Ch.11 restructuring)
+[18:13:58]     Updated: ['contact_phone', 'updated_at']
+[18:13:59]   [15/108] PIC CAR WASH 2, LLC (no domain)
+[2026-03-10 18:13:59] INFO      Layer 3: SEC EDGAR -> PIC CAR WASH 2, LLC
+[18:14:00]   [15/108] ISP RE Car Wash Fund II, LP (no domain)
+[2026-03-10 18:14:00] INFO      Layer 3: SEC EDGAR -> ISP RE Car Wash Fund II, LP
+[18:14:02]   [15/108] Dutchman Car Washes, LLC (no domain)
+[2026-03-10 18:14:02] INFO      Layer 3: SEC EDGAR -> Dutchman Car Washes, LLC
+[18:14:03]   [15/108] DJ Car Wash III LLC (no domain)
+[2026-03-10 18:14:03] INFO      Layer 3: SEC EDGAR -> DJ Car Wash III LLC
+[18:14:04]   [15/108] Tidal Wave Auto Spa (Golden Gate Capital) (tidalwaveautospa.com)
+[2026-03-10 18:14:04] INFO      Layer 1: Website scrape -> tidalwaveautospa.com
+[2026-03-10 18:14:14] INFO      Layer 2: Domain intel -> tidalwaveautospa.com
+[2026-03-10 18:14:16] INFO      Layer 3: SEC EDGAR -> Tidal Wave Auto Spa (Golden Gate Capital)
+[18:14:16]     Updated: ['contact_email', 'updated_at']
+[18:14:17]   [16/108] Swabbie's Express Car Wash Co LLC Series A (no domain)
+[2026-03-10 18:14:17] INFO      Layer 3: SEC EDGAR -> Swabbie's Express Car Wash Co LLC Series A
+[18:14:18]   [16/108] Flagship Carwash (flagshipcarwash.com)
+[2026-03-10 18:14:18] INFO      Layer 1: Website scrape -> flagshipcarwash.com
+[2026-03-10 18:14:28] INFO      Layer 2: Domain intel -> flagshipcarwash.com
+[2026-03-10 18:14:30] INFO      Layer 3: SEC EDGAR -> Flagship Carwash
+[18:14:31]   [16/108] HF SA Car Wash LLC (no domain)
+[2026-03-10 18:14:31] INFO      Layer 3: SEC EDGAR -> HF SA Car Wash LLC
+[18:14:32]   [16/108] PIC CAR WASH 3, LLC (no domain)
+[2026-03-10 18:14:32] INFO      Layer 3: SEC EDGAR -> PIC CAR WASH 3, LLC
+[18:14:34]   [16/108] Red Dog Equity (Pritzker family) (reddogequity.com)
+[2026-03-10 18:14:34] INFO      Layer 1: Website scrape -> reddogequity.com
+[2026-03-10 18:14:43] INFO      Layer 2: Domain intel -> reddogequity.com
+[2026-03-10 18:14:44] INFO      Layer 3: SEC EDGAR -> Red Dog Equity (Pritzker family)
+[18:14:46]   [16/108] Mid-South Car Wash Investors Fund II, LLC (no domain)
+[2026-03-10 18:14:46] INFO      Layer 3: SEC EDGAR -> Mid-South Car Wash Investors Fund II, LLC
+[18:14:47]   [16/108] Real Capital Car Wash Lower Fund, L.P. (no domain)
+[2026-03-10 18:14:47] INFO      Layer 3: SEC EDGAR -> Real Capital Car Wash Lower Fund, L.P.
+[18:14:48]   [16/108] 105 Market Street Car Wash LLC (no domain)
+[2026-03-10 18:14:48] INFO      Layer 3: SEC EDGAR -> 105 Market Street Car Wash LLC
+[18:14:50]   [16/108] Captain Car Wash Co., LLC Series C (no domain)
+[2026-03-10 18:14:50] INFO      Layer 3: SEC EDGAR -> Captain Car Wash Co., LLC Series C
+[18:14:51]   [16/108] Access Holdings (accessholdings.com)
+[2026-03-10 18:14:51] INFO      Layer 1: Website scrape -> accessholdings.com
+[2026-03-10 18:15:05] INFO      Layer 2: Domain intel -> accessholdings.com
+[2026-03-10 18:15:06] INFO      Layer 3: SEC EDGAR -> Access Holdings
+[18:15:07]   [16/108] Apex Equity Group QC Capital Car Wash Fund LLC (no domain)
+[2026-03-10 18:15:07] INFO      Layer 3: SEC EDGAR -> Apex Equity Group QC Capital Car Wash Fund LLC
+[18:15:08]   [16/108] Links Car Wash Orlando Investors, LLC (no domain)
+[2026-03-10 18:15:08] INFO      Layer 3: SEC EDGAR -> Links Car Wash Orlando Investors, LLC
+[18:15:09]   [16/108] Tidal Wave Express (regional chain) (tidalwaveautospa.com)
+[2026-03-10 18:15:09] INFO      Layer 1: Website scrape -> tidalwaveautospa.com
+[2026-03-10 18:15:18] INFO      Layer 2: Domain intel -> tidalwaveautospa.com
+[2026-03-10 18:15:18] INFO      Layer 3: SEC EDGAR -> Tidal Wave Express (regional chain)
+[18:15:18]     Updated: ['contact_email', 'contact_phone', 'updated_at']
+[18:15:19]   [17/108] Bashert QC Capital Car Wash II LLC (no domain)
+[2026-03-10 18:15:19] INFO      Layer 3: SEC EDGAR -> Bashert QC Capital Car Wash II LLC
+[18:15:21]   [17/108] Exp Eq QC Car Wash II LLC (no domain)
+[2026-03-10 18:15:21] INFO      Layer 3: SEC EDGAR -> Exp Eq QC Car Wash II LLC
+[18:15:22]   [17/108] Eagle Merchant Partners (eaglemerchantpartners.com)
+[2026-03-10 18:15:22] INFO      Layer 1: Website scrape -> eaglemerchantpartners.com
+[2026-03-10 18:15:32] INFO      Layer 2: Domain intel -> eaglemerchantpartners.com
+[2026-03-10 18:15:32] INFO      Layer 3: SEC EDGAR -> Eagle Merchant Partners
+[18:15:34]   [17/108] Oaktree Capital Management (oaktreecapital.com)
+[2026-03-10 18:15:34] INFO      Layer 1: Website scrape -> oaktreecapital.com
+[2026-03-10 18:15:45] INFO      Layer 2: Domain intel -> oaktreecapital.com
+[2026-03-10 18:15:46] INFO      Layer 3: SEC EDGAR -> Oaktree Capital Management
+[18:15:47]     Updated: ['contact_phone', 'updated_at']
+[18:15:48]   [18/108] BEAM CAR WASH FUND I LLC (beamcarwash.com)
+[2026-03-10 18:15:48] INFO      Layer 1: Website scrape -> beamcarwash.com
+[2026-03-10 18:15:57] INFO      Layer 2: Domain intel -> beamcarwash.com
+[2026-03-10 18:15:57] INFO      Layer 3: SEC EDGAR -> BEAM CAR WASH FUND I LLC
+[18:15:59]   [18/108] Team Car Wash Holdings LLC (no domain)
+[2026-03-10 18:15:59] INFO      Layer 3: SEC EDGAR -> Team Car Wash Holdings LLC
+[18:16:00]   [18/108] Upper90 Magic Car Wash Equity SPV LLC (no domain)
+[2026-03-10 18:16:00] INFO      Layer 3: SEC EDGAR -> Upper90 Magic Car Wash Equity SPV LLC
+[18:16:02]   [18/108] Amplify Car Wash Advisors (amplifycarwashadvisors.com)
+[2026-03-10 18:16:02] INFO      Layer 1: Website scrape -> amplifycarwashadvisors.com
+[2026-03-10 18:16:11] INFO      Layer 2: Domain intel -> amplifycarwashadvisors.com
+[2026-03-10 18:16:11] INFO      Layer 3: SEC EDGAR -> Amplify Car Wash Advisors
+[18:16:13]   [18/108] Warburg Pincus (warburgpincus.com)
+[2026-03-10 18:16:13] INFO      Layer 1: Website scrape -> warburgpincus.com
+[2026-03-10 18:16:24] INFO      Layer 2: Domain intel -> warburgpincus.com
+[2026-03-10 18:16:25] INFO      Layer 3: SEC EDGAR -> Warburg Pincus
+[18:16:26]     Updated: ['contact_phone', 'updated_at']
+[18:16:27] 
+Buyer enrichment: 18/108 updated

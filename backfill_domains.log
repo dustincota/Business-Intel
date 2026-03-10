@@ -1,0 +1,162 @@
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[18:17:47] Loading firms with websites...
+[18:17:47] Loading firms with websites...
+[18:17:57]   Loaded 10000 firms, 9996 with domains...
+[18:17:57]   Loaded 10000 firms, 9996 with domains...
+[18:18:00]   Loaded 20000 firms, 19990 with domains...
+[18:18:00]   Loaded 20000 firms, 19990 with domains...
+[18:18:03]   Loaded 30000 firms, 29981 with domains...
+[18:18:03]   Loaded 30000 firms, 29981 with domains...
+[18:18:05]   Loaded 40000 firms, 39977 with domains...
+[18:18:05]   Loaded 40000 firms, 39977 with domains...
+[18:18:07]   Loaded 50000 firms, 49971 with domains...
+[18:18:07]   Loaded 50000 firms, 49971 with domains...
+[18:18:08]   Loaded 60000 firms, 59962 with domains...
+[18:18:08]   Loaded 60000 firms, 59962 with domains...
+[18:18:10]   Loaded 70000 firms, 69954 with domains...
+[18:18:10]   Loaded 70000 firms, 69954 with domains...
+[18:18:13]   Loaded 80000 firms, 79947 with domains...
+[18:18:13]   Loaded 80000 firms, 79947 with domains...
+[18:18:15]   Loaded 90000 firms, 89941 with domains...
+[18:18:15]   Loaded 90000 firms, 89941 with domains...
+[18:18:18]   Loaded 100000 firms, 99938 with domains...
+[18:18:18]   Loaded 100000 firms, 99938 with domains...
+[18:18:20]   Loaded 110000 firms, 109933 with domains...
+[18:18:20]   Loaded 110000 firms, 109933 with domains...
+[18:18:23]   Loaded 120000 firms, 119922 with domains...
+[18:18:23]   Loaded 120000 firms, 119922 with domains...
+[18:18:26]   Loaded 130000 firms, 129906 with domains...
+[18:18:26]   Loaded 130000 firms, 129906 with domains...
+[18:18:28]   Loaded 140000 firms, 139900 with domains...
+[18:18:28]   Loaded 140000 firms, 139900 with domains...
+[18:18:31]   Loaded 150000 firms, 149894 with domains...
+[18:18:31]   Loaded 150000 firms, 149894 with domains...
+[18:18:34]   Loaded 160000 firms, 159891 with domains...
+[18:18:34]   Loaded 160000 firms, 159891 with domains...
+[18:18:38]   Loaded 170000 firms, 169887 with domains...
+[18:18:38]   Loaded 170000 firms, 169887 with domains...
+[18:18:40] Built lookup: 176629 firms with domains from 176749 rows
+[18:18:40] Built lookup: 176629 firms with domains from 176749 rows
+[18:18:40] Matching EDGAR people to firm domains...
+[18:18:40] Matching EDGAR people to firm domains...
+[18:18:46]   Scanned 1000: 65 matched this page (total: 65)
+[18:18:46]   Scanned 1000: 65 matched this page (total: 65)
+[18:19:10]   Scanned 2000: 301 matched this page (total: 366)
+[18:19:10]   Scanned 2000: 301 matched this page (total: 366)
+[18:19:18]   Scanned 3000: 79 matched this page (total: 445)
+[18:19:18]   Scanned 3000: 79 matched this page (total: 445)
+[18:19:41]   Scanned 4000: 291 matched this page (total: 736)
+[18:19:41]   Scanned 4000: 291 matched this page (total: 736)
+[18:20:32]   Scanned 5000: 662 matched this page (total: 1398)
+[18:20:32]   Scanned 5000: 662 matched this page (total: 1398)
+[18:21:23]   Scanned 6000: 668 matched this page (total: 2066)
+[18:21:23]   Scanned 6000: 668 matched this page (total: 2066)
+[18:22:13]   Scanned 7000: 666 matched this page (total: 2732)
+[18:22:13]   Scanned 7000: 666 matched this page (total: 2732)
+[18:23:04]   Scanned 8000: 649 matched this page (total: 3381)
+[18:23:04]   Scanned 8000: 649 matched this page (total: 3381)
+[18:23:59]   Scanned 9000: 688 matched this page (total: 4069)
+[18:23:59]   Scanned 9000: 688 matched this page (total: 4069)
+[18:24:54]   Scanned 10000: 658 matched this page (total: 4727)
+[18:24:54]   Scanned 10000: 658 matched this page (total: 4727)
+[18:25:48]   Scanned 11000: 665 matched this page (total: 5392)
+[18:25:48]   Scanned 11000: 665 matched this page (total: 5392)
+[18:26:41]   Scanned 12000: 647 matched this page (total: 6039)
+[18:26:41]   Scanned 12000: 647 matched this page (total: 6039)
+[18:27:34]   Scanned 13000: 668 matched this page (total: 6707)
+[18:27:34]   Scanned 13000: 668 matched this page (total: 6707)
+[18:28:28]   Scanned 14000: 666 matched this page (total: 7373)
+[18:28:28]   Scanned 14000: 666 matched this page (total: 7373)
+[18:29:22]   Scanned 15000: 683 matched this page (total: 8056)
+[18:29:22]   Scanned 15000: 683 matched this page (total: 8056)
+[18:30:14]   Scanned 16000: 694 matched this page (total: 8750)
+[18:30:14]   Scanned 16000: 694 matched this page (total: 8750)
+[18:31:12]   Scanned 17000: 676 matched this page (total: 9426)
+[18:31:12]   Scanned 17000: 676 matched this page (total: 9426)
+[18:32:08]   Scanned 18000: 673 matched this page (total: 10099)
+[18:32:08]   Scanned 18000: 673 matched this page (total: 10099)
+[18:33:00]   Scanned 19000: 664 matched this page (total: 10763)
+[18:33:00]   Scanned 19000: 664 matched this page (total: 10763)
+[18:33:59]   Scanned 20000: 683 matched this page (total: 11446)
+[18:33:59]   Scanned 20000: 683 matched this page (total: 11446)
+[18:35:00]   Scanned 21000: 679 matched this page (total: 12125)
+[18:35:00]   Scanned 21000: 679 matched this page (total: 12125)
+[18:35:55]   Scanned 22000: 665 matched this page (total: 12790)
+[18:35:55]   Scanned 22000: 665 matched this page (total: 12790)
+[18:36:47]   Scanned 23000: 654 matched this page (total: 13444)
+[18:36:47]   Scanned 23000: 654 matched this page (total: 13444)
+[18:37:41]   Scanned 24000: 676 matched this page (total: 14120)
+[18:37:41]   Scanned 24000: 676 matched this page (total: 14120)
+[18:38:33]   Scanned 25000: 634 matched this page (total: 14754)
+[18:38:33]   Scanned 25000: 634 matched this page (total: 14754)
+[18:39:24]   Scanned 26000: 656 matched this page (total: 15410)
+[18:39:24]   Scanned 26000: 656 matched this page (total: 15410)
+[18:40:16]   Scanned 27000: 644 matched this page (total: 16054)
+[18:40:16]   Scanned 27000: 644 matched this page (total: 16054)
+[18:41:12]   Scanned 28000: 651 matched this page (total: 16705)
+[18:41:12]   Scanned 28000: 651 matched this page (total: 16705)
+[18:42:06]   Scanned 29000: 656 matched this page (total: 17361)
+[18:42:06]   Scanned 29000: 656 matched this page (total: 17361)
+[18:43:04]   Scanned 30000: 684 matched this page (total: 18045)
+[18:43:04]   Scanned 30000: 684 matched this page (total: 18045)
+[18:44:05]   Scanned 31000: 695 matched this page (total: 18740)
+[18:44:05]   Scanned 31000: 695 matched this page (total: 18740)
+[18:45:04]   Scanned 32000: 649 matched this page (total: 19389)
+[18:45:04]   Scanned 32000: 649 matched this page (total: 19389)
+[18:45:56]   Scanned 33000: 635 matched this page (total: 20024)
+[18:45:56]   Scanned 33000: 635 matched this page (total: 20024)
+[18:46:51]   Scanned 34000: 666 matched this page (total: 20690)
+[18:46:51]   Scanned 34000: 666 matched this page (total: 20690)
+[18:47:47]   Scanned 35000: 663 matched this page (total: 21353)
+[18:47:47]   Scanned 35000: 663 matched this page (total: 21353)
+[18:48:46]   Scanned 36000: 685 matched this page (total: 22038)
+[18:48:46]   Scanned 36000: 685 matched this page (total: 22038)
+[18:49:42]   Scanned 37000: 650 matched this page (total: 22688)
+[18:49:42]   Scanned 37000: 650 matched this page (total: 22688)
+[18:50:35]   Scanned 38000: 653 matched this page (total: 23341)
+[18:50:35]   Scanned 38000: 653 matched this page (total: 23341)
+[18:51:27]   Scanned 39000: 664 matched this page (total: 24005)
+[18:51:27]   Scanned 39000: 664 matched this page (total: 24005)
+[18:52:23]   Scanned 40000: 686 matched this page (total: 24691)
+[18:52:23]   Scanned 40000: 686 matched this page (total: 24691)
+[18:53:23]   Scanned 41000: 678 matched this page (total: 25369)
+[18:53:23]   Scanned 41000: 678 matched this page (total: 25369)
+[18:54:21]   Scanned 42000: 654 matched this page (total: 26023)
+[18:54:21]   Scanned 42000: 654 matched this page (total: 26023)
+[18:55:20]   Scanned 43000: 663 matched this page (total: 26686)
+[18:55:20]   Scanned 43000: 663 matched this page (total: 26686)
+[18:56:15]   Scanned 44000: 674 matched this page (total: 27360)
+[18:56:15]   Scanned 44000: 674 matched this page (total: 27360)
+[18:57:10]   Scanned 45000: 657 matched this page (total: 28017)
+[18:57:10]   Scanned 45000: 657 matched this page (total: 28017)
+[18:58:05]   Scanned 46000: 649 matched this page (total: 28666)
+[18:58:05]   Scanned 46000: 649 matched this page (total: 28666)
+[18:58:59]   Scanned 47000: 649 matched this page (total: 29315)
+[18:58:59]   Scanned 47000: 649 matched this page (total: 29315)
+[18:59:56]   Scanned 48000: 657 matched this page (total: 29972)
+[18:59:56]   Scanned 48000: 657 matched this page (total: 29972)
+[19:00:51]   Scanned 49000: 637 matched this page (total: 30609)
+[19:00:51]   Scanned 49000: 637 matched this page (total: 30609)
+[19:01:46]   Scanned 50000: 670 matched this page (total: 31279)
+[19:01:46]   Scanned 50000: 670 matched this page (total: 31279)
+[19:02:39]   Scanned 51000: 676 matched this page (total: 31955)
+[19:02:39]   Scanned 51000: 676 matched this page (total: 31955)
+[19:03:34]   Scanned 52000: 676 matched this page (total: 32631)
+[19:03:34]   Scanned 52000: 676 matched this page (total: 32631)
+[19:04:26]   Scanned 53000: 660 matched this page (total: 33291)
+[19:04:26]   Scanned 53000: 660 matched this page (total: 33291)
+[19:05:18]   Scanned 54000: 659 matched this page (total: 33950)
+[19:05:18]   Scanned 54000: 659 matched this page (total: 33950)
+[19:06:06]   Scanned 55000: 680 matched this page (total: 34630)
+[19:06:06]   Scanned 55000: 680 matched this page (total: 34630)
+[19:06:59]   Scanned 56000: 656 matched this page (total: 35286)
+[19:06:59]   Scanned 56000: 656 matched this page (total: 35286)
+[19:07:51]   Scanned 57000: 638 matched this page (total: 35924)
+[19:07:51]   Scanned 57000: 638 matched this page (total: 35924)
+[19:08:44]   Scanned 58000: 670 matched this page (total: 36594)
+[19:08:44]   Scanned 58000: 670 matched this page (total: 36594)
+[19:09:38]   Scanned 59000: 654 matched this page (total: 37248)
+[19:09:38]   Scanned 59000: 654 matched this page (total: 37248)
+[19:12:00]   Scanned 60000: 690 matched this page (total: 37938)
+[19:12:00]   Scanned 60000: 690 matched this page (total: 37938)

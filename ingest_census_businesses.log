@@ -1,0 +1,70 @@
+[13:01:58] ======================================================================
+[13:01:58] CENSUS BUSINESS PATTERNS INGESTION
+[13:01:58] Data year: 2023
+[13:01:58] NAICS codes mapped: 231
+[13:01:58] Business types: 34
+[13:01:58] ======================================================================
+[13:01:58] 
+--- Phase 1: Downloading Census data files ---
+[13:01:58]   Downloading: https://www2.census.gov/programs-surveys/cbp/datasets/2023/zbp23totals.zip
+[13:01:59]   Downloaded: zbp23totals.zip (0.8 MB)
+[13:01:59] 
+--- Phase 2: Loading ZIP totals for geography enrichment ---
+[13:01:59]   Extracted: zbp23totals.txt
+[13:01:59] Loading ZBP totals: /Users/dustincota/Documents/carwash-scraper/census_data/zbp23totals.txt
+[13:01:59]   Loaded 0 ZIP codes from totals file
+[13:01:59] 
+--- Phase 3: Ingesting ZBP detail (ZIP x NAICS) ---
+[13:01:59]   Downloading: https://www2.census.gov/programs-surveys/cbp/datasets/2023/zbp23detail.zip
+[13:02:00]     33% (5 MB)
+[13:02:00]     67% (10 MB)
+[13:02:00]   Downloaded: zbp23detail.zip (15.0 MB)
+[13:02:00]   Extracted: zbp23detail.txt
+[13:02:00] Parsing ZBP detail file: /Users/dustincota/Documents/carwash-scraper/census_data/zbp23detail.txt
+[13:02:00]   Resuming from row 0
+[13:02:09]   Parsed 2974116 total rows, yielded 0, skipped 2974116
+[13:02:09] ZBP Detail ingestion complete: inserted=0, errors=0
+[13:02:09] 
+--- Phase 4: Ingesting CBP county data ---
+[13:02:09]   Downloading: https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23co.zip
+[13:02:23]     41% (5 MB)
+[13:02:25]     81% (10 MB)
+[13:02:27]   Downloaded: cbp23co.zip (12.3 MB)
+[13:02:27]   Extracted: cbp23co.txt
+[13:02:27] Parsing CBP county file: /Users/dustincota/Documents/carwash-scraper/census_data/cbp23co.txt
+[13:02:27]   Resuming from row 0
+[13:02:29] CBP County ingestion complete: inserted=0, errors=0
+[13:02:29] 
+--- Phase 5: Car wash targeted Census API pull ---
+[13:02:29] Pulling car wash (NAICS 811192) data from Census API...
+[13:02:38]   Got 2768 ZIP-level results for car washes
+[13:03:35]   Inserted car wash Census data for ZIP codes
+[13:03:35] 
+--- Phase 6: Census API state-level summaries ---
+[13:03:35]   Querying Census API for NAICS 811192 (car_wash)...
+[13:03:37]     NAICS 811192: 19895 total establishments across 55 states
+[13:03:37]   Querying Census API for NAICS 722511 (restaurant)...
+[13:03:41]     NAICS 722511: 260866 total establishments across 56 states
+[13:03:41]   Querying Census API for NAICS 722513 (restaurant)...
+[13:03:46]     NAICS 722513: 272562 total establishments across 56 states
+[13:03:46]   Querying Census API for NAICS 811111 (auto_repair)...
+[13:03:51]     NAICS 811111: 85291 total establishments across 56 states
+[13:03:51]   Querying Census API for NAICS 447110 (gas_station)...
+[13:03:54]     NAICS 447110: 96994 total establishments across 56 states
+[13:03:54]   Querying Census API for NAICS 812310 (laundromat)...
+[13:03:58]     NAICS 812310: 10954 total establishments across 56 states
+[13:03:58]   Querying Census API for NAICS 713940 (gym)...
+[13:04:02]     NAICS 713940: 41660 total establishments across 53 states
+[13:04:02]   Querying Census API for NAICS 621210 (medical)...
+[13:04:07]     NAICS 621210: 136607 total establishments across 55 states
+[13:04:07]   Querying Census API for NAICS 561730 (landscaping)...
+[13:04:11]     NAICS 561730: 118225 total establishments across 56 states
+[13:04:11]   Querying Census API for NAICS 238220 (trades)...
+[13:04:15]     NAICS 238220: 111607 total establishments across 56 states
+[13:04:15] 
+======================================================================
+[13:04:15] CENSUS INGESTION COMPLETE
+[13:04:15] ZBP Detail: 0 records inserted
+[13:04:15] CBP County: 0 records inserted
+[13:04:15] Total errors: 0
+[13:04:15] ======================================================================

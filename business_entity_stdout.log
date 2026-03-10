@@ -1,0 +1,20 @@
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:53:16] ============================================================
+[23:53:16] BUSINESS ENTITY ENRICHMENT (OpenCorporates)
+[23:53:16] ============================================================
+[23:53:16]   Batch of 50...
+[23:53:52]   Progress: 0 enriched | 24 not found | 1 skipped | 24 API calls
+/Users/dustincota/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[23:54:05] ============================================================
+[23:54:05] BUSINESS ENTITY ENRICHMENT (OpenCorporates)
+[23:54:05] ============================================================
+[23:54:05]   Batch of 50...
+[23:54:28]   Progress: 0 enriched | 49 not found | 1 skipped | 49 API calls
+[23:54:28]   Batch of 50...
+[23:54:41]   Progress: 0 enriched | 49 not found | 1 skipped | 49 API calls
+[23:55:03]   Progress: 0 enriched | 73 not found | 2 skipped | 73 API calls
+[23:55:15]   Progress: 0 enriched | 73 not found | 2 skipped | 73 API calls
+[23:55:16]   Batch of 50...
+[23:55:36]   Batch of 50...
