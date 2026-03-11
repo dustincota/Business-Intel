@@ -345,17 +345,44 @@ def scrape_website(url, timeout=10):
         'learn more', 'get started', 'sign up', 'log in', 'about us',
         'our team', 'the team', 'and businesses', 'the company',
         'the owner', 'your name', 'first last', 'full name',
+        'always available', 'yard care', 'lawn care', 'tree service',
+        'wa home', 'associations retirement', 'home page', 'main page',
+        'privacy policy', 'terms conditions', 'all rights', 'read our',
+        'customer service', 'free estimate', 'free quote', 'get quote',
+        'schedule today', 'call today', 'request quote',
     }
+    # Also reject names containing common non-name words
+    GARBAGE_WORDS = {
+        'service', 'services', 'lawn', 'tree', 'landscape', 'landscaping',
+        'care', 'home', 'page', 'available', 'retirement', 'association',
+        'policy', 'rights', 'reserved', 'estimate', 'quote', 'schedule',
+        'maintenance', 'removal', 'trimming', 'mowing', 'irrigation',
+        'property', 'properties', 'management', 'solutions', 'group',
+        'llc', 'inc', 'corp', 'ltd', 'company',
+    }
+    def _is_valid_name(name):
+        """Check if a scraped name looks like a real person name."""
+        if not name or len(name) < 5 or len(name) > 40:
+            return False
+        if name.isupper():
+            return False
+        if name.lower() in GARBAGE_NAMES:
+            return False
+        words = name.split()
+        if len(words) < 2:
+            return False
+        if not all(w[0].isupper() for w in words if w):
+            return False
+        # Reject if any word is a common non-name word
+        if any(w.lower() in GARBAGE_WORDS for w in words):
+            return False
+        return True
+
     for pattern in OWNER_PATTERNS:
         m = pattern.search(text)
         if m:
             name = m.group(1).strip()
-            # Validation: 2+ words, not all caps, not too long, not garbage
-            if (4 < len(name) < 40
-                    and not name.isupper()
-                    and name.lower() not in GARBAGE_NAMES
-                    and len(name.split()) >= 2
-                    and all(w[0].isupper() for w in name.split() if w)):
+            if _is_valid_name(name):
                 result["owner_name"] = name
                 break
 
@@ -406,11 +433,7 @@ def scrape_website(url, timeout=10):
                     m = pattern.search(about_text)
                     if m:
                         name = m.group(1).strip()
-                        if (4 < len(name) < 40
-                                and not name.isupper()
-                                and name.lower() not in GARBAGE_NAMES
-                                and len(name.split()) >= 2
-                                and all(w[0].isupper() for w in name.split() if w)):
+                        if _is_valid_name(name):
                             result["owner_name"] = name
                             break
                 # Also check for more emails on about page
