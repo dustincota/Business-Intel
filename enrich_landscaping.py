@@ -109,6 +109,10 @@ log = setup_logging()
 class Progress:
     def __init__(self):
         self.data = self._load()
+        # Build O(1) lookup sets from the lists
+        self._sets = {}
+        for key in ("pass1_done", "pass2_done", "pass3_done", "pass4_done"):
+            self._sets[key] = set(self.data.get(key, []))
 
     def _load(self):
         if PROGRESS_FILE.exists():
@@ -134,13 +138,15 @@ class Progress:
         os.replace(tmp, str(PROGRESS_FILE))
 
     def is_done(self, pass_name, business_id):
-        return business_id in self.data.get(f"{pass_name}_done", [])
+        key = f"{pass_name}_done"
+        return business_id in self._sets.get(key, set())
 
     def mark_done(self, pass_name, business_id):
         key = f"{pass_name}_done"
         if key not in self.data:
             self.data[key] = []
         self.data[key].append(business_id)
+        self._sets.setdefault(key, set()).add(business_id)
 
     def inc(self, stat, n=1):
         self.data["stats"][stat] = self.data["stats"].get(stat, 0) + n
@@ -578,7 +584,7 @@ def _validate_one(biz):
     domain = extract_domain(website)
 
     if not domain or len(domain) < 4:
-        return bid, "skip", {}
+        return bid, "skip", {"enrichment_status": "dead_domain", "notes": "Invalid domain"}
 
     valid = validate_domain_fast(domain)
     if valid:
@@ -609,7 +615,7 @@ def run_pass1(db, progress, limit=None, workers=15):
     while True:
         businesses = db.fetch(
             "businesses",
-            filters="business_type=eq.landscaping&website=not.is.null&enrichment_status=eq.raw&data_source=eq.overture",
+            filters="business_type=eq.landscaping&website=not.is.null&website=neq.&enrichment_status=eq.raw",
             select="business_id,name,website",
             limit=page_size,
             offset=offset,
@@ -654,7 +660,9 @@ def run_pass1(db, progress, limit=None, workers=15):
                     progress.inc("domains_dead")
 
                 if updates:
-                    db.update("businesses", "business_id", bid, updates)
+                    ok = db.update("businesses", "business_id", bid, updates)
+                    if not ok:
+                        continue  # Don't mark done if DB update failed
 
                 progress.mark_done("pass1", bid)
                 total_processed += 1
@@ -696,7 +704,7 @@ def run_pass2(db, progress, limit=None):
     while True:
         businesses = db.fetch(
             "businesses",
-            filters="business_type=eq.landscaping&enrichment_status=eq.validated&data_source=eq.overture",
+            filters="business_type=eq.landscaping&enrichment_status=eq.validated",
             select="business_id,name,website,email,phone,owner_name",
             limit=page_size,
             offset=offset,
@@ -748,7 +756,9 @@ def run_pass2(db, progress, limit=None):
                 scraped_json = json.dumps(details, separators=(",", ":"))
                 updates["notes"] = (existing_notes + "\n" if existing_notes else "") + f"[scraped]{scraped_json}"
 
-            db.update("businesses", "business_id", bid, updates)
+            ok = db.update("businesses", "business_id", bid, updates)
+            if not ok:
+                continue  # Don't mark done if DB update failed
             progress.mark_done("pass2", bid)
             progress.inc("websites_scraped")
             if scraped.get("emails"):
