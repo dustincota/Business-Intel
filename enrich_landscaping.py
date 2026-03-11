@@ -167,12 +167,27 @@ class DB:
         })
 
     def fetch(self, table, filters="", select="*", order="created_at.asc",
-              limit=1000, offset=0):
+              limit=1000, offset=0, retries=3):
         url = f"{self.url}/rest/v1/{table}?select={select}&order={order}&limit={limit}&offset={offset}"
         if filters:
             url += f"&{filters}"
-        r = self.session.get(url, timeout=30)
-        return r.json() if r.status_code == 200 else []
+        for attempt in range(retries):
+            try:
+                r = self.session.get(url, timeout=30)
+                if r.status_code == 200:
+                    return r.json()
+                if r.status_code == 429 and attempt < retries - 1:
+                    time.sleep(30 * (attempt + 1))
+                    continue
+                if r.status_code >= 500 and attempt < retries - 1:
+                    time.sleep(5 * (attempt + 1))
+                    continue
+                return []
+            except Exception:
+                if attempt < retries - 1:
+                    time.sleep(5)
+                continue
+        return []
 
     def update(self, table, pk_col, pk_val, updates, retries=2):
         url = f"{self.url}/rest/v1/{table}?{pk_col}=eq.{pk_val}"
@@ -805,7 +820,7 @@ def run_pass3(db, progress, limit=None):
         # Score all landscaping from overture (validated, scraped, or raw with phone)
         businesses = db.fetch(
             "businesses",
-            filters="business_type=eq.landscaping&data_source=eq.overture&acquisition_score=is.null",
+            filters="business_type=eq.landscaping&acquisition_score=is.null",
             select="business_id,name,website,phone,email,owner_name,sub_type,employee_count,enrichment_status,notes",
             limit=page_size,
             offset=offset,
@@ -845,15 +860,22 @@ def run_pass3(db, progress, limit=None):
                 "estimated_revenue": rev_mid,
             }
 
-            # Set enrichment_status if still raw
-            if biz.get("enrichment_status") == "raw":
+            # Set enrichment_status to scored (for raw, validated, or scraped)
+            if biz.get("enrichment_status") in ("raw", "validated", "scraped"):
                 updates["enrichment_status"] = "scored"
 
-            db.update("businesses", "business_id", bid, updates)
+            ok = db.update("businesses", "business_id", bid, updates)
+            if not ok:
+                time.sleep(2)  # Back off on failure
+                continue
             progress.mark_done("pass3", bid)
             progress.inc("scored")
             tier_counts[tier] += 1
             total += 1
+
+            # Small delay to prevent rate limiting
+            if total % 100 == 0:
+                time.sleep(1)
 
             if total % 500 == 0:
                 log.info(f"  Progress: {total} scored — A:{tier_counts['A']} B:{tier_counts['B']} C:{tier_counts['C']} D:{tier_counts['D']}")
