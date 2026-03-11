@@ -601,7 +601,11 @@ def run_pass1(db, progress, limit=None, workers=15):
             todo = todo[:remaining]
 
         if not todo:
+            # All fetched records already in progress but still raw in DB (DB update may have failed)
+            # Skip these and keep going, but don't loop forever
             offset += page_size
+            if offset > 100000:
+                break
             continue
 
         log.info(f"  Fetched {len(businesses)}, processing {len(todo)} (offset {offset})")
@@ -636,7 +640,8 @@ def run_pass1(db, progress, limit=None, workers=15):
             log.info(f"  Progress: {total_processed} done ({total_valid} valid, {total_dead} dead, {total_skip} skip)")
             progress.save()
 
-        offset += page_size
+        # Don't increment offset — processed records drop out of the raw filter
+        # offset stays 0 so we always get the next unprocessed batch
         if limit and total_processed >= limit:
             break
 
@@ -739,7 +744,7 @@ def run_pass2(db, progress, limit=None):
             if limit and total >= limit:
                 break
 
-        offset += page_size
+        # Don't increment offset — scraped records change status and drop out of filter
         if limit and total >= limit:
             break
 
@@ -824,7 +829,7 @@ def run_pass3(db, progress, limit=None):
             if limit and total >= limit:
                 break
 
-        offset += page_size
+        # Don't increment offset — scored records get acquisition_score set and drop out of filter
         if limit and total >= limit:
             break
 
